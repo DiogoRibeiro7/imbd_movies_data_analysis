@@ -53,7 +53,7 @@ def extract_minutes(time_str: str) -> int:
     if isinstance(time_str, int):
         return int(time_str)
     # Split the string by space and take the first part
-    minutes_str = time_str.split(" ")[0]
+    minutes_str = time_str.replace(",", "").split(" ")[0]
 
     # Convert the string to an integer
     minutes_int = int(minutes_str)
@@ -71,6 +71,8 @@ def extract_first_category(category_str: str) -> str:
     Returns:
     str: The first category, e.g., "Action".
     """
+    if isinstance(category_str, float) or isinstance(category_str, int):
+        category_str = str(category_str)
     # Split the string by comma and take the first part
     first_category = category_str.split(",")[0].strip()
 
