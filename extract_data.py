@@ -1,8 +1,7 @@
 from typing import List, Dict, Optional
 import requests
 from bs4 import BeautifulSoup
-import sys
-import pandas as pd
+
 
 def fetch_all_imdb_movies(base_url: str) -> List[Dict[str, Optional[str]]]:
     """
@@ -79,19 +78,7 @@ def fetch_all_imdb_movies(base_url: str) -> List[Dict[str, Optional[str]]]:
         
         # Update the start index for the next page (IMDb usually shows 50 movies per page)
         start_index += 50
+        if start_index >= 201:
+            return movies
     
     return movies
-
-# Test the function
-if __name__ == "__main__":
-    for year in range(2015, 2023, 1):
-        print(year)
-        base_url = f"https://www.imdb.com/search/title/?release_date={year}-01-01,{year}-12-31&sort=num_votes,desc"
-        movies = fetch_all_imdb_movies(base_url)
-    movies = pd.DataFrame(movies)
-    movies.to_csv("movies.csv")
-    size_in_bytes = sys.getsizeof(movies)
-    size_in_kilobytes = size_in_bytes / 1024  # Convert to KB
-
-    print(f"Size of movies list in bytes: {size_in_bytes}")
-    print(f"Size of movies list in KB: {size_in_kilobytes}")
