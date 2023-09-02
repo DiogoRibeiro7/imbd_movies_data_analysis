@@ -4,19 +4,20 @@ import requests
 from bs4 import BeautifulSoup
 
 
+from bs4 import BeautifulSoup
+import requests
+from typing import List, Dict, Optional
+
 def fetch_all_imdb_movies(base_url: str, end_index: int = 0) -> List[Dict[str, Optional[str]]]:
     """
     Fetches all movies from IMDb based on the given URL until the last page is reached.
 
     Parameters:
     - base_url (str): The IMDb URL to scrape.
+    - end_index (int): The index at which to stop scraping (0 for no limit).
 
     Returns:
     - List[Dict[str, Optional[str]]]: A list of dictionaries containing movie details.
-
-    Example:
-    >>> fetch_all_imdb_movies("https://www.imdb.com/search/title/?release_date=2022-01-01,2022-12-31&sort=num_votes,desc")
-    [{'title': 'Movie1', 'audience_rating': '8.5', 'genre': 'Action', 'critic_rating': '67', 'runtime': '120 min', 'votes': '200K'}, ...]
     """
     # Initialize an empty list to store the movie details
     movies = []
@@ -29,16 +30,14 @@ def fetch_all_imdb_movies(base_url: str, end_index: int = 0) -> List[Dict[str, O
         # Fetch the IMDb page content
         response = requests.get(url)
         if response.status_code != 200:
-            print(
-                f"Failed to fetch the IMDb page starting at index {start_index}.")
+            print(f"Failed to fetch the IMDb page starting at index {start_index}.")
             break
 
         # Parse the HTML content using BeautifulSoup
         soup = BeautifulSoup(response.text, 'html.parser')
 
         # Find the movie containers
-        movie_containers = soup.find_all(
-            'div', class_='lister-item mode-advanced')
+        movie_containers = soup.find_all('div', class_='lister-item mode-advanced')
         if not movie_containers:
             print("No more movies found. Exiting.")
             break
@@ -60,8 +59,7 @@ def fetch_all_imdb_movies(base_url: str, end_index: int = 0) -> List[Dict[str, O
 
             # Extract critic rating (Metascore)
             metascore = container.find('span', class_='metascore')
-            movie_details['critic_rating'] = metascore.text.strip(
-            ) if metascore else 'N/A'
+            movie_details['critic_rating'] = metascore.text.strip() if metascore else 'N/A'
 
             # Extract runtime
             runtime = container.find('span', class_='runtime')
@@ -70,6 +68,10 @@ def fetch_all_imdb_movies(base_url: str, end_index: int = 0) -> List[Dict[str, O
             # Extract votes
             votes = container.find('span', attrs={'name': 'nv'})
             movie_details['votes'] = votes['data-value'] if votes else 'N/A'
+
+            # Extract Gross revenue
+            gross = container.find('span', {'name': 'nv'}).find_next_sibling('span', {'name': 'nv'})
+            movie_details['gross'] = gross['data-value'] if gross else 'N/A'
 
             # Append the movie details to the list
             movies.append(movie_details)
@@ -82,7 +84,7 @@ def fetch_all_imdb_movies(base_url: str, end_index: int = 0) -> List[Dict[str, O
 
         # Update the start index for the next page (IMDb usually shows 50 movies per page)
         start_index += 50
-        if end_index!=0 and end_index<=start_index:
+        if end_index != 0 and end_index <= start_index:
             return movies
 
     return movies

@@ -77,12 +77,15 @@ def extract_first_category(category_str: str) -> str:
     return first_category
 
 
+
+from typing import Union
+
 def convert_gross_to_numeric(gross: str) -> Union[int, float]:
     """
     Convert a string containing a gross amount to its numerical equivalent in dollars.
 
     Parameters:
-    - gross (str): The string to convert, e.g., '$16.46M', '$0.01M', '5,581', '13'.
+    - gross (str): The string to convert, e.g., '$16.46M', '$0.01M', '5,581', '13', '26,871'.
 
     Returns:
     - Union[int, float]: The numerical equivalent of the gross amount in dollars.
@@ -96,6 +99,8 @@ def convert_gross_to_numeric(gross: str) -> Union[int, float]:
     5581000
     >>> convert_gross_to_numeric('13')
     13000000
+    >>> convert_gross_to_numeric('26,871')
+    26871000
     """
     if isinstance(gross, float):
         return gross
@@ -106,8 +111,8 @@ def convert_gross_to_numeric(gross: str) -> Union[int, float]:
 
     if gross[-1] == 'M':
         return int(float(gross[:-1]) * 1e6)
-    elif len(gross.split(',')) > 1:
-        return int(gross.replace(',', '')) * 1000
+    elif ',' in gross:
+        return int(gross) * 1000
     else:
         try:
             return int(gross) * 1e6
@@ -116,3 +121,5 @@ def convert_gross_to_numeric(gross: str) -> Union[int, float]:
                 return float(gross)
             except ValueError:
                 return 0  # or None, depending on how you want to handle invalid cases
+
+
