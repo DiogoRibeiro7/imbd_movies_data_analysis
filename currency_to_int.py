@@ -85,7 +85,7 @@ def convert_gross_to_numeric(gross: str) -> Union[int, float]:
     Convert a string containing a gross amount to its numerical equivalent in dollars.
 
     Parameters:
-    - gross (str): The string to convert, e.g., '$16.46M', '$0.01M', '5,581', '13', '26,871'.
+    - gross (str): The string to convert, e.g., '$16.46M', '$0.01M', '5,581', '13', '32,131,830'.
 
     Returns:
     - Union[int, float]: The numerical equivalent of the gross amount in dollars.
@@ -96,30 +96,41 @@ def convert_gross_to_numeric(gross: str) -> Union[int, float]:
     >>> convert_gross_to_numeric('$0.01M')
     10000
     >>> convert_gross_to_numeric('5,581')
-    5581000
+    5581
     >>> convert_gross_to_numeric('13')
-    13000000
-    >>> convert_gross_to_numeric('26,871')
-    26871000
+    13
+    >>> convert_gross_to_numeric('32,131,830')
+    32131830
     """
-    if isinstance(gross, float):
-        return gross
-    if isinstance(gross, int):
+    if isinstance(gross, float) or isinstance(gross, int):
         return gross
     # Remove the dollar sign and commas
     gross = gross.replace('$', '').replace(',', '')
-
+    
     if gross[-1] == 'M':
         return int(float(gross[:-1]) * 1e6)
-    elif ',' in gross:
-        return int(gross) * 1000
     else:
         try:
-            return int(gross) * 1e6
+            return int(gross)
         except ValueError:
             try:
                 return float(gross)
             except ValueError:
                 return 0  # or None, depending on how you want to handle invalid cases
+
+# Test cases
+test_results = {
+    '$16.46M': convert_gross_to_numeric('$16.46M'),  # Should return 16460000
+    '5,581': convert_gross_to_numeric('5,581'),    # Should return 5581
+    '13': convert_gross_to_numeric('13'),       # Should return 13
+    '32,131,830': convert_gross_to_numeric('32,131,830')  # Should return 32131830
+}
+
+test_results
+
+
+
+
+
 
 
