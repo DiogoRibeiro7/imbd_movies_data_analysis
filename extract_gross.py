@@ -34,10 +34,10 @@ def fetch_box_office_data(url: str):
         cells = row.find_all('td')
         movie_data = {
             'Rank': cells[0].text.strip(),
-            'Title': cells[1].text.strip(),
+            'title': cells[1].text.strip(),
             'Worldwide': cells[2].text.strip(),
             'Domestic': cells[3].text.strip(),
-            'Overseas': cells[4].text.strip()
+            'Foreign': cells[5].text.strip()
         }
         data.append(movie_data)
         
@@ -51,6 +51,6 @@ if __name__ == "__main__":
         url = f"https://www.boxofficemojo.com/year/world/{year}/"
         data = fetch_box_office_data(url)
     box_office = pd.DataFrame(data)
-    box_office.to_csv("box_office.csv")
+    box_office.to_csv("box_office.csv", index=False)
     size_in_bytes = sys.getsizeof(box_office)
     size_in_kilobytes = size_in_bytes / 1024  # Convert to KB

@@ -1,201 +1,4601 @@
-,Rank,Title,Worldwide,Domestic,Overseas
-0,1,Avatar: The Way of Water,"$2,320,250,281","$684,075,767",29.5%
-1,2,Top Gun: Maverick,"$1,495,696,292","$718,732,821",48.1%
-2,3,Jurassic World Dominion,"$1,001,978,080","$376,851,080",37.6%
-3,4,Doctor Strange in the Multiverse of Madness,"$955,775,804","$411,331,607",43%
-4,5,Minions: The Rise of Gru,"$939,628,210","$369,695,210",39.3%
-5,6,Black Panther: Wakanda Forever,"$859,208,836","$453,829,060",52.8%
-6,7,The Batman,"$770,962,583","$369,345,583",47.9%
-7,8,Thor: Love and Thunder,"$760,928,081","$343,256,830",45.1%
-8,9,Water Gate Bridge,"$626,571,697","$117,294",<0.1%
-9,10,Puss in Boots: The Last Wish,"$481,040,100","$185,535,345",38.6%
-10,11,Moon Man,"$460,237,662",-,-
-11,12,Fantastic Beasts: The Secrets of Dumbledore,"$407,150,844","$95,850,844",23.5%
-12,13,Uncharted,"$407,141,258","$148,648,820",36.5%
-13,14,Sonic the Hedgehog 2,"$405,421,518","$190,872,904",47.1%
-14,15,Black Adam,"$393,252,111","$168,152,111",42.8%
-15,16,Elvis,"$287,740,048","$151,040,048",52.5%
-16,17,The Bad Guys,"$250,162,278","$97,233,630",38.9%
-17,18,Bullet Train,"$239,268,602","$103,368,602",43.2%
-18,19,Lightyear,"$226,425,420","$118,307,188",52.2%
-19,20,Smile,"$217,408,513","$105,935,048",48.7%
-20,21,Too Cool to Kill,"$217,254,604","$185,882",<0.1%
-21,22,Nice View,"$211,019,042",-,-
-22,23,DC League of Super-Pets,"$207,557,117","$93,657,117",45.1%
-23,24,The Lost City,"$192,907,684","$105,344,029",54.6%
-24,25,One Piece Film: Red,"$187,170,704","$12,775,324",6.8%
-25,26,M3GAN,"$179,965,562","$95,043,350",52.8%
-26,27,Suzume,"$174,749,739","$10,760,901",6.2%
-27,28,Nope,"$171,235,592","$123,277,080",72%
-28,29,Ticket to Paradise,"$168,763,270","$68,275,985",40.5%
-29,30,Morbius,"$167,460,961","$73,865,530",44.1%
-30,31,RRR,"$165,955,146","$14,500,000",8.7%
-31,32,The Black Phone,"$161,440,742","$90,123,230",55.8%
-32,33,The First Slam Dunk,"$151,316,650","$1,275,149",0.8%
-33,34,Where the Crawdads Sing,"$144,353,965","$90,230,760",62.5%
-34,35,Everything Everywhere All at Once,"$139,475,957","$77,191,785",55.3%
-35,36,Scream,"$137,743,924","$81,641,405",59.3%
-36,37,Death on the Nile,"$137,307,235","$45,630,104",33.2%
-37,38,A Man Called Otto,"$113,093,436","$64,267,657",56.8%
-38,39,"Lyle, Lyle, Crocodile","$110,979,946","$46,888,441",42.2%
-39,40,Halloween Ends,"$104,361,355","$64,079,860",61.4%
-40,41,The Roundup,"$101,166,707","$812,859",0.8%
-41,42,The Woman King,"$93,279,806","$67,328,130",72.2%
-42,43,Downton Abbey: A New Era,"$92,651,384","$44,141,550",47.6%
-43,44,K.G.F: Chapter 2,"$89,123,940","$2,874,000",3.2%
-44,45,Don't Worry Darling,"$87,609,403","$45,309,403",51.7%
-45,46,Dragon Ball Super: Super Hero,"$86,562,140","$38,112,140",44%
-46,47,Dog,"$84,774,243","$61,778,069",72.9%
-47,48,Jackass Forever,"$80,563,999","$57,743,451",71.7%
-48,49,The Menu,"$79,628,200","$38,501,125",48.4%
-49,50,Avatar 2022  Re-release,"$76,012,917","$24,714,024",32.5%
-50,51,Violent Night,"$76,004,405","$50,057,405",65.9%
-51,52,Strange World,"$73,621,640","$37,968,963",51.6%
-52,53,Detective Conan: The Bride of Halloween,"$72,653,401",-,-
-53,54,The Northman,"$69,633,110","$34,233,110",49.2%
-54,55,Moonfall,"$67,295,363","$19,060,660",28.3%
-55,56,Babylon,"$63,363,579","$15,351,455",24.2%
-56,57,Whitney Houston: I Wanna Dance with Somebody,"$59,806,881","$23,708,080",39.6%
-57,58,Beast,"$59,095,809","$31,846,530",53.9%
-58,59,The Whale,"$54,883,206","$17,463,630",31.8%
-59,60,Confidential Assignment 2: International,"$54,486,330",-,-
-60,61,Ambulance,"$52,300,984","$22,781,115",43.6%
-61,62,Marry Me,"$50,477,597","$22,438,180",44.5%
-62,63,Brahmastra Part One: Shiva,"$50,164,785","$7,839,108",15.6%
-63,64,The Banshees of Inisherin,"$49,262,687","$10,582,266",21.5%
-64,65,The Fabelmans,"$45,625,482","$17,348,945",38%
-65,66,Barbarian,"$45,352,337","$40,842,944",90.1%
-66,67,Prey for the Devil,"$44,658,929","$19,802,293",44.3%
-67,68,Paws of Fury: The Legend of Hank,"$42,506,565","$17,811,382",41.9%
-68,69,The Invitation,"$38,036,130","$25,100,080",66%
-69,70,Orphan: First Kill,"$37,083,743","$5,413,227",14.6%
-70,71,Roald Dahl's Matilda the Musical,"$35,602,350",-,-
-71,72,Kingdom II: Harukanaru Daichi e,"$34,963,395",-,-
-72,73,The Bob's Burgers Movie,"$34,148,750","$31,933,830",93.5%
-73,74,Skyfall 2021 Re-release,"$33,910,282",-,-
-74,75,Hunt,"$33,821,338","$25,994",<0.1%
-75,76,Tad the Lost Explorer and the Emerald Tablet,"$32,849,430","$67,599",0.2%
-76,77,BTS Permission to Dance on Stage - Seoul: Live Viewing,"$32,600,000","$6,840,000",21%
-77,78,Shin Ultraman,"$32,126,362","$601,490",1.9%
-78,79,Amsterdam,"$31,245,810","$14,947,969",47.8%
-79,80,Mrs. Harris Goes to Paris,"$30,986,960","$10,433,915",33.7%
-80,81,Vikram,"$29,837,637","$1,770,000",5.9%
-81,82,The Unbearable Weight of Massive Talent,"$29,116,320","$20,300,157",69.7%
-82,83,Tár,"$28,993,610","$6,773,650",23.4%
-83,84,The 355,"$27,827,745","$14,570,455",52.4%
-84,85,Serial (Bad) Weddings 3,"$27,768,420",-,-
-85,86,The Night Owl,"$26,719,364",-,-
-86,87,Triangle of Sadness,"$26,209,847","$4,608,096",17.6%
-87,88,Calendar Girls,"$25,433,615",-,-
-88,89,The Kashmir Files,"$24,821,898","$1,485,000",6%
-89,90,Hero,"$24,392,492",-,-
-90,91,Harry Potter and the Chamber of Secrets 2022 Re-release,"$23,716,329",-,-
-91,92,The Last 10 Years,"$23,699,624",-,-
-92,93,The Confidence Man JP: Episode of the Hero,"$23,214,581",-,-
-93,94,The Witch: Part 2 - The Other One,"$23,068,596","$143,723",0.6%
-94,95,Decision to Leave,"$22,935,723","$2,179,864",9.5%
-95,96,Harry Potter and the Chamber of Secrets 2021 Re-release,"$22,349,685","$191,501",0.9%
-96,97,6/45,"$22,263,336",-,-
-97,98,Doraemon the Movie: Nobita's Little Star Wars 2021,"$22,044,058",-,-
-98,99,See How They Run,"$21,966,634","$9,586,237",43.6%
-99,100,Ponniyin Selvan: Part I,"$21,888,295","$4,282,000",19.6%
-100,101,Devotion,"$21,768,133","$20,511,938",94.2%
-101,102,Silent Parade,"$21,723,595",-,-
-102,103,Father Stu,"$21,592,379","$20,884,796",96.7%
-103,104,Emergency Declaration,"$21,400,327","$412,196",1.9%
-104,105,The Amazing Maurice,"$21,112,438","$4,303,645",20.4%
-105,106,Crayon Shin-chan: Mononoke Ninja Chinpuden,"$20,617,005",-,-
-106,107,Three Thousand Years of Longing,"$20,282,422","$8,286,741",40.9%
-107,108,Turning Red,"$20,122,621",-,-
-108,109,After Ever Happy,"$19,238,073","$1,072,750",5.6%
-109,110,Simone: Woman of the Century,"$19,149,079",-,-
-110,111,Beast,"$18,911,959",-,-
-111,112,Broker,"$18,803,921","$1,046,899",5.6%
-112,113,Godfather,"$18,737,287",-,-
-113,114,School of Magical Animals: Part 2,"$18,460,372",-,-
-114,115,Bhool Bhulaiyaa 2,"$18,307,258",-,-
-115,116,November,"$18,128,799",-,-
-116,117,Fragments of the Last Will,"$17,954,691",-,-
-117,118,The Quintessential Quintuplets Movie,"$17,506,171","$502,000",2.9%
-118,119,Fall,"$17,363,261","$7,240,521",41.7%
-119,120,Wunderschön,"$16,719,291",-,-
-120,121,Father There Is Only One 3,"$16,707,892",-,-
-121,122,Even If This Love Disappears from the World Tonight,"$16,474,515",-,-
-122,123,Dr. Coto's Clinic,"$16,062,841",-,-
-123,124,Radhe Shyam,"$15,954,804","$1,860,000",11.7%
-124,125,Blacklight,"$15,902,207","$9,591,094",60.3%
-125,126,Operation Mincemeat,"$15,710,164",-,-
-126,127,Maison de retraite,"$15,570,823",-,-
-127,128,Bheemla Nayak,"$15,243,922",-,-
-128,129,Bones and All,"$15,134,907","$7,834,907",51.8%
-129,130,Terrifier 2,"$15,065,239","$10,640,105",70.6%
-130,131,Firestarter,"$15,039,250","$9,739,250",64.8%
-131,132,The Wolf of Wall Street 2022 Re-release,"$14,877,539",-,-
-132,133,Bros,"$14,781,867","$11,628,165",78.7%
-133,134,Superwho?,"$14,770,359",-,-
-134,135,X,"$14,740,889","$11,765,309",79.8%
-135,136,The Chosen Season 3: Episode 1 & 2,"$14,679,613","$14,612,089",99.5%
-136,137,The Duke,"$14,227,217","$1,526,970",10.7%
-137,138,Sarkaru Vaari Paata,"$14,199,018",-,-
-138,139,Interstellar 2021 Re-release,"$14,032,877",-,-
-139,140,She Said,"$13,935,352","$5,825,995",41.8%
-140,141,Bodies Bodies Bodies,"$13,929,670","$11,446,602",82.2%
-141,142,Monster,"$13,910,991",-,-
-142,143,Memory,"$13,897,255","$7,329,043",52.7%
-143,144,The Legend of Maula Jatt,"$13,839,539","$5,016,493",36.2%
-144,145,Glass Onion,"$13,280,000","$13,280,000",100%
-145,146,Valimai,"$13,276,393",-,-
-146,147,Moonage Daydream,"$13,095,781","$4,218,925",32.2%
-147,148,Easter Sunday,"$13,074,255","$13,013,690",99.5%
-148,149,Guglhupfgeschwader,"$12,307,072",-,-
-149,150,"Utapri Movie 2, Uta No Prince-Sama Maji Love Starish Tours Movie","$12,291,650",-,-
-150,151,Living,"$12,208,598","$3,038,113",24.9%
-151,152,Laal Singh Chaddha,"$12,093,536","$3,401,324",28.1%
-152,153,Alienoid,"$12,067,556","$168,309",1.4%
-153,154,That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond,"$11,631,738","$1,588,491",13.7%
-154,155,Jug Jugg Jeeyo,"$11,467,726","$1,033,000",9%
-155,156,Empire of Light,"$11,395,604","$1,177,577",10.3%
-156,157,Till,"$11,348,094","$9,000,202",79.3%
-157,158,Bergen,"$11,325,405",-,-
-158,159,Rise,"$11,196,824",-,-
-159,160,Men,"$11,152,071","$7,587,853",68%
-160,161,The Eight Mountains,"$11,091,635","$302,456",2.7%
-161,162,Chickenhare and the Hamster of Darkness,"$10,885,116",-,-
-162,163,Warriors of Future,"$10,490,328",-,-
-163,164,Jurassic Park 2022 Re-release,"$10,374,018",-,-
-164,165,Land of Legends,"$10,357,479",-,-
-165,166,The Pirates: The Last Royal Treasure,"$10,258,331",-,-
-166,167,The Beasts,"$10,254,177","$20,574",0.2%
-167,168,Vaillante,"$10,143,170",-,-
-168,169,Table for Six,"$10,138,355",-,-
-169,170,Smack Dab Kakha,"$9,995,945",-,-
-170,171,F3: Fun and Frustration,"$9,849,193","$1,195,000",12.1%
-171,172,"Good Luck to You, Leo Grande","$9,795,364",-,-
-172,173,Pearl,"$9,747,742","$9,423,445",96.7%
-173,174,Rheingold,"$9,691,099",-,-
-174,175,Spider-Man: No Way Home 2022 Re-release,"$9,613,518","$9,321,593",97%
-175,176,Talk to Her Undated France Release,"$9,541,068",-,-
-176,177,Redeeming Love,"$9,464,198","$9,214,020",97.4%
-177,178,Women Talking,"$9,270,241","$5,456,531",58.9%
-178,179,Sword Art Online the Movie: Progressive - Scherzo of Deep Night,"$9,071,701",-,-
-179,180,Samrat Prithviraj,"$8,568,339",-,-
-180,181,Life Is Beautiful,"$8,458,639",-,-
-181,182,Yolki 9,"$8,385,030",-,-
-182,183,Aftersun,"$8,348,964","$1,658,790",19.9%
-183,184,Don,"$8,287,406",-,-
-184,185,Shotgun Wedding,"$8,277,788",-,-
-185,186,Vikram Vedha,"$8,234,166","$1,589,362",19.3%
-186,187,Re/Member,"$8,166,175",-,-
-187,188,Acharya,"$8,048,175","$832,000",10.3%
-188,189,Il grande giorno,"$8,021,940",-,-
-189,190,The Tatta's,"$8,000,956",-,-
-190,191,Rabbit Academy: Mission Eggpossible,"$7,954,338",-,-
-191,192,Ducobu 4 President,"$7,858,171",-,-
-192,193,Phases of the Moon,"$7,564,756",-,-
-193,194,777 Charlie,"$7,523,995",-,-
-194,195,Bachchhan Paandey,"$7,387,882",-,-
-195,196,Lesson in Murder,"$7,348,964",-,-
-196,197,Family Affairs,"$7,330,755",-,-
-197,198,Listy do M. 5,"$7,328,061",-,-
-198,199,Laid-Back Camp Movie,"$7,317,913",-,-
-199,200,Osomatsusan the Movie 2022 Re-release,"$7,297,522",-,-
+title,gross,year
+Grinch,"271,248",2000
+O Náufrago,"618,559",2000
+Missão Impossível II,"366,403",2000
+Gladiador,"1,558,623",2000
+O Que As Mulheres Querem,"216,388",2000
+The Perfect Storm - Tempestade,"174,237",2000
+Um Sogro Do Pior,"346,714",2000
+X-Men,"633,028",2000
+Scary Movie - Um Susto de Filme,"275,187",2000
+A Verdade Escondida,"132,199",2000
+Dinossauro,"64,933",2000
+O Tigre e o Dragão,"277,338",2000
+Erin Brockovich,"210,853",2000
+Os Anjos de Charlie,"192,764",2000
+Traffic - Ninguém Sai Ileso,"215,424",2000
+O Professor Chanfrado 2,"52,430",2000
+O Agente Disfarçado,"88,895",2000
+Duelo de Titãs,"225,286",2000
+O Patriota,"286,389",2000
+A Fuga das Galinhas,"201,672",2000
+Miss Detective,"221,858",2000
+60 Segundos,"288,468",2000
+O Protegido,"431,563",2000
+"Ela, Eu E o Outro","245,771",2000
+Space Cowboys,"84,474",2000
+Pacha e o Imperador,"216,667",2000
+Gritos 3,"157,553",2000
+Dolphins,537,2000
+Submarino U-571,"84,658",2000
+Rugrats in Paris: The Movie - Rugrats II,"13,264",2000
+Dois Destinos,"114,954",2000
+O Homem Transparente,"135,598",2000
+Chocolate,"197,597",2000
+Shaft,"79,416",2000
+Nunca É Tarde,"43,547",2000
+Limite Vertical,"63,981",2000
+Road Trip - Sem Regras,"174,645",2000
+Tudo por Elas,"101,918",2000
+Os 102 Dálmatas,"38,860",2000
+Descobrir Forrester,"88,233",2000
+Compromisso de Honra,"49,486",2000
+A Cela,"106,586",2000
+Missão a Marte,"75,403",2000
+Coyote Bar,"118,820",2000
+Dia de Folga,"13,316",2000
+Next Friday,"42,885",2000
+Falsas Aparências,"125,331",2000
+Shanghai Noon,"132,612",2000
+Romeo Deve Morrer,"72,549",2000
+O Último Destino,"269,310",2000
+O Caminho para El Dorado,"103,245",2000
+Homens de Honra,"122,201",2000
+"Onde Tá o Carro, Meu?","143,579",2000
+As Aventuras do Tigre,"19,844",2000
+"Irmão, Onde Estás?","323,149",2000
+Frequência,"113,091",2000
+Os Substitutos,"67,842",2000
+A Praia,"247,992",2000
+"Nicky, Filho... do Diabo","109,963",2000
+Eclipse Mortal,"248,937",2000
+The Original Kings of Comedy,"5,966",2000
+Sedutora Endiabrada,"109,734",2000
+Amar Em Nova Iorque,"27,581",2000
+28 Dias,"52,690",2000
+Sedutora Tentação,"52,799",2000
+Um Acaso Com Sentido,"21,428",2000
+Linhas Cruzadas,"12,981",2000
+Os Flintstones em Viva Rock Vegas,"24,818",2000
+Sociedade Secreta,"33,190",2000
+O 6º Dia,"125,991",2000
+Treze Dias,"61,275",2000
+Skip Um Amigo Especial,"21,055",2000
+A Voz do Coração,"35,715",2000
+Favores em Cadeia,"122,104",2000
+Drácula 2001,"35,474",2000
+Regressa Para Mim,"22,073",2000
+Prova de Vida,"58,282",2000
+Quase Famosos,"286,580",2000
+A Lenda de Bagger Vance,"58,524",2000
+Snatch - Porcos E Diamantes,"884,584",2000
+A Arte da Guerra,"30,536",2000
+Abandonada,"15,115",2000
+24 Horas Para Matar,"28,062",2000
+Love & Basketball,"23,234",2000
+Alta Fidelidade,"186,132",2000
+O Livro das Trevas: BW2,"39,287",2000
+As Aventuras de Rocky e Bullwinkle,"20,881",2000
+Memento,"1,284,125",2000
+Betty,"35,850",2000
+Jogo de traições,"41,453",2000
+Titan A.E. - Depois da Destruição da Terra,"62,951",2000
+Billy Elliot,"139,562",2000
+Terra - Campo de Batalha,"82,011",2000
+Mitos Urbanos 2,"18,478",2000
+Entre Rapazes e Raparigas,"17,335",2000
+Doido por Ti,"15,538",2000
+Wonder Boys - Prodígios,"65,743",2000
+Donos de Estimação,"65,097",2000
+Michael Jordan to the Max,"2,330",2000
+O Planeta Vermelho,"59,298",2000
+O Jogo do Poder,"24,696",2000
+No Centro do Palco,"22,404",2000
+Vigaristas de Bairro,"39,881",2000
+Pokémon 3: O feitiço do Unown,"14,802",2000
+Dinheiro Quente,"55,403",2000
+Possuídos,"11,217",2000
+Black Heart,$16.46M,2000
+Thomas and the Magic Railroad,"4,622",2000
+Um azarado de sorte,"29,889",2000
+Espírito Selvagem,"15,440",2000
+Tramaram a Mona,"15,244",2000
+Perigo em Directo,"12,957",2000
+Masmorras e Dragões,"35,547",2000
+Cirque du Soleil: Journey of Man,711,2000
+Psicopata Americano,"674,007",2000
+Ligações Imprevistas,"11,552",2000
+Carter - A Vida é Dura,"35,784",2000
+Supernova,"18,806",2000
+Especialista de Mulheres,"13,610",2000
+O Pequeno Vampiro,"11,041",2000
+Dr. T e as Mulheres,"20,035",2000
+The Crew,"6,616",2000
+Highlander - O Jogo Final,"20,979",2000
+Adeptos da Pancada,"14,992",2000
+O Jardim da Alegria,"19,029",2000
+O Dom,"72,867",2000
+CyberWorld,422,2000
+Jovens Alucinados,"8,807",2000
+Há horas felizes,"10,795",2000
+3 Strikes,"3,612",2000
+Os Digimon: O Filme,"7,754",2000
+Podes Contar Comigo,"30,864",2000
+Custe o que Custar,"11,500",2000
+Pollock,"29,036",2000
+A Sombra do Vampiro,"43,315",2000
+Quills - As Penas do Desejo,"55,833",2000
+Tramados,"9,373",2000
+Besta Sexy,"64,538",2000
+State & Main,"21,835",2000
+África dos Meus Sonhos,"4,794",2000
+De que Planeta és Tu?,"9,740",2000
+A Lei das Armas,"34,626",2000
+Onde Está o Dinheiro,"6,305",2000
+Amor Cão,"247,786",2000
+Pão e Tulipas,"9,918",2000
+The In Crowd,"4,757",2000
+Rumor Assassino,"17,280",2000
+Mulher por Cima,"10,796",2000
+Pares,"9,862",2000
+Italiano Para Principiantes,"13,677",2000
+The Tao of Steve,"7,712",2000
+Left Behind,"10,247",2000
+Antes que Anoiteça,"25,991",2000
+Dancer in the Dark,"114,023",2000
+Whipped,"4,287",2000
+"Harry, um Amigo Ao Seu Dispor","11,764",2000
+A Vida não é um Sonho,"872,829",2000
+Malèna,"108,360",2000
+O Preço da Glória,896,2000
+Rockets' Red Glare,50,2000
+Ride,49,2000
+Beautiful,"4,229",2000
+La veuve de Saint-Pierre,"5,686",2000
+Songcatcher,"3,638",2000
+A Casa da Felicidade,"7,829",2000
+Infidelidades,"4,546",2000
+Ela É um Sucesso,"2,517",2000
+Paixão em Florença,"2,803",2000
+Disponível Para Amar,"159,688",2000
+God's Army,"1,141",2000
+The Endurance: Shackleton's Legendary Antarctic Expedition,"2,129",2000
+Bamboozled,"12,056",2000
+The Dish,"16,834",2000
+Naomi's Web,22,2000
+As Flores de Harrison,"6,606",2000
+Bossa Nova,"1,848",2000
+La vie après l'amour,458,2000
+The Broken Hearts Club: A Romantic Comedy,"7,983",2000
+The Debut,676,2000
+Gun Shy,"7,733",2000
+Hamlet,"9,833",2000
+Girlfight,"11,258",2000
+How to Be Your Own Boss and Live Your American Dream,$1.50M,2000
+Sob a Areia,"11,234",2000
+Flores da Liberdade,"6,403",2000
+Musíme si pomáhat,"5,301",2000
+Cecil B. Demente,"16,320",2000
+MVP: Most Valuable Primate,"2,671",2000
+Turn It Up,"1,353",2000
+Nove Rainhas,"55,410",2000
+Margaret Cho: I'm the One That I Want,"1,197",2000
+Backstage,345,2000
+Trois,734,2000
+Yi-yi,"26,953",2000
+Festa Rave,"4,461",2000
+Sordid Lives,"3,412",2000
+Tillsammans,"23,441",2000
+The Luzhin Defence,"4,621",2000
+Chuck & Buck,"5,787",2000
+What's Cooking?,"2,843",2000
+Harry Potter e a Pedra Filosofal,"822,495",2001
+O Senhor dos Anéis - A Irmandade do Anel,"1,940,720",2001
+Monstros e Companhia,"946,950",2001
+Shrek,"709,432",2001
+Hora de Ponta 2,"232,220",2001
+O Regresso da Múmia,"338,348",2001
+Pearl Harbor,"344,505",2001
+Ocean's Eleven - Façam as Vossas Apostas,"599,886",2001
+Parque Jurássico III,"333,897",2001
+Planeta dos Macacos,"224,842",2001
+Uma Mente Brilhante,"961,146",2001
+Hannibal,"285,562",2001
+American Pie 2 - O Ano Seguinte,"264,877",2001
+Velocidade Furiosa,"407,169",2001
+Lara Croft: Tomb Raider,"215,165",2001
+Dr. Dolittle 2,"46,567",2001
+Spy Kids - O Filme,"123,321",2001
+Cercados,"412,365",2001
+O Diário da Princesa,"156,729",2001
+Vanilla Sky,"279,467",2001
+Os Outros,"381,028",2001
+Legalmente loira,"234,780",2001
+O Par do Ano,"59,293",2001
+Como Cães E Gatos,"61,471",2001
+Ao Ritmo do Hip-Hop,"64,590",2001
+Atlântida: O Continente Perdido,"128,642",2001
+Jimmy Neutron: O Pequeno Génio,"36,926",2001
+A.I. Inteligência Artificial,"317,134",2001
+Dia de Treino,"456,260",2001
+A Conspiração da Aranha,"93,290",2001
+O Diário de Bridget Jones,"254,559",2001
+Scary Movie 2 - Um Susto de Filme,"169,347",2001
+The Score - Sem Saída,"131,755",2001
+O Amor é Cego,"140,068",2001
+Operação Swordfish,"193,068",2001
+A Mexicana,"111,270",2001
+Os Anjos Devem Estar Loucos,"24,481",2001
+Resistir-lhe é Impossível,"84,349",2001
+Atrás das Linhas do Inimigo,"110,109",2001
+Ali,"103,498",2001
+O 'Verdadeiro' Animal,"62,263",2001
+Moulin Rouge!,"293,646",2001
+Está Tudo Louco!,"120,504",2001
+Coração de Cavaleiro,"195,881",2001
+Nem uma Palavra,"55,851",2001
+Profissão de Risco,"269,523",2001
+Os Tenenbaums - Uma Comédia Genial,"305,753",2001
+Fogo Cerrado,"36,374",2001
+Inimigo às Portas,"271,681",2001
+K-Pax - Um Homem do Outro Mundo,"189,757",2001
+Feliz Acaso,"117,784",2001
+Kate e Leopold,"87,448",2001
+Identidade Falsa,"28,259",2001
+Zoolander,"284,156",2001
+Força Explosiva,"94,545",2001
+13 Fantasmas,"91,060",2001
+Bandidos,"69,931",2001
+Gosford Park,"91,548",2001
+Matadoras,"56,766",2001
+I Am Sam - A Força do Amor,"153,199",2001
+Jogada arriscada,"32,786",2001
+Evolução,"133,382",2001
+Oh Não! Outro Filme de Adolescentes,"111,756",2001
+Jeepers Creepers,"137,274",2001
+O Beijo Mortal do Dragão,"65,607",2001
+Missão: Salvar as Férias,"11,321",2001
+Vidas Privadas,"41,429",2001
+O Cavaleiro Negro,"42,396",2001
+Spot,"9,590",2001
+O Fabuloso Destino de Amélie,"776,880",2001
+Corrida Alucinante,"42,442",2001
+Final Fantasy: The Spirits Within,"83,344",2001
+O Pior que Podia Acontecer,"16,436",2001
+"A Verdadeira História de Jack, o Estripador","160,838",2001
+Monster's Ball - Depois do Ódio,"92,316",2001
+Altamente,"60,640",2001
+Os Rapazes da Minha Vida,"30,038",2001
+Jay e Silent Bob Contra-Atacam,"158,799",2001
+Journey Into Amazing Caves,531,2001
+Baby Boy,"15,886",2001
+The Majestic,"56,494",2001
+The Brothers,"4,952",2001
+Alguém Como Tu,"27,083",2001
+Joe Dirt,"59,361",2001
+O Mosqueteiro,"14,905",2001
+Crocodilo Dundee em Los Angeles,"25,771",2001
+O Capitão Corelli,"35,427",2001
+Doce Novembro,"93,111",2001
+15 Minutos,"51,372",2001
+Corações na Atlântida,"40,171",2001
+Olhos de Anjo,"25,266",2001
+Corky Romano - Veterinário Mafioso,"13,558",2001
+Kingdom Come,"2,375",2001
+Alguém Chamado Joe,"10,967",2001
+Two Can Play That Game,"7,197",2001
+Não Brinques com Estranhos,"73,525",2001
+Terror no Dia de S. Valentim,"29,486",2001
+A Promessa,"64,056",2001
+Verão de Sonho,"16,447",2001
+Um Diabo de Miúda,"41,737",2001
+Super Troopers,"109,921",2001
+O Último Castelo,"83,628",2001
+Casa de Vidro,"39,064",2001
+As Desventuras de Max Keeble,"8,492",2001
+Uma Estrela de Rock,"44,603",2001
+Bela Loucura,"25,302",2001
+Pecado Original,"58,526",2001
+O,"21,713",2001
+A 3000 Milhas de Graceland,"48,012",2001
+"Uma Casa, uma Vida","45,016",2001
+Josie and the Pussycats,"24,198",2001
+Freddy em Apuros,"50,246",2001
+Out Cold,"18,136",2001
+Casamento Debaixo de Chuva,"26,320",2001
+O Alfaiate do Panamá,"30,553",2001
+Haunted Castle,479,2001
+E a Tua Mãe Também,"126,762",2001
+Osmosis Jones,"37,771",2001
+Aposta de Solteiros,"19,203",2001
+Sugar & Spice,"14,979",2001
+Pistoleiros Americanos,"17,095",2001
+Jason X,"59,365",2001
+Pela Mão do Senhor,"88,140",2001
+Criminosos à Solta,"24,537",2001
+Esquece... e Siga,"19,664",2001
+The Shipping News,"33,575",2001
+O Pacto dos Lobos,"69,404",2001
+Conspiração.com,"29,961",2001
+Aves Migratórias,"12,160",2001
+Como Perder a Cabeça,"15,021",2001
+The Wash,"7,475",2001
+A Viagem de Chihiro,"806,958",2001
+Até ao Fim,"11,878",2001
+"Fantasmas de Marte, de John Carpenter","56,547",2001
+A Maldição do Escorpião de Jade,"41,756",2001
+O Barbeiro,"112,878",2001
+Bones,"8,001",2001
+The Forsaken,"8,986",2001
+Mulholland Drive,"371,806",2001
+Beijando Jessica,"17,262",2001
+Mistérios do Sexo Oposto,"5,151",2001
+Sai do Armário,"18,069",2001
+Um Perigo de Mulher,"31,024",2001
+Ghost World - Mundo Fantasma,"124,454",2001
+Algures em África,"13,734",2001
+Impostor,"24,272",2001
+Código Omega: Megiddo,"2,922",2001
+Diz-me Que Não é Verdade,"13,608",2001
+Monkeybone - O Rei da Macacada,"18,779",2001
+Como Subir no Crime,"19,088",2001
+Fórmula 51,"50,404",2001
+Bubble Boy,"34,585",2001
+Da Rússia com Amor,"26,056",2001
+Visitantes na América,"19,855",2001
+The Other Side of Heaven,"4,629",2001
+Lantana,"20,024",2001
+Tortilla Soup,"5,189",2001
+Por um Flash,"4,360",2001
+Enigma,"21,639",2001
+Glitter: O Brilho de uma Estrela,"23,898",2001
+Encontro de Irmãs,"7,517",2001
+Bela Marta,"8,447",2001
+Um Casamento Atribulado,"8,605",2001
+Atanarjuat - O Corredor,"6,769",2001
+China: The Panda Adventure,224,2001
+Pootie Tang,"14,767",2001
+Vidas ao Acaso,"11,353",2001
+O Miar do Gato,"8,783",2001
+Sobreviventes,"9,419",2001
+Hedwig - A Origem do Amor,"36,783",2001
+Nunca feliz,"53,132",2001
+Acordar para a Vida,"65,952",2001
+Sidewalks of New York,"6,855",2001
+Gabriela,"1,596",2001
+Últimos Pedidos,"6,510",2001
+A Paciente Misteriosa,"11,505",2001
+A Pianista,"68,684",2001
+NSync: Bigger Than Live,139,2001
+Carman: O Campeão,844,2001
+Pokémon 4Ever,"9,078",2001
+Hatuna Meuheret,"3,465",2001
+Bully - Estranhas Amizades,"39,711",2001
+Lúcia e o Sexo,"38,036",2001
+Donnie Darko,"828,441",2001
+Homem de Aluguer,"4,409",2001
+Piñero,"1,383",2001
+Nos Meus Lábios,"16,207",2001
+Dogtown and Z-Boys,"13,189",2001
+Iris,"18,831",2001
+Startup.com,"3,445",2001
+L.I.E. - Sem Saída,"10,310",2001
+O Preço da Fantasia,"5,120",2001
+Clube das Solteironas,"3,890",2001
+Terra de Ninguém,"48,166",2001
+A Minha Mulher é Actriz,"3,707",2001
+O Último Beijo,"8,707",2001
+Negócio de Estranhos,"3,802",2001
+"The Bread, My Sweet",959,2001
+O Quarto do Filho,"20,994",2001
+All Over the Guy,"4,931",2001
+Homem-Aranha,"852,147",2002
+O Senhor dos Anéis - As Duas Torres,"1,725,836",2002
+Star Wars: Episódio II - O Ataque dos Clones,"738,152",2002
+Harry Potter e a Câmara dos Segredos,"666,430",2002
+Viram-se Gregos para Casar,"138,983",2002
+Signs - Sinais,"376,707",2002
+Austin Powers em Membro Dourado,"218,065",2002
+Homens de Negro II,"392,108",2002
+A Idade do Gelo,"502,536",2002
+Chicago,"237,385",2002
+Apanha-me Se Puderes,"1,044,515",2002
+007 - Morre Noutro Dia,"225,095",2002
+Scooby-Doo,"120,578",2002
+Lilo & Stitch,"203,619",2002
+XXX - Missão Radical,"184,062",2002
+Santa Cláusula - Sarilhos no Natal,"61,266",2002
+Relatório Minoritário,"570,739",2002
+The Ring - O Aviso,"364,571",2002
+A Diva da Moda,"119,708",2002
+Mr. Deeds,"149,330",2002
+Identidade Desconhecida,"563,935",2002
+A Soma de Todos os Medos,"121,763",2002
+8 Mile,"307,789",2002
+Caminho para Perdição,"278,296",2002
+Sala de Pânico,"289,356",2002
+Encontro em Manhattan,"93,921",2002
+Space Station 3D,"1,733",2002
+Amor Sem Aviso,"123,076",2002
+Dragão Vermelho,"284,057",2002
+O Rei Escorpião,"143,017",2002
+Spy Kids 2: A Ilha dos Sonhos Perdidos,"71,297",2002
+Blade II,"228,122",2002
+Herança Canina,"28,017",2002
+Fomos Soldados...,"147,876",2002
+Gangs de Nova Iorque,"459,405",2002
+A Barbearia,"32,806",2002
+The Rookie - O Treinador,"36,354",2002
+Spirit - Espírito Selvagem,"81,859",2002
+John Q.,"140,094",2002
+Os Divinos Segredos da Irmandade Ya- Ya,"20,605",2002
+Insónia,"309,253",2002
+Manobra Perigosa,"73,507",2002
+As Confissões de Schmidt,"131,395",2002
+O Pequeno Stuart Little 2,"57,044",2002
+Jackass - The movie,"99,910",2002
+A Máquina do Tempo,"128,060",2002
+Linha do Tambor,"35,572",2002
+O Conde de Monte Cristo,"144,681",2002
+Herói,"185,361",2002
+Infiel,"94,522",2002
+Like Mike,"21,928",2002
+Vestido a Rigor,"86,869",2002
+Peter Pan 2: em a Terra do Nunca,"21,535",2002
+O Grande Mentiroso,"38,593",2002
+Cabine Telefónica,"279,304",2002
+28 Dias Depois,"430,677",2002
+Star Trek: Nemesis,"82,381",2002
+Reino de Fogo,"142,326",2002
+As Horas,"136,076",2002
+Crime em Primeiro Grau,"46,505",2002
+Era Uma Vez Um Rapaz,"188,712",2002
+Um amor para recordar,"217,422",2002
+Orange County,"51,320",2002
+Códigos de Guerra,"71,916",2002
+A Onda dos Sonhos,"32,461",2002
+O Mestre do Disfarce,"26,457",2002
+Resident Evil,"281,242",2002
+The Wild Thornberrys Movie,"15,063",2002
+Danos Colaterais,"76,990",2002
+Basta,"46,314",2002
+O Irmão Secreto,"35,801",2002
+O Planeta do Tesouro,"127,452",2002
+Showtime,"64,401",2002
+40 Dias e 40 Noites,"74,978",2002
+Destinos,"41,292",2002
+Clockstoppers - Paragem no Tempo,"14,859",2002
+A Profecia das Sombras,"83,046",2002
+K-19: O Fazedor de Viúvas,"65,855",2002
+Um Corpo Perfeito,"99,936",2002
+O Espião Sou Eu,"52,720",2002
+Friday After Next,"29,212",2002
+O Pianista,"874,730",2002
+Joga Como Beckham,"114,406",2002
+Outra Questão de Nervos,"88,266",2002
+Crimes Calculados,"60,609",2002
+Câmara Indiscreta,"128,734",2002
+Halloween - A Ressurreição,"47,361",2002
+A Rainha dos Malditos,"58,512",2002
+O Poder dos Sentidos,"39,485",2002
+As Manas Rock,"17,087",2002
+Más Companhias,"49,302",2002
+Barco Fantasma,"106,067",2002
+Um Zero à Esquerda,"37,053",2002
+Extremamente Perigosa,"20,862",2002
+O Caçador de Crocodilos: Rota de Colisão,"8,119",2002
+Ritmos Africanos,"9,982",2002
+Dívida de Sangue,"46,737",2002
+Frida,"93,265",2002
+Jonah: A VeggieTales Movie,"4,424",2002
+A Hora dos Benjamins,"15,289",2002
+Correio de Risco,"314,146",2002
+A Coisa Mais Doce,"61,067",2002
+Adam Sandler - Oito Noites Loucas,"24,225",2002
+A Cidade do Passado,"26,044",2002
+Inadaptado,"198,738",2002
+Darkness - As Trevas,"20,080",2002
+Bowling for Columbine,"147,107",2002
+A Cabana do Medo,"81,435",2002
+Antwone Fisher,"37,379",2002
+Van Wilder - Sempre a Abrir,"113,271",2002
+A Domadora de Baleias,"43,504",2002
+Martin Lawrence Live: Runteldat,"1,768",2002
+A Fonte Misteriosa,"24,859",2002
+Em Defesa da Honra,"54,501",2002
+Rollerball,"29,008",2002
+As Quatro Penas Brancas,"35,042",2002
+Embriagado de Amor,"172,121",2002
+Império - Um Choque Entre Dois Mundos,"7,793",2002
+Arac Attack - Tarados de Oito Patas,"59,211",2002
+"As Aventuras de Beary, o Ursinho","5,931",2002
+Divórcio de Milhões,"18,307",2002
+A Flor do Mal,"33,469",2002
+Kung Pow: Punhos Loucos,"47,696",2002
+Confissões de Uma Mente Perigosa,"90,656",2002
+Longe do Paraíso,"48,132",2002
+Na América,"43,886",2002
+Duro de Matar,"16,421",2002
+Solaris,"84,982",2002
+Sete Dias e uma Vida,"27,507",2002
+Balística,"20,782",2002
+O Clube do Imperador,"17,599",2002
+É Agora ou Nunca,"46,544",2002
+Operação Harvard,"13,525",2002
+Hey Arnold! - O Filme,"7,620",2002
+Juwanna Mann,"6,938",2002
+Medo.com,"22,288",2002
+A Última Hora,"182,549",2002
+O Americano Tranquilo,"29,241",2002
+Eles,"13,439",2002
+Só Um Será Vencedor,"33,698",2002
+As Powerpuff Girls: O Filme,"10,681",2002
+Adrenaline Rush: The Science of Risk,259,2002
+Regressão,"10,012",2002
+Narc,"42,372",2002
+Quando Elas... São Eles,"16,064",2002
+Possessão,"13,580",2002
+Pulse: A Stomp Odyssey,239,2002
+Simone,"61,804",2002
+Fala com Ela,"115,644",2002
+Azul Escuro,"23,357",2002
+O Barco do Amor,"32,014",2002
+A Importância de Ser Ernesto,"24,322",2002
+Morte ao Smoochy,"41,937",2002
+Estranhos de Passagem,"43,568",2002
+Cidade de Deus,"780,075",2002
+Grande Sarilho,"21,334",2002
+Sonhos Desfeitos,"14,482",2002
+Mulher Fatal,"36,999",2002
+As Regras da Atracção,"52,684",2002
+A Vedação,"29,780",2002
+Deuces Wild,"7,699",2002
+Mulheres a Sério,"7,956",2002
+Spellbound,"12,385",2002
+O Crime do Padre Amaro,"14,238",2002
+A Verdade Sobre Charlie,"10,867",2002
+As Irmãs de Maria Madalena,"28,002",2002
+Hollywood Ending,"27,710",2002
+Operações Radicais,"5,622",2002
+Os Preguiçosos,"15,059",2002
+Behind the Attic Door: The Making of 'Rachel's Attic',29,2002
+Rachel's Attic,144,2002
+A Estranha Vida de Igby,"34,482",2002
+Pluto Nash,"26,594",2002
+Men with Brooms,"4,652",2002
+Ultimate X: The Movie,292,2002
+A Secretária,"95,637",2002
+A Residência Espanhola,"42,250",2002
+Better Luck Tomorrow,"10,323",2002
+The Secret Lives of Dentists,"3,507",2002
+Pinóquio,"8,522",2002
+Atracção Acidental,"17,263",2002
+O Bom Ladrão,"10,764",2002
+Devdas,"44,734",2002
+Astérix e Obélix: Missão Cleópatra,"56,226",2002
+8 Mulheres,"33,651",2002
+A Terra do Sol,"4,177",2002
+Vingança Total,"13,662",2002
+O Guru do Sexo,"15,408",2002
+G,768,2002
+Precocemente Apaixonado,"6,183",2002
+Jerry Seinfeld: Comediante,"7,184",2002
+Carnages,736,2002
+O Homem do Comboio,"7,441",2002
+Vidas a Nu,"11,218",2002
+Em Clandestinidade,"6,785",2002
+State Property,"2,191",2002
+O Verão de Victor Vargas,"5,650",2002
+Auto Focus,"14,564",2002
+Bubba Ho-Tep,"50,486",2002
+A Vida Perigosa dos Rapazes do Altar,"14,031",2002
+À Procura de Nemo,"1,081,173",2003
+O Senhor dos Anéis - O Regresso do Rei,"1,912,529",2003
+Piratas das Caraíbas - A Maldição do Pérola Negra,"1,171,208",2003
+The Matrix Reloaded,"614,771",2003
+"Bruce, o Todo-Poderoso","421,065",2003
+X-Men 2,"565,427",2003
+Elf - O Falso Duende,"289,392",2003
+Exterminador Implacável 3 - Ascensão das Máquinas,"411,481",2003
+The Matrix Revolutions,"530,723",2003
+À Dúzia é Mais Barato,"106,477",2003
+Bad Boys 2,"260,944",2003
+Terapia de Choque,"223,361",2003
+A Mulher da Casa,"38,539",2003
+Hulk,"274,498",2003
+Velocidade + Furiosa,"288,990",2003
+Alguém Tem que Ceder,"126,271",2003
+Nascido Para Ganhar,"75,596",2003
+S.W.A.T. - Força de Intervenção,"151,886",2003
+Spy Kids 3: Game Over,"63,924",2003
+O Último Samurai,"457,576",2003
+Um Dia de Doidos,"147,333",2003
+Scary Movie 3 - Outro Susto de Filme,"153,706",2003
+Um Golpe em Itália,"380,757",2003
+Como Perder um Homem em 10 dias,"256,518",2003
+American Pie - O Casamento,"213,207",2003
+O Guarda-Fraldas,"72,098",2003
+Demolidor - O Homem Sem Medo,"225,689",2003
+O Gato,"85,991",2003
+Os Anjos de Charlie: Potência Máxima,"131,144",2003
+Cold Mountain,"153,165",2003
+Master & Commander - O Lado Longínquo do Mundo,"231,228",2003
+Legalmente Loira 2,"70,664",2003
+Mystic River,"472,383",2003
+Kenai e Koda,"118,756",2003
+Freddy Contra Jason,"123,885",2003
+Escola de Rock,"320,040",2003
+Massacre no Texas,"148,421",2003
+A Casa Assombrada,"53,372",2003
+Dias de Loucura,"239,042",2003
+Kill Bill - A Vingança (vol. 1),"1,156,227",2003
+Trabalhos Forçados,"96,096",2003
+Kangaroo Jack,"33,000",2003
+Liga de Cavalheiros Extraordinários,"181,131",2003
+O Grande Peixe,"451,126",2003
+Lara Croft: Tomb Raider - O Berço da Vida,"142,513",2003
+O Sorriso de Mona Lisa,"87,027",2003
+Em Defesa de Sua Majestade,"110,516",2003
+Bad Santa - O Anti-Pai Natal,"149,514",2003
+O Amor Acontece,"506,086",2003
+Gothika,"116,756",2003
+Open Range - A Céu Aberto,"76,348",2003
+Era Uma Vez no México,"167,014",2003
+Casados de Fresco,"73,088",2003
+Pago para Esquecer,"111,525",2003
+O Recruta,"140,009",2003
+Radio,"42,799",2003
+Identidade Misteriosa,"260,059",2003
+Underworld - O Submundo,"279,317",2003
+O Júri,"102,075",2003
+Peter Pan,"78,115",2003
+Cody Banks - Agente de Palmo e Meio,"36,271",2003
+O Livro da Selva 2,"17,386",2003
+Bem-vindos à Selva,"111,065",2003
+O Último Destino 2,"175,950",2003
+O Amor É um Lugar Estranho,"472,968",2003
+Operação Especial,"127,524",2003
+Sob o Sol da Toscana,"55,933",2003
+Amores de Verão,"41,224",2003
+Remake,"1,033",2003
+Os Meus Fabulosos Tios,"59,935",2003
+Out of Time - Tempo Limite,"63,661",2003
+Rugrats Go Wild,"8,750",2003
+Chefe de Estado,"20,843",2003
+Um Cão do Outro Mundo,"4,575",2003
+Uptown Girls - Meninas Bem,"41,117",2003
+Amigos do Alheio,"135,333",2003
+Segurança Nacional,"52,947",2003
+O Que uma Rapariga Quer,"65,213",2003
+Jeepers Creepers 2,"68,704",2003
+Crueldade Intolerável,"100,276",2003
+Nascer para Morrer,"46,026",2003
+Monstro,"157,700",2003
+O Mais Procurado,"20,458",2003
+O Batedor,"49,954",2003
+Agarrado a Ti,"54,520",2003
+O Caçador de Sonhos,"94,950",2003
+Terror na Escuridão,"32,858",2003
+Detonação,"105,311",2003
+Meninas de Calendário,"27,505",2003
+Em Águas Profundas,"55,643",2003
+Honey,"46,756",2003
+O Menino de Coro,"7,461",2003
+Homicídio em Hollywood,"38,608",2003
+Johnny English,"169,509",2003
+Desaparecidas,"37,499",2003
+Básico,"65,024",2003
+Sinbad - A Lenda dos Sete Mares,"57,682",2003
+Doidos à Solta - Quando Harry Conheceu Lloyd,"41,557",2003
+Um Homem à Parte,"48,794",2003
+Coral Reef Adventure,595,2003
+Piglet - O Filme,"8,402",2003
+À Prova de Bala,"51,527",2003
+Estrela à Força,"15,244",2003
+O Medalhão,"43,112",2003
+Amor Sem Preço,"9,183",2003
+Biker Boyz - Corridas Clandestinas,"13,878",2003
+A Casa de Campo,"24,102",2003
+Looney Tunes: De Novo em Acção,"39,430",2003
+Antes que a Morte os Separe!,"17,634",2003
+Abaixo o Amor,"43,469",2003
+Inocente ou Culpado?,"123,878",2003
+Resgate no Tempo,"64,866",2003
+A Mighty Wind,"28,991",2003
+Deliver Us from Eva,"7,574",2003
+Ghosts of the Abyss,"6,235",2003
+21 Gramas,"242,441",2003
+Altos Voos,"28,082",2003
+A Filha do Patrão,"30,299",2003
+Escolha Perigosa,"127,302",2003
+Coisas d'Homem,"17,945",2003
+Alex e Emma,"13,760",2003
+O primeiro amor nunca acaba,"9,869",2003
+Bugs!,365,2003
+Uma Casa na Bruma,"70,920",2003
+Deuses e Generais,"16,926",2003
+A Casa dos 1000 Cadáveres,"90,404",2003
+The Watermelon Heist,126,2003
+Confiança,"35,010",2003
+Rapariga com Brinco de Pérola,"81,001",2003
+House of the Dead - A Casa da Morte,"38,148",2003
+Swimming Pool,"47,574",2003
+Duplex,"59,682",2003
+O Divórcio,"11,875",2003
+Rush in Rio,829,2003
+Má Sorte,"35,042",2003
+Tupac: Resurrection,"9,721",2003
+O Devorador de Pecados,"18,258",2003
+Corre no Sangue,"5,150",2003
+Belleville Rendez-Vous,"56,110",2003
+Willard - Mansão do Terror,"20,131",2003
+O Jovem Cavalo Negro,"1,274",2003
+Mambo Italiano,"6,866",2003
+Confusões Amorosas,"4,345",2003
+Duro Amor,"50,140",2003
+American Splendor,"51,204",2003
+Lutero,"15,776",2003
+A Estação,"72,193",2003
+Culpa Humana,"31,765",2003
+Grind,"13,095",2003
+De Justin Para Kelly,"26,898",2003
+In the Cut - Atracção Perigosa,"25,692",2003
+Treze - Inocência Perdida,"94,389",2003
+Touching the Void - uma história de sobrevivência,"37,319",2003
+Ong-bak - O Guerreiro,"76,938",2003
+Amor Sem Fronteiras,"28,794",2003
+The Fog of War: Eleven Lessons from the Life of Robert S. McNamara,"24,581",2003
+O Evangelho Segundo S. João,"4,046",2003
+"Adeus, Lenine!","150,210",2003
+7 Dias em Cancun,"3,927",2003
+Haute Tension - Alta Tensão,"75,590",2003
+Step Into Liquid,"2,749",2003
+As Invasões Bárbaras,"29,766",2003
+The Hero: Love Story of a Spy,"2,535",2003
+Anything Else - A Vida e Tudo o Mais,"32,120",2003
+Os Friedmans,"26,554",2003
+The Wild Parrots of Telegraph Hill,"3,076",2003
+Monsieur Ibrahim et les fleurs du Coran,"11,423",2003
+My Architect,"3,287",2003
+Os Sonhadores,"127,549",2003
+Pedaços de uma Vida,"21,737",2003
+"Primavera, Verão, Outono, Inverno... e Primavera","85,322",2003
+Boa Viagem,"4,990",2003
+A Companhia,"6,751",2003
+DysFunktional Family,897,2003
+Verdade ou Mentira,"36,825",2003
+Sur le seuil,"1,283",2003
+Nez rouge,582,2003
+Café e Cigarros,"66,088",2003
+The Corporation,"21,599",2003
+Kal Ho Naa Ho,"72,677",2003
+A História do Camelo Que Chora,"6,365",2003
+"The Book of Mormon Movie, Volume 1: The Journey",521,2003
+Marci X - A Dama do Rap,"5,427",2003
+Campo de Férias,"6,085",2003
+Não Tenho Medo,"15,380",2003
+O Preço da Coragem,"21,388",2003
+Dogville,"154,677",2003
+Northfork,"5,538",2003
+Anjos no inferno,"21,147",2003
+Off the Map,"3,406",2003
+Sylvia,"11,108",2003
+Elefante,"95,148",2003
+Main Prem Ki Diwani Hoon,"4,969",2003
+Indigo,364,2003
+O Meu Castelo,"7,819",2003
+Festival Express,"2,377",2003
+Osama,"9,393",2003
+The R.M.,858,2003
+Baghban,"17,099",2003
+A Mãe,"4,573",2003
+Shrek 2,"488,319",2004
+Homem-Aranha 2,"684,520",2004
+A Paixão de Cristo,"243,768",2004
+Uns Compadres do Pior,"280,448",2004
+The Incredibles - Os Super Heróis,"776,645",2004
+Harry Potter e o Prisioneiro de Azkaban,"665,435",2004
+O Dia Depois de Amanhã,"464,849",2004
+Polar Express,"225,432",2004
+Supremacia,"477,528",2004
+O Tesouro,"346,352",2004
+O Gang dos Tubarões,"193,028",2004
+"Eu, Robot","560,734",2004
+Tróia,"554,680",2004
+Ocean's Twelve,"404,796",2004
+A Minha Namorada Tem Amnésia,"370,737",2004
+Van Helsing,"277,573",2004
+Fahrenheit 9/11,"131,281",2004
+Lemony Snicket - Uma Série de Desgraças,"216,187",2004
+Uma Questão... de Bolas,"260,645",2004
+A Vila,"271,156",2004
+The Grudge - A Maldição,"148,595",2004
+O Aviador,"374,999",2004
+Colateral,"421,786",2004
+Million Dollar Baby - Sonhos Vencidos,"706,371",2004
+O Diário da Princesa: Noivado Real,"86,072",2004
+Starsky & Hutch,"152,014",2004
+Romance Arriscado,"141,188",2004
+Giras e Terríveis,"406,985",2004
+SpongeBob SquarePants - O Filme,"98,148",2004
+O Repórter: A Lenda de Ron Burgundy,"370,364",2004
+Scooby Doo 2: Monstros à Solta,"62,170",2004
+O Diário da Nossa Paixão,"596,899",2004
+Alien vs Predador,"207,436",2004
+Homem em Fúria,"376,823",2004
+Terminal de Aeroporto,"479,745",2004
+Garfield: O Filme,"91,101",2004
+Ray,"153,858",2004
+Brigada 49,"58,832",2004
+Natal Radical,"53,586",2004
+Sideways,"197,648",2004
+Loiras à Força,"156,345",2004
+Hidalgo - O Grande Desafio,"84,328",2004
+Misteriosa Obsessão,"67,692",2004
+Kill Bill - A Vingança (vol. 2),"783,175",2004
+O Candidato da Verdade,"114,155",2004
+A Barbearia 2 - De Volta ao Negócio,"15,650",2004
+Miracle,"57,184",2004
+Luzes de Sexta à Noite,"65,681",2004
+Hellboy,"341,615",2004
+Mulheres Perfeitas,"68,477",2004
+O Renascer dos Mortos,"265,337",2004
+Sem Rumo e Sem Remos,"49,973",2004
+Efeito Borboleta,"508,136",2004
+Vamos Dançar?,"48,605",2004
+As Crónicas de Riddick,"237,524",2004
+"De Repente, Já nos 30!","205,976",2004
+Saw - Enigma Mortal,"442,663",2004
+Colisão,"444,351",2004
+Blade III: Trinity,"184,270",2004
+Rei Artur,"172,977",2004
+À Procura da Terra do Nunca,"209,874",2004
+A História da Cinderela,"91,598",2004
+O Fantasma da Ópera,"127,538",2004
+Resident Evil: Apocalipse,"206,007",2004
+O Paraíso da Barafunda,"24,891",2004
+"Albert, o Gordo","12,596",2004
+A Janela Secreta,"204,490",2004
+Walking Tall - Justiceiro Incorruptível,"107,582",2004
+Uma Boa Companhia,"56,051",2004
+Napoleon Dynamite - Um Novo Herói,"230,466",2004
+Espanglês,"87,167",2004
+Exorcista - O Princípio,"38,266",2004
+O Novo Diário de Bridget Jones,"118,830",2004
+Catwoman,"123,414",2004
+Hip Hop Sem Parar,"28,382",2004
+O Quinteto da Morte,"107,466",2004
+Sky Captain e o Mundo de Amanhã,"86,533",2004
+A Educação de Helen,"37,816",2004
+Táxi de Nova Iorque,"44,055",2004
+O Despertar da Mente,"1,044,247",2004
+"Alexandre, o Grande","173,783",2004
+Perto Demais,"229,751",2004
+Punisher - O Vingador,"166,888",2004
+Team America: Polícia Mundial,"175,332",2004
+Tirar Vidas,"93,556",2004
+Anacondas: Em Busca da Orquídea Maldita,"33,045",2004
+Ligação de Alto Risco,"103,821",2004
+Johnson Family Vacation,"8,181",2004
+Confissões de uma Adolescente,"30,573",2004
+Golpe no Paraíso,"49,028",2004
+O Príncipe e Eu,"40,753",2004
+Garden State,"220,899",2004
+Era Uma Vez... um Pai,"68,393",2004
+Twisted - Homicídios Ocultos,"22,683",2004
+A Volta ao Mundo em 80 Dias,"93,110",2004
+Um Peixe Fora de Água,"206,248",2004
+Cody Banks 2 - Missão em Londres,"15,596",2004
+Hotel Ruanda,"365,096",2004
+Ella Encantada,"72,189",2004
+Álamo,"21,821",2004
+O Sr. 3000,"14,886",2004
+Torque - A Lei do Mais Rápido,"29,120",2004
+Voo da Fénix,"55,943",2004
+As 'Amigas' do Meu Namorado,"18,711",2004
+NASCAR 3D: The IMAX Experience,645,2004
+Yu-Gi-Oh! The Movie,"8,892",2004
+Dois Irmãos,"15,655",2004
+"Grande Moca, Meu","202,381",2004
+As Leis da Atracção,"24,129",2004
+EuroTrip,"216,852",2004
+3 Homens e 3 Bebés,"3,840",2004
+Kung Fu Zão,"146,620",2004
+A Semente de Chucky,"48,084",2004
+O Ídolo dos Meus Sonhos,"28,970",2004
+Wimbledon - Encontro Perfeito,"65,760",2004
+Diários de Che Guevara,"103,506",2004
+Apanhem essa Garota,"10,808",2004
+Falsas Aparências 2,"57,626",2004
+A Feira das Vaidades,"23,232",2004
+Paparazzi,"15,514",2004
+Criminal,"10,661",2004
+A Miúda do Lado,"233,340",2004
+"Alce Daí, Senhor Presidente","13,279",2004
+O Enviado,"26,182",2004
+Dirty Dancing 2 - Noites de Havana,"29,024",2004
+New York Minute,"24,474",2004
+Soul Plane,"23,959",2004
+Zombies Party - Uma Noite... de Morte,"578,019",2004
+Alfie e as Mulheres,"54,259",2004
+De-Lovely,"11,674",2004
+O Apartamento,"57,818",2004
+Os Psico-Detectives,"65,723",2004
+À Procura de Liberty,"40,514",2004
+Inveja,"31,852",2004
+Breakin' All the Rules,"6,298",2004
+Sobrevivendo ao Natal,"26,203",2004
+The Cookout,"3,141",2004
+Super Size Me - 30 Dias de Fast Food,"111,656",2004
+O Segredo dos Punhais Voadores,"114,821",2004
+What the #$*! Do We (K)now!?,"13,754",2004
+Segue o Teu Sonho,"28,540",2004
+O Golpe Perfeito,"25,891",2004
+Relatório Kinsey,"50,436",2004
+Último Dia de Aulas,"17,567",2004
+Os Sabichões 2: Os Bebés-Génios,"31,554",2004
+A Filha da América,"25,784",2004
+Saved - Quem nos Acode,"48,097",2004
+O Suspeito Zero,"20,411",2004
+Connie e Carla,"8,484",2004
+As Paixões de Júlia,"12,784",2004
+Franjinhas e o Carrossel Mágico,"3,602",2004
+Woman Thou Art Loosed,"1,012",2004
+Thunderbirds,"14,269",2004
+O Amor Não Escolhe Idades,"12,400",2004
+A Noiva Indecisa,"21,393",2004
+Milhões,"26,100",2004
+Maria Cheia de Graça,"35,773",2004
+Teacher's Pet,"1,899",2004
+A Ilha dos Golpes,"18,617",2004
+Bobby Darin - O Amor é Eterno,"15,351",2004
+Um Longo Domingo de Noivado,"75,137",2004
+Encostada às Cordas,"7,348",2004
+Antes do Anoitecer,"278,430",2004
+Na Sombra de um Rapto,"14,240",2004
+Never Die Alone,"6,023",2004
+A Queda: Hitler e o Fim do Terceiro Reich,"366,270",2004
+Má Educação,"62,238",2004
+Birth - O Mistério,"38,282",2004
+"Clube Dread - Morre a Rir, Meu","31,030",2004
+O Libertino,"37,286",2004
+O Castelo Andante,"422,355",2004
+Caçadores de Mentes,"63,003",2004
+Spartan - O Rapto,"32,658",2004
+A Day Without a Mexican,"3,187",2004
+A Porta no Chão,"16,025",2004
+Melinda e Melinda,"32,875",2004
+Benji: Off the Leash!,658,2004
+Camping sauvage,662,2004
+O Mercador de Veneza,"37,579",2004
+Vera Drake,"26,347",2004
+Os Coristas,"65,298",2004
+Nascer no Bordel: os Filhos das Prostitutas de Calcutá,"17,728",2004
+The Work and the Glory,"1,178",2004
+Fahrenhype 9/11,"3,697",2004
+Clifford: O Meu Melhor Amigo,"1,038",2004
+Veer-Zaara,"55,470",2004
+Arnold Palmer's King Step Golf Shoes,$2.80M,2004
+Walk on Water: No Limite,"6,975",2004
+Bobby Jones - A Carreira de um Génio,"4,049",2004
+Control Room,"5,220",2004
+Layer Cake - Crime Organizado,"189,969",2004
+Riding Giants,"4,618",2004
+Ball & Chain,616,2004
+Confidences trop intimes,"5,222",2004
+Mar Adentro,"83,922",2004
+Desencontros,"9,828",2004
+Olhem para Mim,"5,425",2004
+Main Hoon Na,"38,356",2004
+Guardiões da Noite,"54,843",2004
+2046,"60,172",2004
+Star Wars: Episódio III - A Vingança dos Sith,"821,836",2005
+"As Crónicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa","414,570",2005
+Harry Potter e o Cálice de Fogo,"656,389",2005
+Guerra dos Mundos,"464,349",2005
+King Kong,"437,280",2005
+Os Fura-Casamentos,"367,962",2005
+Batman - O Início,"1,530,585",2005
+Charlie e a Fábrica de Chocolate,"504,732",2005
+Madagáscar,"423,260",2005
+Mr. e Mrs. Smith,"520,075",2005
+Hitch - A Cura para o Homem Comum,"328,112",2005
+Os Quebra-Ossos,"189,034",2005
+Quarteto Fantástico,"338,468",2005
+Chicken Little,"97,736",2005
+Robôs,"156,544",2005
+Walk the Line,"259,900",2005
+O Chupeta,"98,614",2005
+Dick e Jane - Ladrões Sem Jeito,"150,608",2005
+Virgem aos 40 Anos,"454,727",2005
+Pânico a Bordo,"168,219",2005
+Saw II - A Experiência do Medo,"263,984",2005
+O Segredo de Brokeback Mountain,"371,863",2005
+Uma Sogra de Fugir,"64,102",2005
+"Estás Frito, Meu!","33,783",2005
+À Dúzia é Mais Barato,"61,453",2005
+Os Três Duques,"80,808",2005
+A Marcha dos Pinguins,"59,239",2005
+The Ring 2 - O Aviso,"99,199",2005
+Constantine,"362,546",2005
+O Exorcismo de Emily Rose,"135,925",2005
+Quatro Irmãos,"152,982",2005
+Sin City: Cidade do Pecado,"783,374",2005
+A Intérprete,"109,540",2005
+V de Vingança,"1,152,209",2005
+Adivinha Quem?,"44,619",2005
+Sahara,"101,484",2005
+Treinador Carter,"164,719",2005
+Herbie: Prego a Fundo,"49,743",2005
+Amityville - A Mansão do Diabo,"115,242",2005
+Sky High - Escola de Heróis,"92,011",2005
+Máquina Zero,"200,009",2005
+Casei com uma Feiticeira,"74,255",2005
+Cinderella Man,"193,855",2005
+A Joia da Família,"71,381",2005
+Red Eye,"130,640",2005
+Memórias de uma Gueixa,"156,554",2005
+Ruídos do Além,"50,131",2005
+Wallace & Gromit: A Maldição do Coelhomem,"141,963",2005
+Jogos Mais Perigosos,"71,288",2005
+Todos ao Monte,"29,652",2005
+A Noiva Cadáver,"287,926",2005
+Um Treinador Genial,"39,978",2005
+Capuchinho Vermelho - A Verdadeira História,"64,517",2005
+O Amigo Oculto,"87,540",2005
+À Boleia Pela Galáxia,"204,625",2005
+Syriana,"132,945",2005
+Diary of a Mad Black Woman,"15,496",2005
+Mystery of the Nile,377,2005
+Corrida (A)rriscada,"17,875",2005
+Miss Detective 2: Armada e Fabulosa,"78,446",2005
+Enquanto Estiveres Aí...,"115,042",2005
+A Chave,"119,911",2005
+Munique,"233,760",2005
+Reino dos Céus,"300,748",2005
+Hostel,"186,627",2005
+Nanny McPhee - A Ama Mágica,"82,277",2005
+Quem Tem Medo do Papão?,"32,092",2005
+A Lenda de Zorro,"105,586",2005
+Mulher com Cão Procura Homem com Coração,"32,657",2005
+Correio de Risco 2,"210,477",2005
+Dizem por Aí...,"60,383",2005
+Fanaticamente Apaixonados,"46,719",2005
+The Adventures of Sharkboy and Lavagirl 3-D,"40,679",2005
+The Sisterhood of the Traveling Pants,"63,520",2005
+Orgulho e Preconceito,"315,624",2005
+Os Irmãos Grimm,"124,485",2005
+As Malucas das Cabeleireiras,"18,213",2005
+Pecado Capital,"75,376",2005
+A Ilha,"322,874",2005
+O Verdadeiro Anormal,"38,157",2005
+Hostage - Reféns,"112,603",2005
+Magnificent Desolation: Walking on the Moon 3D,998,2005
+O Fiel Jardineiro,"146,458",2005
+Na Sua Pele,"64,112",2005
+Bad News Bears - Um Desastre de Equipa,"22,381",2005
+Tudo por um Sonho,"13,795",2005
+Por Causa de Winn-Dixie,"12,305",2005
+Apenas Amigos,"123,538",2005
+Stealth - Ameaça Silenciosa,"55,484",2005
+A Casa de Cera,"130,494",2005
+Side Effects,117,2005
+Um Homem de Sonho,"55,242",2005
+"Boa Noite, e Boa Sorte","100,105",2005
+Uma História de Violência,"247,070",2005
+Get Rich or Die Tryin' - Vencer ou Morrer,"48,894",2005
+O Nevoeiro,"38,550",2005
+Zathura - Aventura no Espaço,"111,209",2005
+Rent,"55,067",2005
+Capote,"137,758",2005
+Doom - Sobrevivência,"116,868",2005
+XXX2: Estado Radical,"72,578",2005
+Elizabethtown,"71,814",2005
+A Descida,"237,325",2005
+Aeon Flux,"131,285",2005
+Serenity,"301,913",2005
+Águas Passadas,"64,539",2005
+Obrigado por Fumar,"226,314",2005
+Danny the Dog - Força Destruidora,"106,501",2005
+Elektra,"96,003",2005
+O Caminho para a Fama,"28,327",2005
+O Senhor da Guerra,"329,398",2005
+Match Point,"223,962",2005
+Constellation,683,2005
+Aposta de Risco,"47,658",2005
+Terapia do Amor,"41,696",2005
+Deuce Bigalow: Um Gigolo na Europa,"52,497",2005
+Hustle & Flow,"42,319",2005
+O Amor Está no Ar,"70,610",2005
+Terra dos Mortos,"99,164",2005
+Assalto à 13ª Esquadra,"80,951",2005
+Afinal Quem Manda Aqui?,"24,808",2005
+Valiant: Os Bravos do Pombal,"23,876",2005
+Os Produtores,"44,004",2005
+Amaldiçoados,"34,197",2005
+O Lado Bom da Fúria,"22,619",2005
+Profundo Azul,"78,481",2005
+North Country - Terra Fria,"44,236",2005
+Heffalump - O Fime,"8,103",2005
+A Febre dos Patins,"7,653",2005
+Os Renegados do Diabo,"103,751",2005
+A Máscara 2 - A Nova Geração,"58,304",2005
+Ressalto,"13,438",2005
+Wild Safari 3D,80,2005
+Assombrados - Uma História Americana,"26,504",2005
+The Perfect Man,"31,576",2005
+Wolf Creek,"76,337",2005
+À Vontade do Freguês,"103,032",2005
+The Gospel,"2,252",2005
+O Melhor Jogo de Sempre,"32,533",2005
+A Caverna,"40,452",2005
+Broken Flowers - Flores Partidas,"105,398",2005
+Casados por um fio,"7,516",2005
+O Novo Mundo,"88,490",2005
+O Matador,"45,967",2005
+Onaji tsuki wo miteiru,157,2005
+O Homem do Tempo,"82,178",2005
+End of the Spear,"5,422",2005
+A Honra do Dragão,"38,412",2005
+Dave Chappelle's Block Party,"9,511",2005
+Casanova,"55,675",2005
+Mrs. Henderson Presents,"16,168",2005
+Os Reis de Dogtown,"56,992",2005
+Uma Rapariga Cheia de Sonhos,"24,455",2005
+Domino,"68,640",2005
+O Resgate dos ''Soldados Fantasma'',"23,720",2005
+In the Mix,"8,444",2005
+Na Pele do Lobo,"28,112",2005
+Transamerica,"42,025",2005
+Aliens of the Deep,"3,307",2005
+Golpe a Frio,"24,630",2005
+Uma Vida Inacabada,"32,495",2005
+Agente Acidental,"26,361",2005
+A Promessa,"9,399",2005
+Mad Hot Ballroom,"3,525",2005
+O Regresso,"12,259",2005
+Proof - Entre o Génio e a Loucura,"45,749",2005
+A Lula e a Baleia,"87,226",2005
+Os Aristocratas,"16,929",2005
+Colete de Forças,"117,291",2005
+Desclassificado,"5,909",2005
+Alone in the Dark - Sozinhos no Escuro,"46,561",2005
+Indian - O Grande Desafio,"56,953",2005
+Os Três Enterros de Um Homem,"41,428",2005
+Golo!,"65,041",2005
+Kiss Kiss Bang Bang,"233,181",2005
+ Independent Lens,"4,537",2005
+King's Ransom,"3,869",2005
+"Eu, Tu e Todos os que Conhecemos","37,055",2005
+Nada a Esconder,"83,213",2005
+Stay - Entre a Vida e a Morte,"83,234",2005
+Tempos Cruéis,"67,564",2005
+Rize,"3,315",2005
+Água,"15,200",2005
+Grizzly Man,"59,760",2005
+The Boynton Beach Bereavement Club,"1,132",2005
+Supercross,"4,810",2005
+Tsotsi,"29,043",2005
+La mujer de mi hermano,"3,430",2005
+Junebug,"23,241",2005
+Havana - Cidade Perdida,"9,788",2005
+BloodRayne,"36,671",2005
+Perdido Por Grace,"1,011",2005
+Strangers with Candy,"8,361",2005
+Brick,"108,742",2005
+Fé e Glória - O Sonho Americano,771,2005
+Oliver Twist,"33,744",2005
+Escolha Mortal,"54,155",2005
+O Som do Trovão,"20,244",2005
+Kinky Boots - Uma Aposta em Grande,"21,019",2005
+Sweet Land,"4,050",2005
+Piratas das Caraíbas - O Cofre do Homem Morto,"746,089",2006
+"À Noite, no Museu","365,510",2006
+Carros,"448,047",2006
+X-Men: O confronto final,"531,041",2006
+O Código Da Vinci,"448,517",2006
+300,"844,817",2006
+Super-Homem: O Regresso,"288,742",2006
+Happy Feet,"194,786",2006
+A Idade do Gelo 2: Descongelados,"289,444",2006
+007: Casino Royale,"677,926",2006
+Em Busca da Felicidade,"540,631",2006
+Pular a Cerca,"184,794",2006
+As Corridas Loucas de Ricky Bobby,"193,673",2006
+Click,"346,396",2006
+Missão Impossível 3,"379,736",2006
+The Departed - Entre Inimigos,"1,376,592",2006
+Borat: Aprender Cultura da América para Fazer Benefício Glorioso à Nação do Cazaquistão,"428,481",2006
+O Diabo Veste Prada,"442,374",2006
+Separados de Fresco,"136,634",2006
+Dreamgirls,"75,981",2006
+Scary Movie 4 - Que Susto de Filme!,"126,256",2006
+Como Despachar um Encalhado,"83,859",2006
+Infiltrado,"387,654",2006
+Open Season - Boog e Elliot Vão à Caça,"102,529",2006
+Santa Cláusula 3 - Natal em Risco,"40,724",2006
+A Teia da Carlota,"45,004",2006
+A Pantera Cor-de-Rosa,"90,413",2006
+Antártida - Da Sobrevivência ao Resgate,"66,936",2006
+Saw 3 - O Legado,"202,508",2006
+Super Nacho - O Herói do Wrestling,"91,517",2006
+"Eu, Tu e o Emplastro","83,217",2006
+Eragon,"128,911",2006
+A Casa Fantasma,"131,285",2006
+Balbúrdia na Quinta,"33,199",2006
+Jackass number two,"78,746",2006
+Com a Casa às Costas,"62,359",2006
+World Trade Center,"86,085",2006
+Rocky Balboa,"226,948",2006
+Agente Disfarçado 2,"45,449",2006
+Step Up,"123,721",2006
+Por Água Abaixo,"134,164",2006
+Déjà Vu,"320,568",2006
+Miami Vice,"121,252",2006
+Reunião de Família,"11,747",2006
+O Amor não Tira Férias,"303,590",2006
+Velocidade Furiosa - Ligação Tóquio,"289,316",2006
+Underworld: Evolução,"205,926",2006
+O Rafeiro,"19,813",2006
+Poseidon,"108,349",2006
+O Bom Pastor,"106,356",2006
+Uma Família à Beira de um Ataque de Nervos,"502,885",2006
+Falhados... Por um Fio,"53,767",2006
+O Minorca,"58,154",2006
+"George, o Curioso","17,578",2006
+Invencível,"73,783",2006
+Diamante de Sangue,"570,496",2006
+A Rainha,"114,480",2006
+O Guardião,"96,244",2006
+O Génio do Mal,"61,093",2006
+O Último Destino 3,"149,207",2006
+O Terceiro Passo,"1,392,578",2006
+A Casa da Lagoa,"154,883",2006
+Apocalypto,"323,128",2006
+Firewall,"59,002",2006
+Date Movie,"61,296",2006
+Chamada de um Estranho,"47,521",2006
+A Maldição do Vale,"238,405",2006
+Deep Sea,"1,809",2006
+Universidade Marshall,"63,712",2006
+Caminho Para a Glória,"47,883",2006
+A Senhora da Água,"102,338",2006
+Terror nas Montanhas,"178,666",2006
+Morre Pinga Amor!,"86,600",2006
+Contado Ninguém Acredita,"233,826",2006
+O Ilusionista,"383,240",2006
+Massacre no Texas - O Início,"75,593",2006
+The Grudge - A Maldição 2,"50,706",2006
+Gangue em Campo,"79,181",2006
+Tudo o que Sonhei,"34,657",2006
+O Labirinto do Fauno,"687,555",2006
+O Nascimento de Cristo,"12,054",2006
+O Homem do Ano,"34,371",2006
+Selvagem,"27,029",2006
+16 Blocks,"133,306",2006
+Admitido,"137,616",2006
+O Sentinela,"51,373",2006
+Um Trunfo na Manga,"149,720",2006
+Os Filhos do Homem,"516,252",2006
+Um Vizinho a Apagar,"30,849",2006
+Ritmo e Sedução,"26,390",2006
+Babel,"311,864",2006
+Serpentes a Bordo,"142,862",2006
+Flags of Our Fathers - As Bandeiras dos Nossos Pais,"127,188",2006
+Voo 93,"109,092",2006
+Livrai-nos do Mal,"10,659",2006
+Funcionário do Mês,"49,386",2006
+Garfield 2,"45,616",2006
+O Rapaz Formiga,"40,937",2006
+Crank - Veneno no Sangue,"257,852",2006
+Revolta-te!,"29,932",2006
+A Coragem do Guerreiro,"77,769",2006
+Nunca Tantos Fizeram Tão Pouco 2,"139,095",2006
+Uma Verdade Inconveniente,"84,582",2006
+O Escolhido,"70,111",2006
+O Pacto,"51,222",2006
+Stay Alive,"33,414",2006
+A Minha Super Ex,"66,101",2006
+A Dália Negra,"75,924",2006
+Há Dias de Azar,"320,948",2006
+Waist Deep - Sem Saída,"10,375",2006
+Amazing Grace,"25,369",2006
+ATL - Acima da Lei,"12,026",2006
+Flicka: Atreve-te a Sonhar,"8,342",2006
+A Praire Home Companion - Bastidores da Rádio,"23,327",2006
+Pulse - A Última Dimensão,"30,253",2006
+Beerfest,"70,442",2006
+O Marine,"34,998",2006
+Letra a Letra,"21,124",2006
+A Sereia Apaixonada,"44,039",2006
+Ultravioleta,"83,324",2006
+Escola para Totós,"30,253",2006
+O Último Rei da Escócia,"192,336",2006
+Diário de um Escândalo,"82,328",2006
+Que Sorte a Minha!,"59,623",2006
+Annapolis - Paixão e Glória,"21,658",2006
+Menores Não Acompanhados,"12,136",2006
+Férias Assombradas,"29,126",2006
+Marie Antoinette,"116,882",2006
+Larry the Cable Guy: Health Inspector,"12,394",2006
+E Não Viveram Felizes Para Sempre,"10,953",2006
+Surpresas da Vida,"28,083",2006
+Alpha Dog,"106,250",2006
+Artur e os Minimeus,"39,680",2006
+O Coleccionador de Olhos,"28,277",2006
+Tristão e Isolda,"53,726",2006
+Quico - O Pequeno Herói,"9,376",2006
+Hollywoodland,"35,451",2006
+Cartas de Iwo Jima,"167,477",2006
+Uma Noite com o Rei,"7,612",2006
+Amigos com Dinheiro,"31,706",2006
+Flyboys - Nascidos para Voar,"43,776",2006
+Ou Comes... ou Levas,"5,840",2006
+Voltar,"105,409",2006
+A Minha Vida em Idlewild,"5,681",2006
+Freedomland - A Cor do Crime,"16,927",2006
+Zoom,"22,200",2006
+O Último Beijo,"42,071",2006
+Material Girls,"22,570",2006
+Algo Novo,"14,251",2006
+As Vidas dos Outros,"400,593",2006
+Bobby,"42,536",2006
+O Astronauta,"23,081",2006
+Scoop,"86,352",2006
+Roving Mars,"1,093",2006
+Duelo Até à Vitória,"17,690",2006
+O Último Capítulo,"245,222",2006
+Penelope,"65,131",2006
+Bratz: Passion 4 Fashion - Diamondz,"3,316",2006
+Black Snake Moan - A Redenção,"65,678",2006
+Taiyô no uta,"1,914",2006
+O Bom Nome,"21,345",2006
+Tenacious D - Rock dos Infernos,"113,185",2006
+Bella,"10,910",2006
+Pequenos Aventureiros,"8,651",2006
+O Véu Pintado,"94,904",2006
+Uma Voz na Noite,"15,796",2006
+Slither - Os Invasores,"86,630",2006
+El Cantante,"5,162",2006
+Um Ano Especial,"99,065",2006
+Doogal,"5,313",2006
+O Caminho do Poder,"25,257",2006
+American Dreamz,"25,055",2006
+Golpe Quase Perfeito,"16,972",2006
+Phat Girlz,"9,231",2006
+Turistas,"40,025",2006
+Crossover,"9,266",2006
+Bug,"36,816",2006
+Negócios de Interesse,"3,957",2006
+Medo de Morte,"102,038",2006
+Recortes da Minha Vida,"22,926",2006
+Vingadores Supremos,"12,862",2006
+A Maldição da Flor Dourada,"45,375",2006
+Não Digas a Ninguém,"56,776",2006
+O Matulão da Vovó,"86,515",2006
+Instinto Fatal 2,"40,870",2006
+Isto é Hollywood,"15,584",2006
+A Scanner Darkly - O Homem Duplo,"115,321",2006
+Rescue Dawn - Espírito Indomável,"109,173",2006
+Pecados Íntimos,"114,551",2006
+Moonlight: Unfortunately a Love Story,$5.16M,2006
+"Paris, je t'aime","73,820",2006
+A Ciência dos Sonhos,"70,286",2006
+Um Novato na Prisão,"26,195",2006
+Longe Dela,"22,797",2006
+Livro Negro,"78,985",2006
+Keeping Up with the Steins,"3,286",2006
+Catch a Fire - Guerra de Culturas,"10,675",2006
+Van Wilder 2 - O Rei da Festa,"23,746",2006
+O Caminho do Guerreiro Pacífico,"29,311",2006
+The Ultimate Gift,"19,861",2006
+Homem-Aranha 3,"618,129",2007
+"Shrek, o Terceiro","322,798",2007
+Transformers,"662,387",2007
+Piratas das Caraíbas - Nos Confins do Mundo,"675,043",2007
+Harry Potter e a Ordem da Fénix,"610,102",2007
+Eu Sou a Lenda,"789,696",2007
+Ultimato,"648,538",2007
+O Tesouro 2: O Livro dos Segredos,"247,717",2007
+Alvin e os Esquilos,"91,475",2007
+Ratatui,"784,839",2007
+Os Simpsons: O Filme,"342,346",2007
+Porcos & Selvagens,"121,604",2007
+Um Azar do Caraças,"378,694",2007
+Juno,"539,033",2007
+Hora de Ponta 3,"178,025",2007
+Die Hard 4.0 - Viver ou Morrer,"414,746",2007
+Quarteto Fantástico e o Surfista Prateado,"273,134",2007
+Gangster Americano,"441,177",2007
+Uma História de Encantar,"212,571",2007
+A História de uma Abelha,"173,286",2007
+Super Baldas,"610,304",2007
+Declaro-vos Marido e... Marido,"151,641",2007
+Hairspray,"135,756",2007
+A Glória dos Campeões,"174,550",2007
+Ocean's 13,"359,541",2007
+Ghost Rider,"247,132",2007
+Actividade Paranormal,"249,736",2007
+"Evan, o Todo-Poderoso","152,405",2007
+Os Robinsons,"107,307",2007
+Norbit,"77,270",2007
+Nunca é Tarde Demais,"254,252",2007
+"Pai, Jogas?","98,486",2007
+O Segredo de Terabítia,"166,498",2007
+Beowulf,"171,656",2007
+Paranóia,"243,310",2007
+Este País Não É Para Velhos,"1,019,863",2007
+Fred Claus - O Irmão do Pai Natal,"45,807",2007
+1408,"285,104",2007
+A Bússola Dourada,"193,685",2007
+Jogos de Poder,"122,919",2007
+Saw 4 - A Revelação,"157,162",2007
+Stomp the Yard,"26,165",2007
+Paraíso Tropical,451,2007
+Dia de surf,"86,846",2007
+Halloween,"126,959",2007
+Porque é Que Me Casei?,"13,491",2007
+Tartarugas Ninja: Uma Nova Aventura,"67,689",2007
+"P.S., I Love You","215,407",2007
+O Comboio das 3 e 10,"324,082",2007
+Sweeney Todd: O Terrível Barbeiro de Fleet Street,"379,168",2007
+Expiação,"291,319",2007
+Resident Evil 3: Extinção,"201,731",2007
+Música e Letra,"105,747",2007
+"Estás Cada Vez Mais Frito, Meu!","22,127",2007
+Natal em Família,"9,995",2007
+Michael Clayton,"170,836",2007
+Premonição,"80,549",2007
+O Amor e a Vida Real,"105,435",2007
+O Reino,"130,410",2007
+O Atirador,"346,882",2007
+Dinosaurs Alive,386,2007
+Licença para Casar,"40,209",2007
+Underdog - O Super-Cão,"22,338",2007
+Sem Reserva,"77,186",2007
+Porque Sim!,"39,650",2007
+AVP2: Aliens vs. Predador 2,"130,318",2007
+O Cavalo d'Água,"42,385",2007
+Haverá Sangue,"616,684",2007
+Epic Movie,"108,198",2007
+Hitman - Agente 47,"175,135",2007
+30 Dias de Escuridão,"184,191",2007
+Ruptura,"213,321",2007
+Stardust - O Mistério da Estrela Cadente,"279,318",2007
+Earth,"14,671",2007
+A Estranha em Mim,"62,408",2007
+O Mal Casado,"95,041",2007
+Páginas de Liberdade,"82,758",2007
+Os Mensageiros,"40,745",2007
+Número 23,"208,774",2007
+Elas Não Me Largam,"93,012",2007
+Mr. Bean em Férias,"131,072",2007
+Quebra de Confiança,"61,098",2007
+Zodiac,"573,170",2007
+Não Me Toques nas Bolas,"44,001",2007
+O Maravilhoso Mundo dos Brinquedos,"47,075",2007
+August Rush - O Som do Coração,"109,761",2007
+Por Uma Vida Melhor,"8,058",2007
+Debate Pela Liberdade,"61,162",2007
+28 Semanas Depois,"286,312",2007
+Nós Controlamos a Noite,"91,283",2007
+A Face Oculta de Mr. Brooks,"154,327",2007
+Hannibal - A Origem do Mal,"113,743",2007
+Diário de uma Nanny,"62,659",2007
+Um Padrasto para Esquecer!,"36,671",2007
+Nancy Drew,"21,185",2007
+Nevoeiro Misterioso,"327,467",2007
+As Pragas,"44,100",2007
+Grindhouse,"188,487",2007
+Sicko,"76,346",2007
+Across the Universe,"112,921",2007
+Um Perfeito Estranho,"50,086",2007
+Hot Fuzz - Esquadrão de Província,"523,113",2007
+Sea Monsters: A Prehistoric Adventure,"1,052",2007
+Guerra,"94,776",2007
+"Mimzy, A Chave do Futuro","22,018",2007
+Terror nas Montanhas II,"66,413",2007
+Invisível,"36,187",2007
+Reno 911!: Miami,"27,698",2007
+Vista Pela Última Vez...,"282,712",2007
+Em Nome da Amizade,"98,594",2007
+O Motel,"104,938",2007
+Amor aos Pedaços,"48,014",2007
+Regras Para Ser Feliz,"25,959",2007
+A Juventude de Jane,"63,930",2007
+O Lado Selvagem,"641,785",2007
+Walk Hard: A História de Dewey Cox,"75,861",2007
+Next - Sem Alternativa,"163,410",2007
+Postal,"23,777",2007
+Hostel 2,"93,694",2007
+Promessas Perigosas,"253,886",2007
+88 Minutos,"77,617",2007
+Silêncio Mortal,"99,063",2007
+Boleia Mortal,"44,534",2007
+Elizabeth - A Idade de Ouro,"73,833",2007
+O Menino de Cabul,"81,655",2007
+A Invasão,"81,138",2007
+Peões em Jogo,"51,608",2007
+Os Mosconautas no Mundo da Lua,"4,695",2007
+Acordado,"77,969",2007
+O Cão Bombeiro,"6,206",2007
+Rod Radical,"91,266",2007
+The Comebacks,"11,926",2007
+O Guarda-Fraldas em Apuros,"17,655",2007
+U2 3D,"2,915",2007
+Shoot 'Em Up - Atirar a Matar,"153,312",2007
+A Mesma Lua,"7,291",2007
+Acho que Gosto da Minha Mulher,"17,371",2007
+Ao Anoitecer,"13,909",2007
+The Darjeeling Limited,"210,705",2007
+Uma Caloira. Sete Paspalhões,"50,148",2007
+No Mundo das Mulheres,"32,332",2007
+D-War - A Guerra dos Dragões,"25,121",2007
+Primitivo,"14,703",2007
+La Vie En Rose,"89,334",2007
+Pathfinder - O Guerreiro do Novo Mundo,"45,598",2007
+Bratz: O Filme,"24,524",2007
+Detenção Secreta,"57,575",2007
+Sentença de Morte,"73,713",2007
+No Mesmo Tom,"119,481",2007
+O Visitante,"44,012",2007
+Um Coração Poderoso,"28,018",2007
+Os Seis Sinais da Luz,"15,693",2007
+Morte Num Funeral,"119,047",2007
+The Grand,"5,958",2007
+Nome de Código: Limpeza,"12,023",2007
+Delta da Treta,"11,397",2007
+Trumbo,"1,223",2007
+Eu Sei Quem Me Matou,"30,555",2007
+O Pequeno Marciano,"20,761",2007
+O Orfanato,"160,518",2007
+Antes que o Diabo Saiba que Morreste,"108,303",2007
+Como Ela Dança,"6,755",2007
+Orgulho,"6,774",2007
+Redline - Velocidade sem Limites,"8,973",2007
+No Vale de Elah,"74,304",2007
+Os Savages,"38,259",2007
+Maratona do Amor,"69,362",2007
+O Escafandro e a Borboleta,"109,317",2007
+Lars e o Verdadeiro Amor,"150,981",2007
+A Última Legião,"36,695",2007
+Reggaeton - Sente a Música,"4,775",2007
+Férias Perfeitas,"3,230",2007
+Um Golpe de Sorte,"20,970",2007
+Mongol: A ascensão de Genghis Khan,"48,262",2007
+Who's Your Caddy?,"15,435",2007
+Aqua Teen Hunger Force Colon Movie Film for Theaters,"14,353",2007
+Os Falsificadores,"46,712",2007
+O Amor nos Tempos de Cólera,"23,784",2007
+"Sedução, Conspiração","44,223",2007
+Vigilante,"59,991",2007
+Em Nome do Rei,"50,427",2007
+Regresso em Grande Estilo,"7,311",2007
+Fala Comigo,"10,149",2007
+Persépolis,"97,946",2007
+2 Dias em Paris,"31,801",2007
+I'm Not There - Não Estou Aí,"60,268",2007
+Ladrão Que Rouba a Ladrão,"1,970",2007
+P2 - Zona de Risco,"35,440",2007
+Young @ Heart,"4,036",2007
+Charlie Bartlett - Psicanálise para Todos,"66,139",2007
+O Assassínio de Jesse James Pelo Cobarde Robert Ford,"188,934",2007
+Até que Me Encontrou,"10,113",2007
+Missão Solar,"260,158",2007
+Om Shanti Om,"47,106",2007
+O Clube de Leitura de Jane Austen,"28,716",2007
+Sangue e Chocolate,"18,096",2007
+O Banquete do Amor,"16,956",2007
+Tudo o que Perdemos,"29,422",2007
+O Renascer do Campeão,"21,117",2007
+Illegal Tender,"2,714",2007
+O Cavaleiro das Trevas,"2,772,751",2008
+Homem de Ferro,"1,096,041",2008
+Indiana Jones e o Reino da Caveira de Cristal,"479,931",2008
+Hancock,"500,194",2008
+WALL·E,"1,161,229",2008
+O Panda do Kung Fu,"497,187",2008
+Crepúsculo,"475,843",2008
+Madagáscar 2,"239,793",2008
+007: Quantum of Solace,"461,805",2008
+Horton e o Mundo dos Quem,"147,000",2008
+O Sexo e a Cidade,"125,255",2008
+Gran Torino,"797,122",2008
+Busca Implacável,"619,982",2008
+Mamma Mia!,"262,424",2008
+Marley & Eu,"164,024",2008
+As Crónicas de Nárnia: Príncipe Caspian,"219,358",2008
+Quem Quer Ser Bilionário?,"864,222",2008
+O Incrível Hulk,"511,631",2008
+Procurado,"401,211",2008
+Get Smart - Olho Vivo,"224,521",2008
+O Estranho Caso de Benjamin Button,"676,488",2008
+Uns Sogros de Fugir,"76,426",2008
+Bolt,"222,139",2008
+Tempestade Tropical,"434,825",2008
+Histórias para Adormecer,"99,213",2008
+A Múmia: O Túmulo do Imperador Dragão,"167,400",2008
+Viagem ao Centro da Terra,"128,346",2008
+Olhos de Lince,"192,401",2008
+Filhos e Enteados,"309,499",2008
+Não te Metas com o Zohan,"209,577",2008
+Sim!,"374,945",2008
+10.000 AC,"134,011",2008
+O Chihuahua de Beverly Hills,"25,333",2008
+High School Musical 3 - Último Ano,"65,719",2008
+Alta Pedrada,"350,694",2008
+Valquíria,"253,714",2008
+21: A Última Cartada,"261,406",2008
+Loucuras em Las Vegas,"183,716",2008
+Jumper,"316,694",2008
+Nome de Código: Cloverfield,"412,185",2008
+O Dia em que a Terra Parou,"175,851",2008
+Vestida Para Casar,"170,526",2008
+Hellboy II - O Exército Dourado,"280,649",2008
+Ponto de Mira,"152,735",2008
+As Crónicas de Spiderwick,"100,176",2008
+O Tesouro Encalhado,"82,820",2008
+Sete Vidas,"310,622",2008
+Modelos Nada Correctos,"237,334",2008
+"Hanna Montana e Miley Cyrus: O Melhor dos Dois Mundos, em Concerto","12,109",2008
+O Acontecimento,"213,200",2008
+Um Belo Par... de Patins,"296,052",2008
+Vai Chamar Mãe a Outra,"46,603",2008
+Destruir Depois de Ler,"344,416",2008
+Step Up 2,"89,789",2008
+Saw 5 - A Sucessão,"130,592",2008
+Os Estranhos,"137,695",2008
+O Reino Proibido,"108,242",2008
+A Lenda de Despereaux,"39,331",2008
+Austrália,"127,538",2008
+A Casa das Coelhinhas,"87,530",2008
+A Ilha de Nim,"36,286",2008
+Padrinho... Mas Pouco,"74,520",2008
+"Universidade, a Quanto Obrigas!","16,487",2008
+The Sisterhood of the Traveling Pants 2,"30,259",2008
+Speed Racer,"76,828",2008
+Prom Night - A Última Noite,"37,451",2008
+John Rambo,"239,700",2008
+Bem-Vindo a Casa Roscoe Jenkins,"15,381",2008
+Meet the Browns,"7,163",2008
+O Sorriso das Estrelas,"25,910",2008
+Max Payne,"128,703",2008
+A Dupla Face da Lei,"90,751",2008
+O Corpo da Mentira,"234,669",2008
+Vizinho Suspeito,"54,424",2008
+Uns Espartanos do Pior,"110,421",2008
+"Grande Moca, Meu! A Fuga","140,250",2008
+Assalto à Paróquia,"11,365",2008
+A Vida Secreta das Abelhas,"27,367",2008
+The Family That Preys,"7,731",2008
+Corrida Mortal,"215,365",2008
+A Troca,"261,539",2008
+Star Wars: A Guerra dos Clones,"70,360",2008
+O Leitor,"253,607",2008
+Semi-Pro,"84,785",2008
+Prova de Fogo,"23,660",2008
+Dúvida,"133,867",2008
+Guarda-Costas de Segunda,"61,730",2008
+O Guru do Amor,"54,185",2008
+"Para Sempre, Talvez...","170,553",2008
+Milk,"177,430",2008
+Transporter - Correio de Risco 3,"173,065",2008
+Quarentena,"75,644",2008
+Nick and Norah Playlist Infinita,"94,469",2008
+Zack e Miri Fazem Um Porno,"180,649",2008
+O Olho,"55,346",2008
+Jogo Sujo,"32,977",2008
+Espelhos,"111,381",2008
+Macacos no Espaço,"12,220",2008
+O Golpe de Baker Street,"186,448",2008
+Indetectável,"52,124",2008
+Resistentes,"153,065",2008
+Mulheres!,"22,519",2008
+Uma Chamada Perdida,"33,555",2008
+A Outra Bolena,"117,415",2008
+Super-Herói: O Filme,"73,132",2008
+Os Reis da Rua,"118,191",2008
+O Wrestler,"314,966",2008
+Obturador Fatal,"36,626",2008
+W.,"49,497",2008
+Até ao Último Combate,"104,621",2008
+Traidor,"58,638",2008
+Vicky Cristina Barcelona,"263,570",2008
+Revolutionary Road,"220,452",2008
+Babylon A.D.,"97,556",2008
+Ficheiros Secretos: Quero Acreditar,"93,046",2008
+Dinheiro Vivo,"22,387",2008
+Appaloosa,"63,167",2008
+The Spirit,"62,300",2008
+Igor,"23,993",2008
+A Namorada do Meu Melhor Amigo,"45,620",2008
+Frost/Nixon,"110,842",2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+ Água na Boca,$18.55M,2008
+Kit Kittredge: An American Girl,"6,237",2008
+As Ruínas,"78,499",2008
+Coração de Tinta,"80,745",2008
+Estado de Guerra,"464,814",2008
+O Último Voto,"19,207",2008
+Orgulho e Glória,"62,401",2008
+O Perigo Espreita,"57,770",2008
+Ponyo à Beira-Mar,"154,146",2008
+A Um Passo do Amor,"22,129",2008
+Um Desastre de Filme,"93,562",2008
+A Duquesa,"85,939",2008
+A Maldição de Molly Hartley,"9,999",2008
+Fantasmas na Cidade,"76,497",2008
+Religulous - Que o Céu nos Ajude,"59,859",2008
+O casamento de Rachel,"50,517",2008
+Os piratas que não fazem nada,"3,016",2008
+A Vida num Só Dia,"29,309",2008
+Homens do Soul,"11,432",2008
+Sunshine Cleaning - Serviços de Limpeza,"73,123",2008
+Pequeno Grande Dave,"42,758",2008
+Avatar,"1,359,255",2009
+Transformers - Retaliação,"420,910",2009
+Harry Potter e o Príncipe Misterioso,"572,968",2009
+A Saga Twilight: Lua Nova,"293,408",2009
+Up: Altamente,"1,087,506",2009
+A Ressaca,"819,172",2009
+Star Trek,"613,690",2009
+Um Sonho Possível,"350,727",2009
+Alvin e os Esquilos 2,"52,483",2009
+Sherlock Holmes,"654,471",2009
+Monstros vs. Aliens,"171,267",2009
+A Idade do Gelo 3: Despertar dos Dinossauros,"256,694",2009
+X-Men Origens: Wolverine,"520,054",2009
+"À Noite, no Museu 2","206,697",2009
+2012,"389,518",2009
+A Proposta,"343,813",2009
+Velozes e Furiosos,"302,744",2009
+G.I. Joe - O Ataque dos Cobra,"212,929",2009
+Um Conto de Natal,"123,622",2009
+Anjos e Demónios,"303,329",2009
+Exterminador Implacável: A Salvação,"371,626",2009
+Chovem Almôndegas,"248,453",2009
+Sacanas Sem Lei,"1,520,277",2009
+Força-G,"48,750",2009
+Distrito 9,"701,413",2009
+Amar... é Complicado!,"96,427",2009
+Terapia Para Casais,"112,512",2009
+Watchmen: Os Guardiões,"568,770",2009
+A Princesa e o Sapo,"158,435",2009
+Inimigos Públicos,"312,254",2009
+Julie & Julia,"125,731",2009
+Ele Não Está Assim Tão Interessado,"179,165",2009
+Madea Goes to Jail,"12,682",2009
+ABC da Sedução,"226,032",2009
+Nas Nuvens,"344,386",2009
+Sinais do Futuro,"242,522",2009
+Hannah Montana: O Filme,"44,560",2009
+O Sítio das Coisas Selvagens,"107,289",2009
+Bem-vindo à Zombieland,"602,611",2009
+Coraline e a Porta Secreta,"249,878",2009
+Um Cidadão Exemplar,"310,103",2009
+Hotel para Cães,"24,497",2009
+This Is It,"41,335",2009
+"És o Maior, Meu!","213,446",2009
+Obsessão,"33,352",2009
+Corrida para a Montanha Mágica,"61,872",2009
+O Último Destino 3D,"111,524",2009
+Assalto ao Metro 123,"203,955",2009
+Sexta-Feira 13,"113,080",2009
+"17 Anos, Outra Vez!","210,403",2009
+A Mulher do Viajante no Tempo,"155,207",2009
+Brüno,"151,982",2009
+Noivas em Guerra,"112,429",2009
+O Mensageiro dos Espíritos,"63,918",2009
+As Minhas Adoráveis Ex-Namoradas,"92,829",2009
+Gente Gira,"122,260",2009
+I Can Do Bad All by Myself,"10,565",2009
+São Valentim Sangrento,"58,914",2009
+2 Amas de Gravata,"39,028",2009
+Terra dos Perdidos,"73,766",2009
+Para a Minha Irmã,"96,420",2009
+Precious,"114,360",2009
+Underworld: A Revolta,"164,993",2009
+Louca por Compras,"81,526",2009
+Visto do Céu,"175,778",2009
+Ano Um,"101,498",2009
+Espírito do Mal,"52,804",2009
+Até ao Inferno,"211,929",2009
+Planeta 51,"57,425",2009
+Órfã,"243,272",2009
+Dupla Sedução,"51,685",2009
+Crazy Heart,"92,982",2009
+Os Substitutos,"178,443",2009
+Ninja Assassino (2009),"74,285",2009
+Invictus,"164,796",2009
+Ligações Perigosas,"156,026",2009
+Notorious B.I.G.,"45,374",2009
+Under the Sea 3D,"1,909",2009
+A Pantera Cor-de-Rosa 2,"47,121",2009
+Nada Mais Que Steve,"43,610",2009
+Halloween II,"57,839",2009
+O Delator!,"66,470",2009
+A Última Casa à Esquerda,"97,547",2009
+Homens Que Matam Cabras só com o Olhar,"135,790",2009
+(500) Dias com Summer,"538,833",2009
+Push - Os Poderosos,"114,228",2009
+9,"144,356",2009
+O Solista,"54,828",2009
+Daybreakers - O Último Vampiro,"132,693",2009
+Ouviste Falar dos Morgans?,"41,948",2009
+O Padrasto,"37,406",2009
+Os Indesejados,"83,290",2009
+Entre Irmãos,"138,980",2009
+Saw 6 - Jogos Mortais,"118,105",2009
+Atraídos Pelo Crime,"65,494",2009
+Marados da Dança,"12,584",2009
+Contatos de 4° Grau,"80,218",2009
+The International - A Organização,"98,053",2009
+Aliens no Sótão,"23,598",2009
+Nove,"44,807",2009
+Incorrecto e Afirmativo,"64,389",2009
+Lutador - A Lei das Ruas,"33,891",2009
+Amor Por Acaso,"33,673",2009
+Fama,"16,747",2009
+O Fantástico Senhor Raposo,"255,131",2009
+A Pedra Mágica,"7,804",2009
+O Segurança do Shopping,"114,649",2009
+Jogo,"138,081",2009
+Pague Um & Leve Todos,110,2009
+Astro Boy,"38,735",2009
+Oceanos,"9,951",2009
+Jonas Brothers: O Concerto 3D,"17,513",2009
+A Invenção da Mentira,"146,108",2009
+À Conquista das Cheerleaders,"45,404",2009
+Splice - Mutante,"100,378",2009
+De Malas Aviadas,"24,373",2009
+O Corpo de Jennifer,"143,908",2009
+Terra dos Sonhos,"15,543",2009
+Adventureland,"165,443",2009
+Blindado,"31,458",2009
+Uma Fuga Perfeita,"75,218",2009
+Juventude em Revolta,"75,491",2009
+Olho Para o Negócio,"22,288",2009
+Presente de Morte,"93,948",2009
+Uma Noite com Beth Cooper,"36,846",2009
+Capitalismo - Uma História de Amor,"43,559",2009
+Amelia,"13,235",2009
+Circo dos Horrores: O Assistente do Vampiro,"47,461",2009
+Crank 2: Alta Voltagem,"155,427",2009
+Caso 39,"91,198",2009
+Sobre Rodas,"69,405",2009
+Uma Outra Educação,"136,734",2009
+12 Desafios,"29,960",2009
+Irmandade de Sangue,"31,820",2009
+A Jovem Vitória,"65,042",2009
+Maré de Azar,"49,747",2009
+Not Easily Broken,"3,126",2009
+Pandorum - Universo Paralelo,"156,160",2009
+Inferno Branco,"39,886",2009
+O Próximo a Abater II,"66,053",2009
+Millennium 1 - Os Homens que Odeiam as Mulheres,"220,623",2009
+Entrega Perdida,"10,999",2009
+Um Lugar para Viver,"54,599",2009
+Dragonball: Evolução,"77,735",2009
+Um Homem Sério,"147,095",2009
+Get Low - A Lenda de Felix Bush,"23,760",2009
+Um Homem Singular,"115,861",2009
+Millennium 2: A Rapariga que Sonhava com uma Lata de Gasolina e um Fósforo,"97,307",2009
+Estão Todos Bem,"63,093",2009
+Street Fighter: A Lenda de Chun-Li,"24,989",2009
+A Minha Vida em Ruínas,"20,526",2009
+Um Regresso Inesperado,"4,468",2009
+O Barco do Rock,"114,320",2009
+The Collector,"69,613",2009
+Parnassus - O Homem Que Queria Enganar o Diabo,"152,312",2009
+Destino: Woodstock,"29,744",2009
+City Island - Segredos à Medida,"32,222",2009
+A Última Estação,"18,940",2009
+3 Idiots,"417,111",2009
+O Segredo dos Seus Olhos,"216,585",2009
+A Vida Por Um Canudo,"14,768",2009
+Coco Avant Chanel,"41,484",2009
+Millennium 3 - A Rainha no Palácio das Correntes de Ar,"73,508",2009
+Tudo Pode Dar Certo,"75,911",2009
+Will - Uma História de Perseverança,"14,997",2009
+Abraços Desfeitos,"42,054",2009
+Moon - O Outro Lado da Lua,"369,509",2009
+Eu Sou o Amor,"23,456",2009
+O Último Bailarino de Mao,"8,182",2009
+Miss Março,"22,072",2009
+Bright Star - Estrela Cintilante,"28,288",2009
+Eterno Solteirão,"16,860",2009
+Não Toques no Meu Cabelo,"6,154",2009
+The September Issue,"7,898",2009
+To Save a Life,"5,806",2009
+O Preço da Traição,"76,254",2009
+Chéri,"11,495",2009
+Sem Nome,"33,660",2009
+À Procura do Homem Ideal,"9,280",2009
+Love Aaj Kal,"16,674",2009
+"Em Inglês, S.F.F.","60,366",2009
+Adam,"35,382",2009
+Sistemas,98,2009
+O Laço Branco,"76,084",2009
+Um Profeta,"100,767",2009
+Eu Amo-te Phillip Morris,"98,366",2009
+The Mighty Macs,"1,734",2009
+Harry Brown,"89,980",2009
+Coco Chanel & Igor Stravinsky,"6,875",2009
+Polícia sem Lei,"79,650",2009
+Cairo Time,"6,721",2009
+A Hora Dupla,"4,160",2009
+Uma Família Com Etiqueta,"41,322",2009
+Kambakkht Ishq,"7,425",2009
+Para Lá da Música,"38,107",2009
+I Hope They Serve Beer in Hell,"8,628",2009
+X Games 3D: The Movie,317,2009
+Kaminey,"17,742",2009
+Paper Heart,"8,521",2009
+Micmacs - Uma Brilhante Confusão,"30,927",2009
+Toy Story 3,"867,670",2010
+Alice no País das Maravilhas,"429,937",2010
+Homem de Ferro 2,"847,318",2010
+A Saga Twilight: Eclipse,"254,496",2010
+Harry Potter e os Talismãs da Morte: Parte 1,"576,680",2010
+A Origem,"2,461,628",2010
+Gru: O Maldisposto,"567,585",2010
+Shrek 4: Para Sempre,"217,774",2010
+Como Treinares o Teu Dragão,"773,567",2010
+Entrelaçados,"476,723",2010
+Karate Kid,"197,583",2010
+Tron: O Legado,"348,540",2010
+Indomável,"350,344",2010
+Confronto de Titãs,"288,763",2010
+Miúdos e Graúdos,"264,871",2010
+Megamind,"282,227",2010
+Não Há Família Pior!,"116,609",2010
+O Discurso do Rei,"696,491",2010
+O Último Airbender,"168,603",2010
+Shutter Island,"1,391,045",2010
+Agentes de Reserva,"280,711",2010
+Salt,"324,329",2010
+Jackass 3D,"67,581",2010
+Dia dos Namorados,"123,073",2010
+Cisne Negro,"798,300",2010
+Robin Hood,"277,378",2010
+As Crónicas de Nárnia: A Viagem do Caminheiro da Alvorada,"161,550",2010
+Os Mercenários,"356,313",2010
+A Tempo e Horas,"352,729",2010
+Zé Colmeia,"22,994",2010
+Uma Noite Atribulada,"168,377",2010
+A Rede Social,"734,003",2010
+O Sexo e a Cidade 2,"82,468",2010
+O Livro de Eli,"330,147",2010
+The Fighter - Último Round,"380,849",2010
+A Cidade,"405,506",2010
+Príncipe da Pérsia: As Areias do Tempo,"298,436",2010
+Red: Perigosos,"317,962",2010
+Percy Jackson e os Ladrões do Olimpo,"195,786",2010
+Actividade Paranormal 2,"107,831",2010
+Imparável,"203,697",2010
+Comer Orar Amar,"102,714",2010
+Juntos ao Luar,"154,714",2010
+Soldados da Fortuna,"265,270",2010
+Dia e Noite,"205,551",2010
+Jantar de Idiotas,"109,542",2010
+O Turista,"251,429",2010
+Ex-Mulher Procura-se,"132,029",2010
+Diário de um Banana,"55,223",2010
+O Aprendiz de Feiticeiro,"167,119",2010
+Pesadelo em Elm Street,"104,605",2010
+A Melodia do Adeus,"90,847",2010
+O Lobisomem,"109,237",2010
+"É Muito Rock, Meu!","183,348",2010
+Resident Evil: Ressurreição,"176,305",2010
+Porque é Que Me Casei Também?,"10,052",2010
+A Fada dos Dentes,"48,535",2010
+Secretariat,"29,863",2010
+Ela é Fácil,"406,218",2010
+Assalto Arriscado,"64,727",2010
+Lenda dos Guardiões,"85,836",2010
+Insidious - Insidioso,"328,280",2010
+É a Vida!,"136,466",2010
+Cartas para Julieta,"104,804",2010
+Wall Street: O Dinheiro Nunca Dorme,"105,191",2010
+Hubble 3D,"4,470",2010
+Predadores,"239,096",2010
+Jacuzzi - O Desastre do Tempo,"181,821",2010
+Kick-Ass - O Novo Super-Herói,"581,048",2010
+Kiss & Kill - Beijos & Balas,"94,435",2010
+Saw 3D - O Capítulo Final,"103,522",2010
+Não Chamem a Polícia!,"89,600",2010
+Cães e Gatos: A Vingança de Kitty Galore,"15,877",2010
+Fora de Controlo,"97,111",2010
+As Viagens de Gulliver,"72,071",2010
+Morte num funeral,"52,457",2010
+Step Up 3,"59,461",2010
+O Último Exorcismo,"51,232",2010
+Legião,"108,891",2010
+Burlesque,"90,505",2010
+The Crazies - Desconfia dos Teus Vizinhos,"126,423",2010
+Para Raparigas de Cor,"8,050",2010
+Plano B...ebé,"51,329",2010
+Ponha Aqui o Seu Dentinho,"50,489",2010
+O Americano,"100,512",2010
+Green Zone: Combate pela Verdade,"140,851",2010
+Marmaduke,"17,057",2010
+O Demónio,"153,052",2010
+Hereafter - Outra Vida,"94,404",2010
+Em Roma,"63,770",2010
+O Amor é o Melhor Remédio,"215,029",2010
+Ela é Demais para Mim!,"141,242",2010
+Scott Pilgrim Contra o Mundo,"447,859",2010
+A Dívida,"71,063",2010
+Sempre que Te Vejo,"63,911",2010
+Manhãs Gloriosas,"81,178",2010
+Tens a Certeza?,"53,473",2010
+Nanny McPhee e o Toque de Magia,"35,545",2010
+A Troca,"110,087",2010
+Machete,"201,624",2010
+As Aventuras de Ramona,"19,662",2010
+Tinhas Mesmo Que Ser Tu...,"108,545",2010
+Oh Não! Outra Vez Tu?,"53,534",2010
+Alpha & Omega,"14,914",2010
+Piranha 3D,"94,874",2010
+"Socorro, Ganhei a Lotaria!","11,375",2010
+Espião nas Horas Vagas,"45,947",2010
+Não Tenhas Medo do Escuro,"49,961",2010
+De Paris com Amor,"120,083",2010
+Os Perdedores,"105,286",2010
+Vingança Rápida,"110,593",2010
+Jogo de Paixão,"15,252",2010
+Skyline - O Alvo Somos Nós,"91,362",2010
+72 Horas,"202,058",2010
+Os Miúdos Estão Bem,"133,069",2010
+Até Que a Família nos Separe,"7,372",2010
+O Renascer da Estrela,"18,724",2010
+O Mundo Secreto de Arrietty,"98,831",2010
+Lembra-te de Mim,"152,540",2010
+127 Horas,"391,381",2010
+Adoro-te... à Distância,"59,517",2010
+A Bicharada Contra-Ataca,"17,882",2010
+O Escritor Fantasma,"168,370",2010
+A Sétima Alma,"21,244",2010
+Repo Men: Os Cobradores,"109,459",2010
+Ostavljeni,343,2010
+Deixa-me Entrar,"125,228",2010
+Medidas Extraordinárias,"17,504",2010
+A Conspiradora,"29,557",2010
+Jonah Hex,"60,572",2010
+Blue Valentine - Só Tu e Eu,"205,785",2010
+Jogo Limpo,"50,357",2010
+MacGruber - Licença para Estragar,"46,641",2010
+Centurião,"84,913",2010
+O Seu Nome era Sarah,"17,700",2010
+Planeta Hulk,"13,521",2010
+A Minha Versão do Amor,"25,805",2010
+Cyrus,"36,340",2010
+Bebés,"7,367",2010
+Incendies - A Mulher que Canta,"188,346",2010
+A Advogada,"45,289",2010
+Sea Rex 3D: Journey to a Prehistoric World,443,2010
+Despojos de Inverno,"146,928",2010
+À Espera do 'Super-Homem',"11,576",2010
+É Uma Espécie de... Comédia,"146,358",2010
+Assim é o Amor,"93,898",2010
+O Caminho do Guerreiro,"26,896",2010
+A Gruta dos Sonhos Perdidos,"17,316",2010
+Biutiful,"93,281",2010
+Dabangg,"33,615",2010
+Homens de Negócios,"47,396",2010
+O Caminho,"34,431",2010
+Enthiran,"29,043",2010
+Inside Job - A Verdade da Crise,"77,593",2010
+Greenberg,"38,889",2010
+Encontros em Nova Iorque,"11,486",2010
+My Name Is Khan,"112,036",2010
+Dos Homens e dos Deuses,"15,876",2010
+As Runaways,"50,317",2010
+Banksy - Pinta a Parede!,"67,852",2010
+Vais Conhecer o Homem dos Teus Sonhos,"47,065",2010
+Catfish,"43,442",2010
+Um Ano Mais,"30,388",2010
+Joan Rivers: A Piece of Work,"3,778",2010
+Letters to God,"5,145",2010
+Pronto Para Recomeçar,"52,410",2010
+Rumo à Liberdade,"119,984",2010
+N-Secure,649,2010
+Nunca Me Deixes,"150,217",2010
+O Poder da Graça,"3,243",2010
+O Mágico,"36,065",2010
+O Outro Lado do Coração,"50,515",2010
+Gustavo Goulart: Isso me atormenta!,98,2010
+A Viagem,"23,162",2010
+Stone - Ninguém É Inocente,"42,373",2010
+Somewhere - Algures,"45,969",2010
+A Descoberta do Primeiro Amor,"94,524",2010
+Potiche - Minha Rica Mulherzinha,"11,149",2010
+Senna,"73,594",2010
+Kites,"13,525",2010
+I Am,"3,849",2010
+Bill Cunningham New York,"5,605",2010
+Raajneeti,"18,428",2010
+Bodyguard,"1,279",2010
+Cópia Certificada,"25,948",2010
+"No eres tú, soy yo","1,081",2010
+Restrepo,"24,163",2010
+Daybreak,43,2010
+Em Nome da Vingança,"1,671",2010
+Dylan Dog: Guardião da Noite,"15,467",2010
+Housefull,"15,176",2010
+Golmaal 3,"9,176",2010
+Delatora,"35,169",2010
+Igualdade de Sexos,"15,837",2010
+Tees Maar Khan,"13,713",2010
+Reino Animal,"59,393",2010
+Casino Jack - O Dinheiro dos Outros,"17,511",2010
+Enterrado,"165,787",2010
+Guzaarish,"19,324",2010
+Num Mundo Melhor,"40,977",2010
+Harry Potter e os Talismãs da Morte: Parte 2,"915,017",2011
+Transformers 3,"424,674",2011
+A Saga Twilight: Amanhecer Parte 1,"248,578",2011
+A Ressaca - Parte II,"520,318",2011
+Piratas das Caraíbas - Por Estranhas Marés,"548,385",2011
+Velocidade Furiosa 5,"397,996",2011
+Missão Impossível: Operação Fantasma,"516,050",2011
+Carros 2,"206,392",2011
+Sherlock Holmes: Jogo de Sombras,"470,474",2011
+Thor,"879,579",2011
+Planeta dos Macacos: A Origem,"545,317",2011
+Capitão América: O Primeiro Vingador,"875,208",2011
+As Serviçais,"478,474",2011
+A Melhor Despedida de Solteira,"303,087",2011
+O Panda do Kung Fu 2,"304,048",2011
+O Gato das Botas,"185,430",2011
+X-Men: O Início,"710,639",2011
+Rio,"240,656",2011
+Os Smurfs,"94,340",2011
+Alvin e os Esquilos 3: Naufragados,"38,035",2011
+Super 8,"362,928",2011
+Rango,"283,591",2011
+Chefes Intragáveis,"461,677",2011
+Green Lantern - Lanterna Verde,"291,652",2011
+Hop,"36,133",2011
+Atividade Paranormal 3,"98,070",2011
+Engana-me Que Eu Gosto,"256,953",2011
+Millennium 1 - Os Homens Que Odeiam as Mulheres,"480,101",2011
+Professora Baldas,"209,041",2011
+Cowboys e Aliens,"227,968",2011
+Gnomeu e Julieta,"58,158",2011
+Green Hornet,"163,130",2011
+"Os Marretas, o retorno","95,338",2011
+Puro Aço,"345,459",2011
+"Amor, Estúpido e Louco","542,517",2011
+Invasão Mundial: Batalha Los Angeles,"183,350",2011
+Imortais,"173,715",2011
+Os Descendentes,"246,880",2011
+O Guarda do Zoo,"63,818",2011
+Cavalo de Guerra,"162,519",2011
+Sem Limites,"596,249",2011
+Alta Golpada,"148,711",2011
+As Aventuras de Tintin - O Segredo do Licorne,"238,536",2011
+Contágio,"310,768",2011
+Comprámos um Zoo!,"148,578",2011
+Moneyball - Jogada de Risco,"447,723",2011
+Jack e Jill,"88,289",2011
+A Invenção de Hugo,"330,902",2011
+Justin Bieber: Never Say Never,"76,373",2011
+"Winter, O Golfinho","25,261",2011
+Sexo Sem Compromisso,"239,245",2011
+Os Pinguins do Sr. Popper,"102,822",2011
+Happy Feet 2,"46,676",2011
+Sem Identidade,"266,639",2011
+Os Agentes do Destino,"264,598",2011
+Água aos Elefantes,"118,999",2011
+Cliente de Risco,"247,911",2011
+Meia-Noite em Paris,"439,493",2011
+Amigos Coloridos,"384,484",2011
+Sou o Número Quatro,"243,066",2011
+O Código Base,"536,077",2011
+"Ano Novo, Vida Nova!","88,331",2011
+Madea's Big Happy Family,"8,461",2011
+Diário de Um Banana: O Rodrick É Terrível,"34,666",2011
+Footloose - A Música Está do Teu Lado,"51,972",2011
+Ghost Rider: Espírito de Vingança,"123,864",2011
+The Grey - A Presa,"258,793",2011
+O Dilema,"56,287",2011
+Arthur Christmas,"63,780",2011
+O Exótico Hotel Marigold,"97,942",2011
+Rédea Solta,"129,086",2011
+O Artista,"245,924",2011
+Soul Surfer - Coragem de Viver,"51,640",2011
+O Último Destino 5,"121,583",2011
+A Casa na Floresta,"436,244",2011
+Nos Idos de Março,"227,536",2011
+Hanna,"204,068",2011
+Empresta-me o teu Namorado,"64,125",2011
+Spy Kids - Todo o Tempo do Mundo,"27,392",2011
+Gritos 4,"164,524",2011
+"O Agente Disfarçado: Tal Pai, Tal Filho","28,777",2011
+A Rapariga do Capuz Vermelho,"114,429",2011
+Sem Tempo,"430,139",2011
+Paul,"261,502",2011
+J. Edgar,"131,722",2011
+A Colega de Quarto,"40,535",2011
+Confronto de Famílias,"11,312",2011
+Cuidado Com o Que Desejas,"190,799",2011
+Entrega Armadilhada,"105,012",2011
+Colombiana,"105,036",2011
+Sucker Punch: Mundo Surreal,"248,168",2011
+Larry Crowne,"69,555",2011
+Drive - Risco Duplo,"679,406",2011
+"Mocas Felizes, Meu!","71,522",2011
+50/50,"338,054",2011
+Corajosos,"21,258",2011
+O Ritual,"101,169",2011
+Arthur,"52,604",2011
+"Extremamente Alto, Incrivelmente Perto","104,076",2011
+A Desbunda,"71,890",2011
+A Dama de Ferro,"112,192",2011
+Padre,"122,547",2011
+The Mechanic - O Profissional,"167,004",2011
+Identidade Secreta,"82,420",2011
+Beastly - O Feitiço do Amor,"79,047",2011
+Winnie the Pooh,"27,196",2011
+Born to Be Wild,"3,122",2011
+Killer Elite - O Confronto,"133,642",2011
+Época das Bruxas,"96,613",2011
+O Idiota do Nosso Irmão,"89,735",2011
+A Toupeira,"208,289",2011
+Monte Carlo,"47,159",2011
+Sanctum,"56,709",2011
+Real Desatino,"103,356",2011
+A Hora Mais Negra,"62,862",2011
+Mães Precisam-se... em Marte,"23,445",2011
+"Conan, o Bárbaro","101,300",2011
+A Casa dos Sonhos,"68,352",2011
+Os Três Mosqueteiros,"110,484",2011
+A Águia da Nona Legião,"72,470",2011
+Uma Traição Fatal,"88,813",2011
+Medo Profundo 3D,"26,867",2011
+Tu És o Próximo,"105,795",2011
+Noite de Medo,"110,577",2011
+Seven Days in Utopia,"3,951",2011
+Apollo 18 - Missão Proibida,"57,046",2011
+A Coisa,"141,614",2011
+Jovem Adulta,"86,261",2011
+Gatos Africanos,"6,649",2011
+Judy Moody and the Not Bummer Summer,"3,374",2011
+A Minha Semana com Marilyn,"88,717",2011
+A Lista dos Ex,"84,691",2011
+Um Dia,"159,781",2011
+Warrior - Combate Entre Irmãos,"486,706",2011
+A Árvore da Vida,"181,515",2011
+Amigos Improváveis,"895,567",2011
+O Diário a Rum,"106,995",2011
+Casa Silenciosa,"23,855",2011
+Glee: O Filme Concerto,"5,980",2011
+Jane Eyre,"91,291",2011
+Destino Infernal,"102,058",2011
+Cães de Palha,"35,341",2011
+Todos Ganhamos,"54,768",2011
+Capuchinho Vermelho 2 - A Nova Aventura,"13,648",2011
+Prom - A Primeira Noite do Resto da Tua Vida,"15,576",2011
+Não Sei Como Ela Consegue,"20,947",2011
+Morre... e Deixa-me em Paz,"62,194",2011
+A Pesca do Salmão no Iémen,"66,292",2011
+O Regresso de Johnny English,"137,376",2011
+Kevin Hart: Laugh at My Pain,"6,341",2011
+"Amigos, Amigos... Sexo à Parte","42,869",2011
+O Grande Ano,"46,954",2011
+Uma Separação,"252,324",2011
+Uma Noite Desastrosa,"54,590",2011
+Bem-vindo a Cedar Rapids,"39,157",2011
+Orlando,16,2011
+Um Método Perigoso,"106,724",2011
+Flying Monsters 3D with David Attenborough,"1,012",2011
+O Guarda,"93,234",2011
+October Baby,"7,796",2011
+Margin Call - O Dia Antes do Fim,"139,561",2011
+Atlas Shrugged: Part I,"14,121",2011
+Anónimo,"41,709",2011
+Jeff - O Solteirão,"64,959",2011
+Goon,"89,345",2011
+The Raid,"212,336",2011
+Bully,"10,478",2011
+Buck,"3,399",2011
+Vergonha,"202,002",2011
+O Lendário Starbuck,"16,867",2011
+Don 2,"55,869",2011
+Pina,"15,631",2011
+Killer Priest,31,2011
+Like Crazy,"62,753",2011
+Thor: Contos de Asgard,"5,751",2011
+A Pele Onde Eu Vivo,"160,541",2011
+Zindagi Na Milegi Dobara,"82,807",2011
+Melancolia,"190,278",2011
+Sem Prada Nem Nada,"15,446",2011
+Albert Nobbs,"25,258",2011
+Martha Marcy May Marlene,"54,840",2011
+Samsara,"37,264",2011
+Jiro Dreams of Sushi,"37,247",2011
+O Deus da Carnificina,"130,616",2011
+Ra.One,"45,059",2011
+Bucky Larson: O Rei do Porno,"12,591",2011
+Professor Lazhar,"20,956",2011
+Hearat Shulayim,"6,219",2011
+A Vida Acontece,"8,139",2011
+Killer Joe,"81,308",2011
+Boas Vibrações,"32,716",2011
+A Better Life,"16,333",2011
+Temos de Falar Sobre Kevin,"162,909",2011
+Procurem Abrigo,"104,827",2011
+Entre Irmãs,"28,072",2011
+Dookudu,"13,830",2011
+Delhi Belly,"31,311",2011
+Anadolu Kartallari,"5,549",2011
+A Arte de Passar o Tempo,"60,189",2011
+Salvando al Soldado Pérez,"1,973",2011
+Os Vingadores,"1,430,986",2012
+O Cavaleiro das Trevas Renasce,"1,771,848",2012
+The Hunger Games - Os Jogos da Fome,"959,756",2012
+007: Skyfall,"716,050",2012
+O Hobbit: Uma Viagem Inesperada,"851,693",2012
+A Saga Twilight: Amanhecer Parte 2,"256,969",2012
+O Fantástico Homem-Aranha,"682,635",2012
+Brave - Indomável,"429,135",2012
+Ted,"637,800",2012
+Madagáscar 3,"191,677",2012
+Lorax,"124,376",2012
+Força Ralph,"443,891",2012
+Lincoln,"267,676",2012
+Homens de Negro 3,"377,536",2012
+Django Libertado,"1,630,218",2012
+A Idade do Gelo 4: Deriva Continental,"218,630",2012
+A Branca de Neve e o Caçador,"297,469",2012
+Os Miseráveis,"339,537",2012
+Hotel Transylvania,"270,366",2012
+Taken - A Vingança,"316,363",2012
+Agentes Secundários,"582,457",2012
+Argo,"629,135",2012
+Guia para um Final Feliz,"727,924",2012
+Prometheus,"627,617",2012
+Detenção de Risco,"230,462",2012
+Prometo Amar-te,"200,491",2012
+A Vida de Pi,"651,793",2012
+Magic Mike,"145,116",2012
+O Legado de Bourne,"310,698",2012
+Viagem ao Centro da Terra 2: A Ilha Misteriosa,"109,145",2012
+A Origem dos Guardiões,"186,379",2012
+00:30 A Hora Negra,"311,972",2012
+Decisão de Risco,"367,293",2012
+Penso como Um Homem,"49,302",2012
+A Campanha,"135,051",2012
+Os Mercenários 2,"315,760",2012
+Fúria de Titãs,"193,168",2012
+Jack Reacher,"354,162",2012
+Sombras da Escuridão,"275,229",2012
+Sarilhos em Família,"26,508",2012
+John Carter,"281,121",2012
+Homens de Coragem,"70,833",2012
+National Theatre Live: The Curious Incident of the Dog in the Night-Time,370,2012
+Aguenta-te aos 40!,"147,428",2012
+Contrabando,"125,067",2012
+Looper - Reflexo Assassino,"591,481",2012
+Madea's Witness Protection,"11,179",2012
+Battleship: Batalha Naval,"254,003",2012
+Um Ritmo Perfeito,"321,532",2012
+"Espelho Meu, Espelho Meu! Há Alguém Mais Gira do Que Eu?","89,826",2012
+Crónica,"258,789",2012
+Terapia a Dois,"43,599",2012
+Underworld: O Despertar,"158,758",2012
+Um Homem Com Sorte,"111,941",2012
+O Ditador,"323,383",2012
+Desafio Total,"261,812",2012
+Fuga do Planeta Terra,"26,452",2012
+American Pie: O Reencontro,"220,510",2012
+ParaNorman,"107,076",2012
+Guerra é Guerra,"191,754",2012
+Projecto X - Fora de Controlo,"224,297",2012
+A Mulher de Negro,"189,220",2012
+Atividade Paranormal 4,"68,917",2012
+O Despertar das Trevas,"36,791",2012
+A Extraordinária Vida de Timothy Green,"47,988",2012
+Red Tails,"36,556",2012
+The Possession: Possuída,"62,173",2012
+Diário de Um Banana: Dias de Cão,"28,410",2012
+Sinister - A Entidade,"267,965",2012
+Selvagens,"132,916",2012
+Moonrise Kingdom,"361,011",2012
+Peso Pesado,"94,028",2012
+Amanhecer Violento,"79,269",2012
+Os Três Estarolas,"32,614",2012
+Resident Evil: Retaliação,"147,221",2012
+O Que Se Espera Enquanto Se Está À Espera,"74,779",2012
+Fim de Turno,"260,029",2012
+A Idade do Rock,"80,490",2012
+Diário Secreto de um Caçador de Vampiros,"159,441",2012
+Dos Homens Sem Lei,"249,029",2012
+Não Há Culpa Nem Desculpa!,"38,210",2012
+Pai Infernal,"105,585",2012
+As Voltas da Vida,"66,739",2012
+Patrulha de Bairro,"131,179",2012
+Frankenweenie,"113,203",2012
+Step Up Revolução,"57,458",2012
+Good Deeds,"8,142",2012
+2016: Obama's America,"10,959",2012
+A Casa do Fim da Rua,"79,618",2012
+Os Piratas!,"50,385",2012
+Hino da Alegria,"8,737",2012
+Chimpanzé,"6,309",2012
+Espera Aí... Que Já Casamos,"101,270",2012
+Cloud Atlas,"369,373",2012
+À Segunda Não Me Escapas,"43,571",2012
+"Eu, Alex Cross","34,909",2012
+Katy Perry: Part of Me,"13,790",2012
+Sparkle,"6,574",2012
+Fuga,"185,003",2012
+Como Um Trovão,"281,651",2012
+Encomenda Armadilhada,"116,854",2012
+O Grande Milagre,"20,249",2012
+O Impossível,"234,021",2012
+Um Homem no Limite,"156,611",2012
+Mil Palavras,"44,004",2012
+Quarteto,"20,814",2012
+Os Diários de Chernobyl,"67,688",2012
+As Vantagens de Ser Invisível,"533,522",2012
+Silent Hill - Revelação,"65,623",2012
+Amor e Outras Cenas,"79,069",2012
+Safe - O Intocável,"114,861",2012
+Para Roma com Amor,"89,820",2012
+The Master - O Mentor,"181,583",2012
+O Corvo,"87,457",2012
+O Homem dos Punhos de Ferro,"63,745",2012
+Mata-os Suavemente,"149,578",2012
+Sete Psicopatas,"268,467",2012
+To the Arctic 3D,"1,119",2012
+Lockout - Máxima Segurança,"100,113",2012
+Spring Breakers: Viagem de Finalistas,"146,356",2012
+Sempre a Abrir,"37,041",2012
+Dredd,"285,659",2012
+Fintar o Amor,"30,891",2012
+The Collection,"52,521",2012
+Anna Karenina,"104,112",2012
+Bestas do Sul Selvagem,"84,390",2012
+Cirque du Soleil: Viagem a Mundos Distantes,"8,169",2012
+Bem-vindo à Vida,"43,847",2012
+Gone - 12 Horas para Viver,"45,723",2012
+As Palavras,"80,297",2012
+Bala Certeira,"51,463",2012
+Tempo de Festa,"14,926",2012
+Arbitrage - A Fraude,"54,099",2012
+A Broken Code,203,2012
+Terra Prometida,"39,210",2012
+Desligados,"77,383",2012
+Amor,"103,698",2012
+Até Que o Fim do Mundo nos Separe,"117,419",2012
+Hyde Park em Hudson,"12,203",2012
+Hitchcock,"78,066",2012
+Realizar o Impossível,"33,981",2012
+Seis Sessões,"43,581",2012
+A Casa de mi Padre,"21,437",2012
+For Greater Glory,"5,222",2012
+Nunca Desistas,"6,788",2012
+Regra de Silêncio,"34,426",2012
+A Aparição,"20,374",2012
+Much Ado About Nothing,"16,955",2012
+Frances Ha,"90,189",2012
+Safety Not Guaranteed,"128,997",2012
+À Procura de Sugar Man,"71,246",2012
+À Fria Luz do Dia,"38,797",2012
+Nitro Circus: O Filme,"6,348",2012
+Imperador,"14,562",2012
+Atlas Shrugged II: The Strike,"7,497",2012
+Robô & Frank,"65,209",2012
+Last Ounce of Courage,"2,093",2012
+Gangsters da Velha Guarda,"57,019",2012
+Celeste e Jesse Para Sempre,"33,066",2012
+Jab Tak Hai Jaan,"57,393",2012
+Filly Brown - O Preço do Sucesso,"1,165",2012
+Barfi!,"84,728",2012
+Talaash,"44,070",2012
+Adulta à Força,"6,966",2012
+Ruby Sparks - Uma Mulher de Sonho,"104,073",2012
+Dabangg 2,"19,411",2012
+The Sapphires,"14,897",2012
+The Gatekeepers,"5,745",2012
+The Queen of Versailles,"13,581",2012
+Ek Tha Tiger,"36,659",2012
+Não,"25,721",2012
+Renoir,"5,893",2012
+Sleepwalk with Me,"12,082",2012
+Inocente,369,2012
+Ferrugem e Osso,"69,278",2012
+Agneepath,"25,794",2012
+Um Homem de Família,"77,528",2012
+Crooked Arrows,"2,054",2012
+Noiva Prometida,"3,943",2012
+O Atentado,"4,437",2012
+Uma Canção para Ti,"7,889",2012
+English Vinglish,"37,916",2012
+Só Precisamos de Amor,"14,629",2012
+Histórias que Contamos,"13,887",2012
+Um Quarteto Único,"15,052",2012
+"Bless Me, Ultima","1,539",2012
+Um Caso Real,"49,446",2012
+Kon Tiki - A Viagem Impossível,"50,961",2012
+Housefull 2,"15,391",2012
+How to Make Money Selling Drugs,"6,792",2012
+Bagman,18,2012
+Marley,"14,089",2012
+A Minha Vida Dava Um Filme,"15,802",2012
+O Sonho de Wadjda,"21,069",2012
+Chasing Ice,"8,801",2012
+Se Quer Diversão Ligue...,"16,711",2012
+Bol Bachchan,"9,541",2012
+The Lords of Salem,"31,465",2012
+Le fils de l'autre,"3,705",2012
+Still Mine,"4,540",2012
+The Hunger Games: Em Chamas,"691,622",2013
+Homem de Ferro 3,"879,255",2013
+Frozen: O Reino do Gelo,"646,331",2013
+Gru: O Maldisposto 2,"414,994",2013
+Homem de Aço,"795,801",2013
+Gravidade,"846,929",2013
+Monstros: A Universidade,"377,118",2013
+O Hobbit: A Desolação de Smaug,"686,073",2013
+Velocidade Furiosa 6,"408,757",2013
+Oz: O Grande e Poderoso,"212,068",2013
+Star Trek: Além da Escuridão,"492,083",2013
+Thor: O Mundo das Trevas,"707,891",2013
+WWZ: Guerra Mundial,"697,117",2013
+Os Croods,"225,484",2013
+Armadas e Perigosas,"178,250",2013
+Trip de Família,"472,816",2013
+Golpada Americana,"492,750",2013
+O Grande Gatsby,"574,671",2013
+The Conjuring - A Evocação,"533,614",2013
+Vigarista à Vista,"138,287",2013
+Miúdos e Graúdos 2,"163,544",2013
+Wolverine,"482,373",2013
+Que Se Lixem As Notícias,"188,644",2013
+O Sobrevivente,"298,887",2013
+G.I. Joe: Retaliação,"185,376",2013
+Chovem Almôndegas 2,"110,654",2013
+Mestres da Ilusão,"687,172",2013
+O Lobo de Wall Street,"1,501,982",2013
+O Mordomo,"118,105",2013
+A Ressaca - Parte III,"327,132",2013
+Epic - O Reino Secreto,"108,256",2013
+Capitão Phillips,"479,927",2013
+Jackass presents: Bad grandpa,"97,220",2013
+Batalha do Pacífico,"518,530",2013
+Isto é o Fim!,"426,540",2013
+Assalto à Casa Branca,"286,332",2013
+42,"99,862",2013
+Elysium,"461,618",2013
+Aviões,"47,432",2013
+O Mascarilha,"240,872",2013
+Esquecido,"542,128",2013
+Insidious: Capítulo 2,"182,791",2013
+Ao Encontro de Mr. Banks,"167,188",2013
+Turbo,"105,861",2013
+Dois Tiros,"220,638",2013
+Ataque ao Poder,"231,397",2013
+Mamã,"187,654",2013
+Um Refúgio Para a Vida,"114,264",2013
+Os Smurfs 2,"44,632",2013
+As Férias do Padrinho,"16,550",2013
+Percy Jackson e o Mar dos Monstros,"122,558",2013
+Die Hard: Nunca é Bom Dia para Morrer,"211,921",2013
+Sangue Quente,"238,429",2013
+"Jack, o Caçador de Gigantes","144,035",2013
+A Purga,"233,414",2013
+Last Vegas - Despedida de Arromba,"134,984",2013
+Ender's Game - O Jogo Final,"249,077",2013
+Raptadas,"766,774",2013
+Depois da Terra,"206,158",2013
+A Vida Secreta de Walter Mitty,"329,834",2013
+12 Anos Escravo,"723,570",2013
+A Revolta dos Perus,"25,275",2013
+Hansel & Gretel: Caçadores de Bruxas,"212,844",2013
+A Noite dos Mortos-Vivos,"190,950",2013
+Red 2: Ainda Mais Perigosos,"177,171",2013
+A Madea Christmas,"6,788",2013
+Temptation: Confessions of a Marriage Counselor,"12,291",2013
+A Chamada,"127,426",2013
+Dá & Leva,"224,935",2013
+Força Anti-Crime,"220,127",2013
+Os Estagiários,"211,186",2013
+No se aceptan devoluciones,"31,992",2013
+Snitch - Infiltrado,"90,951",2013
+Riddick - A Ascensão,"174,374",2013
+Inatividade Paranormal,"48,679",2013
+47 Ronin - A Grande Batalha Samurai,"167,307",2013
+Um Quente Agosto,"93,612",2013
+Filomena,"102,523",2013
+Malavita,"120,824",2013
+O Tempo dos Dinossauros: O Filme,"11,712",2013
+Carrie,"145,075",2013
+Texas Chainsaw: O Massacre,"54,268",2013
+R.I.P.D.: Agentes do Outro Mundo,"140,764",2013
+Blue Jasmine,"209,278",2013
+Kevin Hart: Let Me Explain,"9,270",2013
+Efeitos Secundários,"194,627",2013
+Scary Movie 5 - Um Mítico Susto de Filme,"75,194",2013
+Os Instrumentos Mortais: Cidade dos Ossos,"137,142",2013
+Pai Por Acaso,"81,670",2013
+Grudge Match: Ajuste de Contas,"62,081",2013
+One Direction: This Is Us,"24,773",2013
+Kick-Ass 2: Agora é a Doer,"282,622",2013
+Oculus: O Espelho do Demónio,"135,224",2013
+O Clube de Dallas,"506,311",2013
+Rush - Duelo de Rivais,"498,056",2013
+Nómada,"117,295",2013
+É o Fim do Mundo,"292,327",2013
+A Idade da Loucura,"76,403",2013
+Uma História de Amor,"645,744",2013
+Plano de Fuga,"252,417",2013
+Don Jon,"244,276",2013
+O Incrível Burt,"75,168",2013
+O Grande Dia,"51,165",2013
+Baggage Claim,"9,585",2013
+O Verão da Minha Vida,"154,531",2013
+A Rapariga Que Roubava Livros,"140,000",2013
+Homefront: A Última Defesa,"126,215",2013
+Cidade Dividida,"82,476",2013
+Criaturas Maravilhosas,"89,940",2013
+Jogo de Risco,"65,061",2013
+Aprovado,"35,815",2013
+Nebraska,"120,953",2013
+Parker,"126,933",2013
+Basta de Conversa,"65,044",2013
+Dark Skies - Os Escolhidos,"78,257",2013
+O Conselheiro,"104,014",2013
+Num Outro Tom,"162,709",2013
+Jobs,"101,101",2013
+Fruitvale Station: A Última Paragem,"84,434",2013
+Dá Tempo ao Tempo,"370,707",2013
+O Último Exorcismo - Parte II,"16,737",2013
+Um Segredo do Passado,"50,197",2013
+A Propósito de Llewyn Davis,"159,558",2013
+O Último Desafio,"143,453",2013
+Para Além das Cinzas,"121,724",2013
+Dead Man Down - Um Homem a Abater,"69,393",2013
+Belle,"32,328",2013
+Getaway - Em Fuga,"24,903",2013
+Peeples,"5,069",2013
+Desafio do Ano,"9,529",2013
+Comédia Explícita - Movie 43,"109,719",2013
+Lendas de Oz: O Regresso de Dorothy,"6,176",2013
+Mandela: Longo Caminho Para a Liberdade,"28,687",2013
+Antes da Meia-Noite,"166,975",2013
+Dhoom:3,"48,052",2013
+Machete Mata,"81,129",2013
+Jerusalem,"1,270",2013
+Palavrões,"54,052",2013
+Journey to the South Pacific,250,2013
+Paranóia,"38,829",2013
+Inferno Canibal,"47,342",2013
+Black Nativity - Um Espectáculo de Natal,"2,319",2013
+Aqui e Agora,"158,774",2013
+O Grande Mestre,"35,875",2013
+Quando Tudo Está Perdido,"82,529",2013
+Bling Ring: O Gangue de Hollywood,"90,208",2013
+Pulling Strings,"1,946",2013
+Circuito Fechado,"23,019",2013
+Chennai Express,"59,520",2013
+As Asas do Vento,"92,584",2013
+A Dois Passos do Estrelato,"13,745",2013
+Snowpiercer - Expresso do Amanhã,"376,443",2013
+The Railway Man - Uma Longa Viagem,"41,818",2013
+A Lancheira,"59,114",2013
+Yeh Jawaani Hai Deewani,"49,017",2013
+Ida,"59,537",2013
+A Maldição de Chucky,"41,960",2013
+Quase Gigolo,"25,155",2013
+O Amor é Estupido,"80,359",2013
+A Lista dos... Prazeres!,"41,050",2013
+Metallica Through the Never,"17,988",2013
+Segmentos de Loucura,"18,700",2013
+O Quinto Poder,"42,205",2013
+In Da Cut,12,2013
+In a World...,"32,591",2013
+Home Run,"3,236",2013
+A Grande Beleza,"95,130",2013
+Goliyon Ki Rasleela Ram-Leela,"21,708",2013
+Debaixo da Pele,"151,421",2013
+Dragon Ball Z: Batalha dos Deuses,"29,204",2013
+Grace: Sem Filtros,"3,572",2013
+Restless Virgins,951,2013
+I'm in Love with a Church Girl,"1,987",2013
+Transe,"116,444",2013
+The East,"51,632",2013
+Fim-de-Semana em Paris,"8,604",2013
+The Christmas Candle,"2,480",2013
+A Vida de Adèle,"158,921",2013
+Oldboy - Velho Amigo,"79,042",2013
+Krrish 3,"24,440",2013
+Por Falar de Amor,"11,265",2013
+Austenlândia,"22,578",2013
+The Oscar Nominated Short Films 2013: Live Action,222,2013
+The Saratov Approach,"2,153",2013
+The Oscar Nominated Short Films 2013: Animation,74,2013
+Glória,"9,173",2013
+Orca - Fúria Animal,"70,616",2013
+A Emigrante,"33,075",2013
+Só os Amantes Sobrevivem,"105,040",2013
+Stoker,"112,351",2013
+Tim's Vermeer,"8,442",2013
+"Corre, Milkha, Corre","70,517",2013
+Race 2,"17,101",2013
+À Procura de Vivian Maier,"14,802",2013
+O Conto da Princesa Kaguya,"50,839",2013
+Out of Order,$1.50M,2013
+Queen,"67,429",2013
+Os Amantes Passageiros,"24,400",2013
+Locke,"155,962",2013
+Dá-me Abrigo,"9,196",2013
+Sniper Americano,"512,348",2014
+The Hunger Games: A Revolta - Parte 1,"478,463",2014
+Guardiões da Galáxia,"1,241,273",2014
+Capitão América: O Soldado do Inverno,"877,831",2014
+O Filme Lego,"376,988",2014
+O Hobbit: A Batalha dos Cinco Exércitos,"554,284",2014
+Transformers: Era da Extinção,"326,264",2014
+Maléfica,"390,812",2014
+X-Men: Dias de Um Futuro Esquecido,"731,366",2014
+Baymax,"484,629",2014
+Planeta dos Macacos: A Revolta,"456,155",2014
+O Fantástico Homem-Aranha 2: O Poder de Electro,"521,489",2014
+Godzilla,"427,051",2014
+Agentes Universitários,"394,523",2014
+Tartarugas Ninja: Heróis Mutantes,"216,669",2014
+Interstellar,"1,979,536",2014
+Como Treinares o Teu Dragão 2,"352,669",2014
+Em Parte Incerta,"1,026,444",2014
+Divergente,"476,472",2014
+Má Vizinhança,"322,386",2014
+Polícia em Apuros,"120,095",2014
+Rio 2,"96,963",2014
+Kingsman: Serviços Secretos,"695,555",2014
+Caminhos da Floresta,"145,386",2014
+Lucy,"518,564",2014
+A Culpa é das Estrelas,"391,677",2014
+Invencível,"177,229",2014
+"À Noite, no Museu 3","130,813",2014
+Mr. Peabody e Sherman,"75,338",2014
+300: O Início de Um Império,"310,225",2014
+Maze Runner - Correr ou Morrer,"491,093",2014
+The Equalizer - Sem Misericórdia,"391,572",2014
+Noé,"262,336",2014
+No Limite do Amanhã,"711,076",2014
+Non-Stop,"272,451",2014
+O Céu Existe Mesmo,"28,007",2014
+O Jogo da Imitação,"800,931",2014
+Taken 3,"199,831",2014
+"Doidos à Solta, de Novo","142,266",2014
+Annie,"39,616",2014
+Fúria,"522,645",2014
+Tammy,"53,564",2014
+Annabelle,"168,458",2014
+Não Há Duas Sem Três,"146,421",2014
+Os Pinguins de Madagáscar: O filme,"97,917",2014
+Armados em Polícias,"138,131",2014
+The Monuments Men - Os Caçadores de Tesouros,"136,232",2014
+Paddington,"126,113",2014
+Hércules,"161,534",2014
+A Purga: Anarquia,"158,447",2014
+"Alexandre e o Terrível, Horrível, Nada Bom, Péssimo Dia","45,792",2014
+Elas Querem Pensar como Eles,"22,254",2014
+Exodus: Deuses e Reis,"174,146",2014
+O Gangue do Parque,"29,613",2014
+Deus Não Está Morto,"44,194",2014
+O Filho de Deus,"19,431",2014
+Aviões 2 - Equipa de Resgate,"19,198",2014
+Grand Budapest Hotel,"855,400",2014
+RoboCop,"235,348",2014
+Drácula: A História Desconhecida,"203,045",2014
+Chefes Intragáveis 2,"180,395",2014
+A Viagem dos Cem Passos,"86,046",2014
+Intruso Suspeito,"21,445",2014
+Selma: A Marcha da Liberdade,"93,925",2014
+Marretas Procuram-se,"36,219",2014
+Ouija - O jogo dos Espíritos,"55,411",2014
+Os Monstros das Caixas,"60,275",2014
+Jack Ryan: Agente Sombra,"136,142",2014
+Se Eu Ficar,"126,693",2014
+O Livro da Vida,"75,130",2014
+Sobre a Noite Passada,"24,741",2014
+Dentro da Tempestade,"70,532",2014
+O Juiz,"197,926",2014
+Jersey Boys,"36,034",2014
+Umas Férias Inesperadas,"139,505",2014
+The Giver - O Dador de Memórias,"123,022",2014
+Um Santo Vizinho,"106,680",2014
+Need for Speed: O Filme,"175,728",2014
+Mil e Uma Maneiras de Bater as Botas,"194,850",2014
+John Wick,"710,962",2014
+Birdman ou (A Inesperada Virtude da Ignorância),"651,419",2014
+"Winter, O Golfinho 2","9,611",2014
+Os Mercenários 3,"190,033",2014
+Terra Chama Echo,"19,524",2014
+Sex Tape - O Nosso Vídeo Proibido,"115,838",2014
+Livre,"134,468",2014
+O Rapaz do Milhão de Dólares,"47,210",2014
+A Teoria de Tudo,"469,518",2014
+Viy,"6,314",2014
+Sete Dias Sem Fim,"86,303",2014
+O Jogador,"72,063",2014
+Desprotegido,"79,301",2014
+Actividade Paranormal - Marcados,"44,530",2014
+Nightcrawler - Repórter na Noite,"580,951",2014
+O Chef,"225,169",2014
+3 Dias Para Matar,"96,171",2014
+Livrai-nos do Mal,"81,801",2014
+Get on Up,"25,641",2014
+Jogo de Honra,"16,584",2014
+Draft Day: Dia D,"64,509",2014
+Dei-te o Melhor de Mim,"75,817",2014
+A Mulher de Negro 2 - Anjo da Morte,"29,139",2014
+O Caminho Entre o Bem e o Mal,"125,236",2014
+Aquele Estranho Momento,"105,893",2014
+Ex Machina,"568,183",2014
+Boyhood: Momentos de Uma Vida,"362,313",2014
+Topo Cinco,"27,285",2014
+The November Man - A Última Missão,"69,544",2014
+Amor Infinito,"46,854",2014
+Pompeia,"114,355",2014
+Transcendence: A Nova Inteligência,"235,423",2014
+Preto ou Branco,"13,664",2014
+O Reflexo do Medo,"104,173",2014
+Bairro 13,"43,541",2014
+"Eu, Frankenstein","82,914",2014
+Hércules - A Lenda Começa,"55,470",2014
+O Meu Nome é Alice,"140,689",2014
+Ursos,"6,999",2014
+A Vida Secreta de Zoe,"11,795",2014
+Inatividade Paranormal 2,"22,787",2014
+O Homem Mais Procurado,"78,777",2014
+O Sétimo Filho,"79,426",2014
+The Single Moms Club,"6,593",2014
+Nascido das Trevas,"17,460",2014
+Nunca Digas Nunca,"14,897",2014
+Step Up 5 - Todos Dançam,"35,525",2014
+Vai Seguir-te,"257,001",2014
+Beyond the Lights,"17,097",2014
+Olhos Grandes,"96,934",2014
+America: Imagine the World Without Her,"7,001",2014
+America!,22,2014
+Left Behind - A Última Profecia,"41,565",2014
+Sin City: Mulher Fatal,"167,197",2014
+Whiplash - Nos Limites,"928,264",2014
+Love & Mercy - A Força de Um Génio,"41,443",2014
+Foxcatcher,"146,256",2014
+Island of Lemurs: Madagascar,"1,000",2014
+O Golpe: The Drop,"158,289",2014
+PK,"195,258",2014
+Sabotagem,"65,283",2014
+Magia ao Luar,"69,708",2014
+Noite de Folga,"14,283",2014
+A Rapariga no Comboio,"1,063",2014
+The Quiet Ones - Experiência Sobrenatural,"20,862",2014
+Vício Intrínseco,"108,470",2014
+Academia de Vampiros,"56,165",2014
+Enquanto Somos Jovens,"52,271",2014
+Cantinflas,"4,144",2014
+Uma Entrevista de Loucos,"344,974",2014
+The Loft,"58,636",2014
+Meet the Mormons,"2,037",2014
+Um Ano Muito Violento,"75,707",2014
+Cesar Chavez,"3,549",2014
+Gémeos Para Sempre,"43,889",2014
+Dear White People,"26,282",2014
+A Promessa de Uma Vida,"77,061",2014
+Uma Senhora Herança,"9,767",2014
+Mr. Turner,"26,733",2014
+Default,269,2014
+Calvary,"62,743",2014
+Dava Tudo Para Estar Cá,"38,763",2014
+East Side Sushi,"4,490",2014
+Mamã,"59,987",2014
+Aprender a Conduzir,"8,076",2014
+O Que Fazemos nas Sombras,"192,951",2014
+Veronica Mars,"54,013",2014
+Treehouse,"2,417",2014
+Rosewater - Uma Esperança de Liberdade,"10,885",2014
+Obvious Child,"26,066",2014
+Relatos Selvagens,"208,761",2014
+Antes de Adormecer,"81,901",2014
+A Viagem a Itália,"16,014",2014
+The Fluffy Movie: Unity Through Laughter,"3,912",2014
+The Identical,"2,977",2014
+Citizenfour,"57,099",2014
+Saving Christmas,"16,506",2014
+A Pirâmide,"25,725",2014
+A Boa Mentira,"29,442",2014
+The Raid - Redenção,"128,514",2014
+Myeong-ryang,"12,662",2014
+Bang Bang,"25,299",2014
+Kick,"71,625",2014
+Matem o Mensageiro,"48,105",2014
+O Prodígio,"47,992",2014
+The Homesman - Uma Dívida de Honra,"34,637",2014
+WARx2,"1,222",2014
+Gukjesijang,"5,790",2014
+Love Is Strange - O Amor é Uma Coisa Estranha,"13,042",2014
+2 States,"26,650",2014
+Old Fashioned,"2,081",2014
+Cake: Um Sopro de Vida,"38,377",2014
+Testemunho de Juventude,"29,873",2014
+Tusk,"60,078",2014
+As Nuvens de Sils Maria,"30,633",2014
+Meet the Patels,"3,496",2014
+Astérix: O Domínio dos Deuses,"14,877",2014
+The Letters,"1,090",2014
+Town Bizzness Pt 3,17,2014
+Fed Up,"12,246",2014
+"Dois Dias, Uma Noite","49,786",2014
+Star Wars: Episódio VII - O Despertar da Força,"955,324",2015
+Mundo Jurássico,"664,412",2015
+Vingadores: A Era de Ultron,"897,868",2015
+Divertida-Mente,"751,445",2015
+Velocidade Furiosa 7,"406,071",2015
+Mínimos,"250,743",2015
+The Hunger Games: A Revolta - Parte 2,"349,512",2015
+Perdido em Marte,"892,477",2015
+Cinderela,"185,315",2015
+007 Spectre,"455,464",2015
+Missão Impossível: Nação Secreta,"398,722",2015
+Um Ritmo Perfeito 2,"165,735",2015
+The Revenant: O Renascido,"841,827",2015
+Homem-Formiga,"702,482",2015
+Home: A Minha Casa,"108,443",2015
+Hotel Transylvania 2,"136,705",2015
+As Cinquenta Sombras de Grey,"328,932",2015
+SpongeBob: Esponja Fora de Água,"59,177",2015
+Straight Outta Compton,"211,941",2015
+San Andreas,"249,648",2015
+Mad Max: Estrada da Fúria,"1,045,824",2015
+Pai Há Só Um!,"125,538",2015
+Insurgente,"248,031",2015
+Snoopy e Charlie Brown: Peanuts - O Filme,"48,424",2015
+A Viagem de Arlo,"122,909",2015
+Spy,"252,811",2015
+Descarrilada,"140,271",2015
+Creed: O Legado de Rocky,"302,393",2015
+Tomorrowland - Terra do Amanhã,"187,668",2015
+Faz-te Homem,"143,243",2015
+Exterminador: Genisys,"287,392",2015
+Só Podiam Ser Irmãs,"68,332",2015
+Alvin e os Esquilos: A Grande Aventura,"21,486",2015
+Maze Runner: Provas de Fogo,"265,309",2015
+Ted 2,"223,181",2015
+Goosebumps: Arrepios,"92,636",2015
+Pixels,"153,397",2015
+O Estagiário,"264,904",2015
+A Ponte dos Espiões,"321,463",2015
+O Segurança do Shopping - Las Vegas,"39,719",2015
+A Queda de Wall Street,"459,155",2015
+A Ajuda Divina,"15,624",2015
+Magic Mike XXL,"60,295",2015
+A Visita,"144,083",2015
+O Amigo do Peito,"78,838",2015
+Black Mass - Jogo Sujo,"188,131",2015
+Férias,"118,394",2015
+The Perfect Guy,"11,073",2015
+Joy,"141,844",2015
+Quarteto Fantástico,"172,958",2015
+Os Oito Odiados,"634,779",2015
+Focus,"264,511",2015
+Southpaw - Coração de Aço,"250,267",2015
+Insidious: Capítulo 3,"113,786",2015
+Poltergeist,"59,900",2015
+Ascensão de Jupiter,"192,249",2015
+Sicário - Infiltrado,"453,432",2015
+O Agente da U.N.C.L.E.,"323,840",2015
+O Caso Spotlight,"488,327",2015
+"McFarland, USA","40,882",2015
+Um Presente do Passado,"166,208",2015
+Evereste,"226,232",2015
+A Última Noitada,"79,229",2015
+Max,"27,651",2015
+Krampus: O Lado Negro do Natal,"79,386",2015
+A Idade de Adaline,"193,853",2015
+Brooklyn,"147,090",2015
+Uma Vida ao Teu Lado,"86,538",2015
+Um Vizinho Insuspeito,"44,286",2015
+Pan: Viagem à Terra do Nunca,"66,291",2015
+A Força da Verdade,"98,809",2015
+Perseguição Escaldante,"53,116",2015
+Duff,"99,164",2015
+Mulher de Ouro,"61,334",2015
+O Segundo Exótico Hotel Marigold,"35,136",2015
+Entourage - Vidas em Hollywood,"82,008",2015
+Cidades de Papel,"106,236",2015
+Chappie,"262,862",2015
+Crimson Peak: A Colina Vermelha,"154,347",2015
+Por Aqui e Por Ali,"28,236",2015
+Point Break - Caçadores de Emoções,"65,066",2015
+A Entidade 2,"58,492",2015
+O Último Caçador de Bruxas,"107,318",2015
+Sem Saída,"90,519",2015
+Ricki e os Flash,"24,397",2015
+Noite em Fuga,"112,898",2015
+Os Coopers São o Máximo,"25,618",2015
+O Efeito Lazarus,"45,239",2015
+A Bruxa,"283,011",2015
+No Coração do Mar,"145,162",2015
+The Gallows - Maldição do Passado,"21,209",2015
+Hitman: Agente 47,"93,989",2015
+Projecto Almanaque,"82,777",2015
+Aloha,"69,492",2015
+O Segredo dos Seus Olhos,"50,090",2015
+A Ovelha Choné - O Filme,"42,364",2015
+Operação Eye in the Sky,"89,608",2015
+Atividade Paranormal: Dimensão Fantasma,"29,746",2015
+Steve Jobs,"175,054",2015
+Mr. Holmes,"66,428",2015
+O Caloiro da Droga,"88,238",2015
+Masterminds - Golpada de Mestre,"57,669",2015
+Monkey Kingdom,"4,107",2015
+Transporter: Potência Máxima,"43,722",2015
+"Eddie, a Águia","97,660",2015
+Quarto,"437,381",2015
+"Olá, o Meu Nome é Doris","22,217",2015
+American Ultra: Agentes Improváveis,"94,459",2015
+Woodlawn,"7,642",2015
+À Procura de Uma Estrela,"128,151",2015
+Do You Believe?,"8,077",2015
+Carol,"137,197",2015
+Estranha Magia,"11,868",2015
+Jacuzzi: O Desastre do Tempo 2,"40,642",2015
+Outro/Eu,"102,486",2015
+Longe da Multidão,"51,952",2015
+Os 33,"39,135",2015
+A Rapariga Dinamarquesa,"194,771",2015
+The Gunman - O Atirador,"42,655",2015
+Negócios de Ocasião,"34,410",2015
+The Walk: O Desafio,"132,854",2015
+A Senhora da Furgoneta,"30,854",2015
+Hardcore,"99,685",2015
+O Herói da Quinta,"1,155",2015
+A Lagosta,"274,928",2015
+Amy,"53,812",2015
+Bajrangi Bhaijaan,"93,429",2015
+Dragon Ball Z: A Ressureição de Freezer,"23,350",2015
+Trumbo,"83,662",2015
+O Excêntrico Mortdecai,"75,467",2015
+I'll See You in My Dreams,"7,814",2015
+Blackhat: Ameaça na Rede,"62,637",2015
+Os Profissionais da Crise,"22,978",2015
+Grandma,"16,424",2015
+"Eu, o Earl e a Tal Miúda","135,755",2015
+Bãhubali: The Beginning,"131,759",2015
+Bajirao Mastani,"37,456",2015
+Little Boy,"23,824",2015
+Victor Frankenstein,"58,754",2015
+A Day as Headmaster,$5.50M,2015
+Danny Collins - Nunca é Tarde,"32,654",2015
+Dilwale,"36,942",2015
+A Verdadeira História,"71,124",2015
+90 Minutos no Paraíso,"4,194",2015
+As Sufragistas,"43,731",2015
+Prem Ratan Dhan Payo,"23,012",2015
+A Intrometida,"13,623",2015
+45 Anos,"34,227",2015
+Homem Irracional,"65,522",2015
+O Homem Que Viu o Infinito,"60,231",2015
+E Agora Invadimos o Quê?,"25,360",2015
+Anomalisa,"74,121",2015
+Guia do Escuteiro Para o Apocalipse Zombie,"53,087",2015
+Spare Parts,"11,625",2015
+A la mala,"2,652",2015
+Nós Somos Teus Amigos,"39,859",2015
+Um Homem Chamado Ove,"65,202",2015
+Maggie Tem Um Plano,"17,692",2015
+Green Room,"133,666",2015
+Phoenix,101,2015
+Ladrones,325,2015
+The End of the Tour,"31,985",2015
+Rock the kasbah - Bem-vindo ao Afeganistão,"12,518",2015
+A Juventude,"81,493",2015
+Yip Man 3,"58,697",2015
+Chi-Raq,"10,484",2015
+Malala,"4,749",2015
+Miles Ahead,"10,393",2015
+Captive,"7,144",2015
+Verdade,"20,899",2015
+Mistress América - Quase Irmãs,"28,096",2015
+The Oscar Nominated Short Films 2015: Animation,149,2015
+Meru,"18,599",2015
+My All-American,"7,022",2015
+Jem e as Hologramas,"8,188",2015
+A Modista,"63,754",2015
+Mergulho Profundo,"31,863",2015
+Tamasha,"29,952",2015
+Demolição,"106,109",2015
+Amsal,"7,652",2015
+Lendas do Crime,"194,259",2015
+Desierto,"10,409",2015
+O Filho de Saul,"50,610",2015
+La passion d'Augustine,671,2015
+The Vatican Tapes: O Regresso do Mal,"18,815",2015
+I Saw the Light,"7,927",2015
+As Armas de Jane,"23,249",2015
+O Diário de Uma Rapariga Adolescente,"32,913",2015
+Sr. Seis,"4,130",2015
+Welcome Back,"6,459",2015
+The Cokeville Miracle,"2,724",2015
+O Principezinho,"64,918",2015
+O Abraço da Serpente,"23,852",2015
+Gang jiong,"1,808",2015
+The Wolfpack,"13,332",2015
+Chonda Pierce: Laughing in the Dark,62,2015
+Xia Luo te fan nao,"3,279",2015
+Mojin e o Templo Perdido,"4,198",2015
+Para Além da Máscara,"3,652",2015
+A Criança n.º 44,"74,215",2015
+Rogue One: Uma História de Star Wars,"665,798",2016
+À Procura de Dory,"292,067",2016
+Capitão América: Guerra Civil,"824,683",2016
+A Vida Secreta dos Nossos Bichos,"211,289",2016
+O Livro da Selva,"286,168",2016
+Deadpool,"1,085,605",2016
+Zootrópolis,"525,445",2016
+Batman v Super-Homem: O Despertar da Justiça,"738,833",2016
+Esquadrão Suicida,"706,772",2016
+Cantar!,"182,534",2016
+Vaiana,"359,421",2016
+Monstros Fantásticos e Onde Encontrá-los,"493,840",2016
+Doutor Estranho,"778,434",2016
+Elementos Secretos,"245,068",2016
+Jason Bourne,"236,278",2016
+Star Trek: Além do Universo,"254,003",2016
+X-Men: Apocalipse,"450,645",2016
+Trolls,"87,348",2016
+La La Land: Melodia de Amor,"631,605",2016
+O Panda do Kung Fu 3,"174,578",2016
+Fragmentado,"527,188",2016
+Caça-Fantasmas,"239,292",2016
+Central de Inteligência,"204,600",2016
+A Lenda de Tarzan,"183,052",2016
+Milagre no Rio Hudson,"288,675",2016
+Janatha Garage,"7,803",2016
+Mães à Solta,"131,363",2016
+Angry Birds: O Filme,"99,796",2016
+O Dia da Independência: Nova Ameaça,"185,329",2016
+The Conjuring 2 - A Evocação,"287,590",2016
+O Primeiro Encontro,"733,106",2016
+Passageiros,"428,705",2016
+Salsicha Party,"203,559",2016
+Os Sete Magníficos,"222,127",2016
+Polícias em Grandes Apuros,"61,613",2016
+Nem Respires,"290,383",2016
+A Casa da Senhora Peregrine para Crianças Peculiares,"182,270",2016
+The Accountant - Acerto de Contas,"308,887",2016
+Tartarugas Ninja Heróis Mutantes: O Romper das Sombras,"97,467",2016
+A Purga: Ano de Eleições,"106,659",2016
+Alice do Outro Lado do Espelho,"117,007",2016
+A Lenda do Dragão,"60,603",2016
+A Rapariga no Comboio,"194,620",2016
+Boo! A Madea Halloween,"9,050",2016
+Cegonhas,"65,564",2016
+10 Cloverfield Lane,"343,824",2016
+Lights Out - Terror na Escuridão,"137,645",2016
+O Herói de Hacksaw Ridge,"564,353",2016
+Convergente,"129,224",2016
+Mestres da Ilusão 2,"308,777",2016
+A Idade do Gelo 5: O Big Bang,"71,722",2016
+A Chefe,"47,957",2016
+Assalto a Londres,"165,569",2016
+O Nosso Milagre,"27,420",2016
+Horizonte Profundo - Desastre no Golfo,"176,615",2016
+Porquê Ele?,"120,013",2016
+Viram-se Novamente Gregos Para Casar,"32,918",2016
+Jack Reacher: Nunca Voltes Atrás,"167,947",2016
+Vedações,"113,583",2016
+Viver Depois de Ti,"273,282",2016
+O Amigo Gigante,"90,571",2016
+Má Vizinhança 2,"127,765",2016
+Águas Perigosas,"140,105",2016
+Festa de Natal da Empresa,"84,314",2016
+Assassin's Creed,"204,955",2016
+A Barbearia 3: O Próximo Corte,"15,786",2016
+13 Horas: Os Soldados Secretos de Benghazi,"153,196",2016
+Lion - A Longa Estrada Para Casa,"244,838",2016
+O Caçador e a Rainha do Gelo,"116,078",2016
+Kubo e as Duas Cordas,"135,384",2016
+Manchester by the Sea,"299,042",2016
+Warcraft: O Primeiro Encontro de Dois Mundos,"272,907",2016
+Como Ser Solteira,"91,918",2016
+Mulheres Procuram-se Para Ir a Casamento,"92,928",2016
+A Grande Muralha,"142,460",2016
+Os Traficantes,"239,045",2016
+Natal... Ou Quase!,"7,379",2016
+Money Monster,"102,897",2016
+Aliados,"164,279",2016
+Nerve - Alto Risco,"137,021",2016
+Ressurreição,"29,842",2016
+Bons Rapazes,"352,704",2016
+The Boy - Segue as Regras,"98,746",2016
+Um Avô Muito à Frente,"129,899",2016
+Ouija: Origem do Mal,"69,686",2016
+A 5ª Vaga,"114,409",2016
+Inferno,"184,482",2016
+Monstros Sobre Rodas,"18,283",2016
+Um Dia de Mãe,"38,657",2016
+Patriots Day - Unidos Por Boston,"109,248",2016
+Os Deuses do Egipto,"122,408",2016
+Beleza Colateral,"103,378",2016
+"Salve, César!","140,140",2016
+Underworld: Guerras de Sangue,"79,111",2016
+When the Bough Breaks,"7,582",2016
+Zoolander 2,"73,700",2016
+Moonlight,"322,302",2016
+Horas Decisivas,"69,268",2016
+"Florence, Uma Diva Fora de Tom","58,286",2016
+Hell or High Water - Custe o Que Custar!,"242,253",2016
+Resident Evil: Capítulo Final,"98,432",2016
+A Floresta,"44,928",2016
+Ben-Hur,"45,683",2016
+Bailarina,"23,636",2016
+O Bebé de Bridget Jones,"79,546",2016
+Kevin Hart: What Now?,"9,809",2016
+Whiskey Tango Foxtrot,"54,562",2016
+Snowden,"158,845",2016
+Mechanic: Assassino Profissional,"89,904",2016
+O Bosque de Blair Witch,"48,304",2016
+Deus Não Está Morto 2,"13,158",2016
+Estado Livre de Jones,"60,263",2016
+Keanu,"50,998",2016
+Escola: Os Piores Anos da Minha Vida,"9,664",2016
+Aqui Há Gato!,"23,781",2016
+Race: 10 Segundos de Liberdade,"39,707",2016
+Uma Escolha Por Amor,"44,149",2016
+Um Pai Natal Para Esquecer,"27,234",2016
+Norm - O Herói do Ártico,"9,803",2016
+O Nascimento de Uma Nação,"21,591",2016
+A Beautiful Planet,"1,436",2016
+Infiltrado,"76,906",2016
+Vizinhos Espiões,"65,915",2016
+No limiar dos 18,"135,782",2016
+Criminoso,"68,820",2016
+Amor & Amizade,"25,901",2016
+Jackie,"82,054",2016
+The Cool Kids,92,2016
+Born in China,"4,024",2016
+Hillary's America: The Secret History of the Democratic Party,"7,674",2016
+O Fundador,"165,883",2016
+Triplo 9,"75,022",2016
+A Luz Entre Oceanos,"58,927",2016
+Dangal,"200,990",2016
+As Cinquenta Sombras de Black,"22,721",2016
+No manches Frida,"2,519",2016
+Dead Awake,"3,475",2016
+Café Society,"79,689",2016
+Orgulho e Preconceito e Guerra,"58,938",2016
+The Darkness,"16,812",2016
+Animais Noturnos,"293,754",2016
+Viver na Noite,"58,939",2016
+A Experiência Belko,"54,998",2016
+The Perfect Match,"4,285",2016
+Rock Dog - Um Sonho Altamente!,"5,814",2016
+"Popstar: Sem Parar, Sem Limites","66,029",2016
+Conheça os Blacks,"37,264",2016
+Brave New Jersey,659,2016
+Queen of Katwe,"18,245",2016
+Adam Green's Aladdin,266,2016
+A Cidade Perdida de Z,"96,339",2016
+Ratchet & Clank,"11,536",2016
+Cura de Bem-Estar,"105,721",2016
+Robinson Crusoé,"6,505",2016
+Uma História de Amor,"35,691",2016
+Ouro,"67,267",2016
+I Am Not Your Negro - Não Sou o Teu Negro,"22,943",2016
+Silêncio,"118,109",2016
+Birth of the Dragon,"8,651",2016
+Shut In - Reféns do Medo,"14,438",2016
+Irmãos e Espiões,"107,905",2016
+O Jovem Messias,"3,793",2016
+Southside with You,"10,051",2016
+Sultan,"49,681",2016
+Maudie,"19,974",2016
+Lowriders,"2,671",2016
+Capitão Fantástico,"228,286",2016
+Mulheres do Século XX,"47,909",2016
+Paris Pode Esperar,"9,416",2016
+Hunt for the Wilderpeople,"136,876",2016
+Kimi no na wa.,"297,361",2016
+A Divorce Before Marriage,14,2016
+Bleed for This - A Força de Um Campeão,"28,904",2016
+A Encarnação do Mal,"13,783",2016
+Absolutely Fabulous: The Movie,"12,976",2016
+Mãos de Pedra,"17,188",2016
+A Grande Oportunidade,"18,036",2016
+Ae Dil Hai Mushkil,"24,853",2016
+Swiss Army Man,"129,825",2016
+Negócio das Arábias,"46,556",2016
+Negação,"22,749",2016
+Morgan,"45,308",2016
+Um Reino Unido,"16,723",2016
+Sleight,"9,099",2016
+Max Steel,"20,264",2016
+Norman,"6,410",2016
+Batman: The Killing Joke,"60,056",2016
+Pedido de Amizade,"27,364",2016
+Sete Minutos Depois da Meia-Noite,"91,510",2016
+Midnight Special - Poderes Misteriososs,"82,864",2016
+Exceção à Regra,"11,440",2016
+Heróis da Nação,"20,853",2016
+Miss Sloane - Uma Mulher de Armas,"79,515",2016
+Indignação,"12,450",2016
+Todos Querem o Mesmo,"57,220",2016
+Sing Street,"98,263",2016
+Mei ren yu,"9,855",2016
+A Caçadora e a Águia,"4,114",2016
+Um Traidor dos Nossos,"23,060",2016
+Compadres,"1,114",2016
+Star Wars: Episódio VIII - Os Últimos Jedi,"655,087",2017
+A Bela e o Monstro,"324,252",2017
+Mulher-Maravilha,"682,832",2017
+Jumanji: Bem-Vindos à Selva,"404,296",2017
+Guardiões da Galáxia Vol. 2,"733,528",2017
+Homem-Aranha: Regresso a Casa,"693,874",2017
+It,"580,099",2017
+Thor: Ragnarok,"790,058",2017
+Gru: O Maldisposto 3,"146,010",2017
+Liga da Justiça,"468,667",2017
+Logan,"801,725",2017
+Velocidade Furiosa 8,"246,328",2017
+Coco,"551,695",2017
+Dunquerque,"709,298",2017
+Foge,"654,018",2017
+Lego Batman: O Filme,"165,382",2017
+The Boss Baby,"135,889",2017
+O Grande Showman,"298,430",2017
+Piratas das Caraíbas: Homens Mortos Não Contam Histórias,"331,209",2017
+Kong: Ilha da Caveira,"334,805",2017
+Carros 3,"112,889",2017
+Planeta dos Macacos: A Guerra,"270,824",2017
+Wonder - Encantador,"172,761",2017
+Transformers: O Último Cavaleiro,"163,528",2017
+Viagem de Meninas,"39,463",2017
+As Cinquenta Sombras Mais Negras,"107,759",2017
+Novos Amigos Improváveis,"60,411",2017
+Baby Driver - Alta Velocidade,"580,107",2017
+Um Ritmo Perfeito 3,"69,201",2017
+Pai Há Só Um... Ou Dois,"79,027",2017
+Um Crime no Expresso do Oriente,"273,316",2017
+Annabelle 2: A Criação do Mal,"144,118",2017
+Kingsman: O Círculo Dourado,"349,099",2017
+Blade Runner 2049,"621,209",2017
+John Wick 2,"489,524",2017
+Emoji: O Filme,"68,731",2017
+Power Rangers,"112,097",2017
+Ferdinando,"61,261",2017
+The Post,"157,985",2017
+A Múmia,"199,159",2017
+O Guarda-Costas e o Assassino,"240,890",2017
+Alien: Covenant,"293,483",2017
+Capitão Cuecas - O Filme,"31,033",2017
+Mães à Solta 2,"55,385",2017
+Juntos Para Sempre,"76,468",2017
+A Forma da Água,"436,492",2017
+Lego Ninjago: O Filme,"28,706",2017
+Baywatch: Marés Vivas,"196,245",2017
+A Cabana,"38,056",2017
+A Hora Mais Negra,"212,889",2017
+Feliz Dia Para Morrer,"154,630",2017
+Três Cartazes à Beira da Estrada,"534,655",2017
+Atomic Blonde - Agente Especial,"201,672",2017
+Barry Seal: Traficante Americano,"197,484",2017
+Jai Lava Kusa,"6,310",2017
+A Torre Negra,"143,154",2017
+Lady Bird,"312,608",2017
+Tyler Perry's Boo 2! A Madea Halloween,"5,066",2017
+Olha Que Duas,"36,799",2017
+Smurfs: A Aldeia Perdida,"23,224",2017
+Ladrões Com Muito Estilo,"89,425",2017
+All Eyez on Me,"24,263",2017
+xXx: O Regresso de Xander Cage,"95,440",2017
+47 Metros de Terror,"59,314",2017
+Amor de Improviso,"140,513",2017
+Valerian e a Cidade dos Mil Planetas,"191,458",2017
+Be Apart of a Legacy,$41.00M,2017
+A Estrela de Natal,"8,791",2017
+Ghost in the Shell - Agente do Futuro,"222,982",2017
+Paddington 2,"87,080",2017
+Rei Artur: A Lenda da Espada,"226,020",2017
+Jigsaw: O Legado de Saw,"85,267",2017
+Assassino Americano,"86,601",2017
+O Estrangeiro,"119,700",2017
+Amor Acima de Tudo,"41,321",2017
+Wind River,"266,932",2017
+Geostorm - Ameaça Global,"114,264",2017
+Luta de Profs,"44,722",2017
+How to Be a Latin Lover,"17,068",2017
+Rapto,"38,412",2017
+A Montanha Entre Nós,"78,878",2017
+Vida Inteligente,"243,767",2017
+"Eu, Tonya","232,997",2017
+Hostis,"91,638",2017
+Jogo da Alta-Roda,"181,593",2017
+O Gangue do Parque 2,"7,056",2017
+Rings,"42,288",2017
+Sorte à Logan,"157,072",2017
+Uma Casa Cheia,"34,138",2017
+A Casa da Sorte,"46,029",2017
+Todo o Dinheiro do Mundo,"88,565",2017
+Mente Brilhante,"125,251",2017
+Pequena Grande Vida,"116,524",2017
+O Nome do Medo,"25,340",2017
+Vitória & Abdul,"37,424",2017
+Girls Night,"54,549",2017
+My Little Pony: The Movie - A Magia do Póneis,"7,609",2017
+Um Desastre de Artista,"160,499",2017
+Linha Fantasma,"140,104",2017
+Nos Limites da Lei,"33,654",2017
+Diário de Um Banana: Uma Longa Viagem,"10,253",2017
+O Círculo,"97,376",2017
+Baahubali 2: The Conclusion,"108,919",2017
+Patrulha de Doidos,"49,930",2017
+Só Para Bravos,"74,344",2017
+Chama-me Pelo Teu Nome,"296,151",2017
+Mãe!,"240,065",2017
+Bastardos,"20,632",2017
+O Jardim da Esperança,"45,353",2017
+O Segredo dos Kennedy,"14,217",2017
+O Castelo de Vidro,"37,100",2017
+Linha Mortal,"49,606",2017
+Detroit,"55,014",2017
+The Case for Christ,"9,838",2017
+Sete Desejos,"21,951",2017
+Borg vs. McEnroe,"33,627",2017
+Ele Vem à Noite,"99,039",2017
+Megan Leavey,"25,417",2017
+Battle of the Sexes,"58,233",2017
+Antes de Vos Deixar,"55,200",2017
+ Markiplier,42,2017
+"Roman J. Israel, Esq.","41,322",2017
+Unforgettable,"16,478",2017
+O Estranho Que Nós Amamos,"60,117",2017
+Marshall,"25,851",2017
+A Mulher,"41,888",2017
+Marcas de Guerra,"15,093",2017
+A Morte de Estaline,"109,150",2017
+O Espaço Que Nos Une,"55,135",2017
+Let There Be Light,"3,102",2017
+Beatriz at Dinner,"10,615",2017
+A Paixão de Van Gogh,"61,284",2017
+O Boneco de Neve,"69,448",2017
+Tão Diferentes Quanto Eu,"8,465",2017
+Entre Rivais,"7,951",2017
+Ezra,"2,957",2017
+Urfin Dzhyus i ego derevyannye soldaty,343,2017
+The Florida Project,"122,441",2017
+Todos os Santos,"1,868",2017
+Suburbicon,"46,233",2017
+O Homem Que Inventou o Natal,"17,586",2017
+Bitter Harvest,"4,082",2017
+Tiger Zinda Hai,"31,477",2017
+O Livro de Henry,"28,839",2017
+Stronger - A Força de Viver,"48,071",2017
+The Hero,"10,195",2017
+Mesa 19,"30,212",2017
+Esquecidos de Phoenix,"6,766",2017
+Uma Sequela Inconveniente: A Verdade ao Poder,"8,280",2017
+Disobedience,"34,020",2017
+Til Death Do Us Part,"1,453",2017
+No Coração da Escuridão,"60,429",2017
+Raees,"48,167",2017
+The Leisure Seeker,"9,397",2017
+Ingrid Goes West,"46,567",2017
+The Oscar Nominated Short Films 2017: Animation,206,2017
+Thoroughbreds,"45,292",2017
+Disney's Newsies: The Broadway Musical,"3,403",2017
+Zhan lang II,"8,648",2017
+Is Genesis History?,"1,680",2017
+My Cousin Rachel,"20,352",2017
+A Question of Faith,"1,153",2017
+Hazlo como hombre,"1,297",2017
+Nunca Estiveste Aqui,"124,371",2017
+A Febre das Tulipas,"22,331",2017
+The Rider,"20,103",2017
+Mary e a Flor da Feiticeira,"15,416",2017
+T2 Trainspotting,"129,807",2017
+Pokémon O Filme - Escolho-te a Ti!,"7,257",2017
+Papillon,"81,634",2017
+O Sacrifício de Um Cervo Sagrado,"168,135",2017
+The Resurrection of Gavin Stone,"2,436",2017
+Jeepers Creepers 3,"23,429",2017
+The Lovers,"4,038",2017
+A Vida de Brad,"18,723",2017
+Good Time,"133,021",2017
+Uma Mulher Fantástica,"26,766",2017
+Badrinath Ki Dulhania,"13,077",2017
+Indian Horse,"2,486",2017
+Todos queremos a alguien,"4,317",2017
+Entre Os Deuses - Os Dois Mundos,"17,579",2017
+Fang hua,"3,334",2017
+Toilet - Ek Prem Katha,"22,559",2017
+O Muro,"29,374",2017
+In Memoriam,"8,654",2017
+A História de Winnie the Pooh,"29,005",2017
+Jane,"5,413",2017
+Menashe,"2,424",2017
+Slamma Jamma,"1,665",2017
+Pequenos Prazeres,"24,659",2017
+Jolly LLB 2,"26,504",2017
+História de Um Fantasma,"76,600",2017
+Professor Marston e as Mulheres Maravilha,"27,815",2017
+The Stray,"1,184",2017
+Taeksi woonjunsa,"28,459",2017
+O Quadrado,"73,774",2017
+Genesis: Paradise Lost,758,2017
+Judwaa 2,"11,315",2017
+Acerta o Passo,"7,020",2017
+Roda Gigante,"30,101",2017
+Black Panther,"813,461",2018
+Vingadores: Guerra do Infinito,"1,151,458",2018
+The Incredibles 2: Os Super-Heróis,"316,721",2018
+Mundo Jurássico: Reino Caído,"332,947",2018
+Aquaman,"500,083",2018
+Deadpool 2,"617,245",2018
+Grinch,"79,407",2018
+Mission: Impossible - Fallout,"363,231",2018
+Homem-Formiga e a Vespa,"433,400",2018
+Bohemian Rhapsody,"566,434",2018
+Assim Nasce Uma Estrela,"404,406",2018
+Han Solo: Uma História de Star Wars,"366,569",2018
+Venom,"516,978",2018
+Ralph vs Internet,"174,247",2018
+Homem-Aranha: No Universo Aranha,"625,927",2018
+Um Lugar Silencioso,"560,293",2018
+Asiáticos Doidos e Ricos,"183,276",2018
+O Regresso de Mary Poppins,"92,497",2018
+Hotel Transylvania 3: Umas Férias Monstruosas,"80,856",2018
+Monstros Fantásticos: Os Crimes de Grindelwald,"298,133",2018
+Halloween,"162,633",2018
+Meg: Tubarão Gigante,"194,822",2018
+Ocean's 8,"233,340",2018
+Ready Player One: Jogador 1,"463,236",2018
+Bumblebee,"181,511",2018
+Mamma Mia! Here We Go Again,"103,462",2018
+The Nun - A Freira Maldita,"152,321",2018
+Creed II,"149,477",2018
+Peter Rabbit,"46,183",2018
+Correio de Droga,"146,878",2018
+The Equalizer 2 - A Vingança,"174,568",2018
+Rampage - Fora de Controlo,"179,171",2018
+A Wrinkle in Time,"46,820",2018
+As Cinquenta Sombras Livre,"70,414",2018
+Christopher Robin,"81,989",2018
+Green Book - Um Guia Para a Vida,"532,876",2018
+Só Eu Posso Imaginar,"17,301",2018
+Smallfoot - Uma Aventura Gelada,"41,783",2018
+A Turma da Noite,"43,118",2018
+A Primeira Purga,"67,747",2018
+Noite de Jogo,"248,195",2018
+Do Jeito Que Elas Querem,"31,164",2018
+O Mistério da Casa do Relógio,"53,969",2018
+Arranha-Céus,"129,565",2018
+Insidious: A Última Chave,"67,816",2018
+Família Instantânea,"114,467",2018
+Os Empatas,"82,947",2018
+Batalha do Pacífico: A Revolta,"123,249",2018
+Tomb Raider,"221,694",2018
+Maze Runner: A Cura Mortal,"153,545",2018
+O Quebra-Nozes e os Quatro Reinos,"35,742",2018
+Jogo da Apanhada,"141,879",2018
+Um Pequeno Favor,"157,262",2018
+A Rainha da Festa,"38,524",2018
+O Predador,"139,506",2018
+Pela Borda Fora,"40,281",2018
+Sicario: Guerra de Cartéis,"159,178",2018
+BlacKkKlansman: O Infiltrado,"278,828",2018
+"Sou Sexy, Eu Sei!","56,005",2018
+Vice,"156,155",2018
+A Agente Vermelha,"195,219",2018
+Goosebumps 2: Arrepios no Halloween,"22,653",2018
+Invasão De Domicílio,"16,515",2018
+12 Indomáveis,"88,436",2018
+Covil de Ladrões,"119,264",2018
+O Primeiro Homem na Lua,"196,586",2018
+Hereditário,"351,852",2018
+Acrimony,"9,641",2018
+Gnomeo & Juliet 2: Sherlock Gnomes,"13,430",2018
+Uncle Drew - Uma Equipa de Loucos,"15,316",2018
+Viúvas,"101,749",2018
+Verdade ou Consequência,"60,466",2018
+"Com Amor, Simon","121,614",2018
+Segundo Ato,"29,374",2018
+The Commuter - O Passageiro,"121,618",2018
+15:17 Destino Paris,"34,977",2018
+Mile 22,"84,473",2018
+Alpha,"64,943",2018
+Peppermint,"68,416",2018
+A Favorita,"211,556",2018
+Death Wish: A Vingança,"74,657",2018
+O Espião que me Tramou,"80,987",2018
+Aniquilação,"347,017",2018
+Ilha dos Cães,"182,579",2018
+Nobody's Fool,"7,940",2018
+À Deriva,"59,890",2018
+Robin Hood,"77,447",2018
+Dragon Ball Super: Broly,"30,221",2018
+Super Troopers 2,"27,786",2018
+Holmes & Watson,"38,305",2018
+Slender Man,"36,772",2018
+Teen Titans Go! O Filme,"20,949",2018
+O Ódio Que Semeias,"38,778",2018
+In Like Flynn,"1,319",2018
+Pesquisa Obsessiva,"175,326",2018
+A Maldição da Casa Winchester,"35,817",2018
+Uma Luta Desigual,"36,930",2018
+The Strangers - Predadores da Noite,"33,077",2018
+White Boy Rick,"40,855",2018
+Won't You Be My Neighbor?,"26,583",2018
+Operação Overlord,"103,889",2018
+Proud Mary - A Profissional,"10,388",2018
+Pela Hora da Morte,"29,657",2018
+Com Estilo,"7,453",2018
+Eles Não Envelhecerão,"37,099",2018
+Sete Estranhos no El Royale,"158,585",2018
+Cães à Solta,"4,947",2018
+Operação Final,"46,405",2018
+"Paulo, Apóstolo de Cristo","9,397",2018
+Free Solo,"73,826",2018
+Summer '03,"3,754",2018
+Desculpe Incomodar,"85,180",2018
+"Maria, Rainha dos Escoceses","53,482",2018
+Forever My Girl,"20,107",2018
+Engenhos Mortíferos,"134,217",2018
+Hunter Killer,"68,687",2018
+Se Esta Rua Falasse,"51,297",2018
+A Rapariga Apanhada na Teia de Aranha,"50,074",2018
+A Possessão de Hanna Grace,"24,676",2018
+RBG,"14,776",2018
+Oitavo Ano,"80,295",2018
+Mentes poderosas,"34,591",2018
+Three Identical Strangers,"37,877",2018
+Upgrade: Máquina Assassina,"197,546",2018
+Padmaavat,"35,230",2018
+O Cavalheiro com Arma,"48,494",2018
+Hell Fest - Parque dos Horrores,"18,467",2018
+Bem-Vindos a Marwen,"25,225",2018
+Greta - Viúva Solitária,"36,592",2018
+Uma época para vencer,"6,003",2018
+Hotel Mumbai,"68,112",2018
+Amar-te à Meia-Noite,"34,421",2018
+Tully,"61,764",2018
+Traffik,"21,054",2018
+Memórias de uma Falsificadora Literária,"54,797",2018
+Desprotegido: Dark Web,"36,308",2018
+A Idade da Pedra,"23,161",2018
+Higher Power,"3,708",2018
+Sanju,"57,954",2018
+Distúrbio,"48,681",2018
+We Have Always Lived in the Castle,"8,796",2018
+Beautiful Boy,"90,423",2018
+Anos 90,"73,875",2018
+A Pequena Sereia,"9,411",2018
+Dog Days - Vidas de Cão,"5,337",2018
+Boy Erased: O Rapaz Que Sou,"40,937",2018
+Artemis: Hotel de Bandidos,"56,655",2018
+A-X-L: Uma Amizade Extraordinária,"12,846",2018
+Run the Race,"1,664",2018
+Fahrenheit 11/9,"20,061",2018
+Unbroken: Path to Redemption,"3,386",2018
+Categoria Cinco,"21,813",2018
+A Cada Dia,"22,926",2018
+Leave No Trace,"63,310",2018
+Death of a Nation,"7,170",2018
+My Hero Academia: 2 Heróis,"11,817",2018
+God's Not Dead: A Light in Darkness,"4,328",2018
+Kin - Arma Letal,"18,079",2018
+Gloria Bell,"12,485",2018
+2.0,"26,020",2018
+Bucha e Estica,"39,078",2018
+Colette,"25,567",2018
+Simmba,"21,527",2018
+Action Point,"11,992",2018
+Beirute - O Resgate,"23,825",2018
+Gringo,"31,509",2018
+Sansão,"4,838",2018
+Cold War - Guerra Fria,"60,176",2018
+Amazing Grace,"4,967",2018
+Johnny English Volta a Atacar,"80,078",2018
+The Biggest Little Farm,"8,492",2018
+Gotti - Um Verdadeiro Padrinho Americano,"16,534",2018
+Blindspotting - À Queima-Roupa,"32,041",2018
+Brian Banks,"7,970",2018
+Burn the Stage: The Movie,"4,082",2018
+Ya veremos,744,2018
+Isto é Vida!,"23,618",2018
+Réplicas,"40,801",2018
+Mr. X,12,2018
+The Assassin's Code,"1,314",2018
+O Ben Está de Volta,"23,363",2018
+Gosnell: The Trial of America's Biggest Serial Killer,"4,696",2018
+Bharat Ane Nenu,"18,113",2018
+Indivisible,"1,327",2018
+Rangasthalam,"26,574",2018
+BTS World Tour: Love Yourself in Seoul,"2,000",2018
+The Oscar Nominated Short Films 2018: Live Action,212,2018
+"Juliet, Nua","23,977",2018
+Mau Samaritano,"25,191",2018
+Echo in the Canyon,"3,786",2018
+Shoplifters: Uma Família de Pequenos Ladrões,"82,203",2018
+Operação Entebbe,"16,838",2018
+Os Irmãos Sisters,"68,341",2018
+Sgt. Stubby: An American Hero,"2,460",2018
+Whitney,"7,722",2018
+Maiden,"2,478",2018
+Pandas,719,2018
+American Animals: O Assalto,"47,719",2018
+God Bless the Broken Road,"1,189",2018
+La Boda de Valentina,731,2018
+Vingadores: Endgame,"1,210,255",2019
+O Rei Leão,"258,491",2019
+Star Wars: Episódio IX - A Ascensão de Skywalker,"475,174",2019
+Frozen II: O Reino do Gelo,"185,206",2019
+Toy Story 4,"268,014",2019
+Captain Marvel (Capitão Marvel),"589,567",2019
+Homem-Aranha: Longe de Casa,"529,972",2019
+Aladdin,"280,830",2019
+Joker,"1,394,834",2019
+Jumanji: O Nível Seguinte,"269,458",2019
+It Capítulo 2,"286,851",2019
+Nós,"321,850",2019
+Velocidade Furiosa: Hobbs & Shaw,"227,504",2019
+John Wick 3 - Implacável,"403,763",2019
+Knives Out: Todos São Suspeitos,"738,816",2019
+Como Treinares o Teu Dragão 3: O Mundo Secreto,"142,087",2019
+1917,"639,298",2019
+A Vida Secreta dos Nossos Bichos 2,"66,464",2019
+Pokémon: Detetive Pikachu,"176,453",2019
+Era Uma Vez em... Hollywood,"797,646",2019
+Shazam!,"371,708",2019
+Le Mans '66: O Duelo,"434,136",2019
+Dumbo,"80,249",2019
+Malévola - Dona do Mal,"113,604",2019
+Glass,"257,620",2019
+Godzilla II: Rei dos Monstros,"194,143",2019
+Mulherzinhas,"227,441",2019
+O Filme Lego 2,"73,419",2019
+Ousadas e Golpistas,"104,910",2019
+A Família Addams,"43,296",2019
+Downton Abbey,"60,469",2019
+Rocketman,"186,165",2019
+Alita: Anjo de Combate,"283,583",2019
+Tudo Bons Meninos,"78,496",2019
+MIB: Homens de Negro - Força Internacional,"141,598",2019
+Annabelle 3: O Regresso A Casa,"82,219",2019
+Yesterday,"161,100",2019
+A Madea Family Funeral,"4,816",2019
+Zombieland: Tiro Duplo,"192,378",2019
+Assalto ao Poder,"105,462",2019
+Histórias Assustadoras Para Contar no Escuro,"81,628",2019
+Armados em Espiões,"54,025",2019
+X-Men: Fénix Negra,"197,658",2019
+Exterminador Implacável - Destino Sombrio,"187,424",2019
+Um Amigo Extraordinário,"85,529",2019
+Abominável,"41,080",2019
+Dora e a Cidade Perdida,"33,040",2019
+Escape Room,"135,063",2019
+Midway,"91,246",2019
+A Maldição da Mulher Que Chora,"54,473",2019
+Cemitério de Animais,"95,558",2019
+O Que os Homens Querem,"30,202",2019
+Parasitas,"883,388",2019
+Ad Astra,"251,789",2019
+Não é Tão Romântico,"72,450",2019
+Projeto Gemini,"117,875",2019
+A Distância Entre Nós,"77,143",2019
+Ma,"56,274",2019
+Parque das Maravilhas,"12,434",2019
+Rambo - A Última Batalha,"105,392",2019
+De Volta a Casa,"19,388",2019
+Angry Birds 2 - O Filme,"33,193",2019
+Um Ato de Fé,"10,624",2019
+A Pequena Chefe,"14,212",2019
+Rastejantes,"90,228",2019
+The Gentlemen: Senhores do Crime,"369,270",2019
+O Intruso,"19,112",2019
+As Vigaristas,"63,511",2019
+Last Christmas,"84,496",2019
+Jojo Rabbit,"419,755",2019
+Vingança Perfeita,"73,391",2019
+Doutor Sono,"206,065",2019
+Seduz-me Se És Capaz,"116,742",2019
+O Boneco Diabólico,"54,647",2019
+Ready or Not - O Ritual,"169,393",2019
+21 Pontes,"71,310",2019
+Feliz Dia Para Morrer 2,"81,138",2019
+Midsommar - O Ritual,"367,144",2019
+Superação,"5,398",2019
+A Vida de um Campeão,"35,439",2019
+Uma Família no Ringue,"85,421",2019
+Juntos Para Sempre 2,"27,131",2019
+Booksmart: Inteligentes e Rebeldes,"126,567",2019
+Stuber,"50,102",2019
+47 Metros: Medo Profundo,"29,673",2019
+Black and Blue - Encurralada,"25,508",2019
+Hellboy,"95,124",2019
+Shaft,"56,996",2019
+UglyDolls,"7,536",2019
+Unplanned,"14,480",2019
+Os Anjos de Charlie,"77,510",2019
+Brightburn - O Filho do Mal,"104,059",2019
+A Despedida,"68,207",2019
+The Kid Who Would Be King,"18,068",2019
+Mr. Link,"27,908",2019
+Programa da Noite,"39,750",2019
+Miss Bala,"12,285",2019
+O Prodígio,"27,687",2019
+Tudo é Possível,"6,977",2019
+O Falcão Manteiga de Amendoim,"97,338",2019
+After,"61,344",2019
+The Kitchen - Rainhas do Crime,"22,417",2019
+Blinded by the Light - O Poder da Música,"26,587",2019
+Os Melhores Inimigos,"18,539",2019
+No manches Frida 2,"1,098",2019
+"Onde Estás, Bernadette?","23,829",2019
+Apollo 11,"26,623",2019
+Serenidade,"43,681",2019
+Stranger in the Night,162,2019
+O Tempo Contigo,"50,407",2019
+Anna - Assassina Profissional,"88,872",2019
+Penguins,"1,810",2019
+O Irlandês,"411,792",2019
+Os Mortos Não Morrem,"82,863",2019
+Captive State - Cercados,"56,287",2019
+Liu lang di qiu,"34,603",2019
+Gully Boy,"42,012",2019
+O Pintassilgo,"25,668",2019
+Mustang: Alma Indomável,"13,993",2019
+O Sol Também é Uma Estrela,"7,880",2019
+Bring the Soul: The Movie,"2,637",2019
+Don't Let Go,"12,120",2019
+Pavarotti,"3,714",2019
+Tolkien,"44,422",2019
+Menteur,999,2019
+The Last Black Man in San Francisco,"20,990",2019
+Uri: The Surgical Strike,"68,905",2019
+Yip Man 4,"35,253",2019
+Retrato da Rapariga em Chamas,"101,929",2019
+Ne Zha zhi mo tong jiang shi,"8,187",2019
+Mission Mangal,"17,030",2019
+The Oscar Nominated Short Films 2019: Documentary,9,2019
+Chhalawa,929,2019
+The Beach Bum: A Vida Numa Boa,"24,021",2019
+Bharat,"31,844",2019
+Kalank,"16,468",2019
+Saaho,"21,629",2019
+A Arte da Autodefesa,"39,713",2019
+Wo he wo de zu guo,"2,113",2019
+Super 30,"34,807",2019
+Tod@s caen,657,2019
+Total Dhamaal,"7,495",2019
+Marriage Story,"331,173",2019
+Badla,"29,841",2019
+Luce,"14,559",2019
+The Other Side of Heaven 2: Fire of Faith,441,2019
+O Dia a Seguir,"22,872",2019
+Geukhanjikeob,"12,088",2019
+Billy the Kid - A Lenda,"9,184",2019
+Um Passado em Segredo,"8,268",2019
+"Hello, Love, Goodbye","1,216",2019
+One Piece: Stampede - O Filme,"7,320",2019
+Emanuel,303,2019
+Kingdom Men Rising,54,2019
+Ek Ladki Ko Dekha Toh Aisa Laga,"4,652",2019
+Luka Chuppi,"12,742",2019
+The Souvenir,"13,902",2019
+Noah,40,2019
+Marianne & Leonard: Words of Love,"2,158",2019
+RUSH: Cinema Strangiato 2019,139,2019
+El Coyote,157,2019
+Chhichhore,"59,516",2019
+Toni Morrison: The Pieces I Am,873,2019
+The Roblox Movie,54,2019
+Between Me and My Mind,262,2019
+Honeyland - A Terra do Mel,"18,803",2019
+Chonda Pierce: Unashamed,20,2019
+Student of the Year 2,"21,753",2019
+Joni 75: A Birthday Celebration,56,2019
+A Guerra do Soldado Bennett,995,2019
+The Fighting Preacher,548,2019
+Alone/Together,541,2019
+Zhong guo ji zhang,"2,340",2019
+David Crosby: Remember My Name,"1,358",2019
+The Pilgrim's Progress,817,2019
+So duk 2: Tin dei duei kuet,"1,430",2019
+The Least of These: The Graham Staines Story,937,2019
+Extra Innings,157,2019
+Hai Phuong,"5,426",2019
+"DCI 2019: Big, Loud & Live 16",$0.55M,2019
+Grateful Dead: Meet-Up at the Movies,8,2019
+La femme de mon frère,"1,133",2019
+Code Geass: Fukkatsu No Lelouch,"3,221",2019
+The Spy Behind Home Plate,114,2019
+Batla House,"12,308",2019
+Pan deng zhe,"1,418",2019
+Los Domirriqueños 2,50,2019
+CatVideoFest 2019,7,2019
+Gary Come Home,$0.45M,2019
+O Farol,"237,660",2019
+Eksiteu,"7,116",2019
+De De Pyaar De,"8,823",2019
+Salve Satanás?,"7,574",2019
+Segredos Oficiais,"51,838",2019
+Kinky Boots: The Musical,987,2019
+The Cure: Anniversary 1978-2018 Live in Hyde Park,254,2019
+The Panti Sisters,329,2019
+The Tomorrow Man,"2,171",2019
+Fotografia,"5,616",2019
+#AnneFrank - Vidas Paralelas,"1,723",2019
+Bad Boys Para Sempre,"169,477",2020
+Um Lugar Silencioso 2,"256,921",2020
+Sonic - O Filme,"151,893",2020
+Birds of Prey,"255,028",2020
+As Aventuras do Dr. Dolittle,"68,497",2020
+O Homem Invisível,"242,563",2020
+O Apelo Selvagem,"53,635",2020
+Bora Lá,"161,538",2020
+Os Croods 2: Uma Nova Era,"49,563",2020
+Tenet,"556,929",2020
+Demon Slayer - Kimetsu no Yaiba - O Filme: Comboio Infinito,"67,418",2020
+Mulher-Maravilha 1984,"282,858",2020
+A Ilha da Fantasia,"55,914",2020
+Os Novos Mutantes,"85,793",2020
+Em Fúria,"73,518",2020
+Submersos,"89,853",2020
+Gretel & Hansel,"32,770",2020
+Monster Hunter,"65,006",2020
+Um Último Golpe,"54,972",2020
+O Caminho de Volta,"50,940",2020
+Bloodshot,"82,220",2020
+A Caçada,"122,674",2020
+The Rhythm Section,"19,277",2020
+One Planet: Save It,19,2020
+Top Miami Gun Vice,$3.20M,2020
+After - Depois da Verdade,"35,600",2020
+Scoob!,"28,906",2020
+Busanhaeng 2: Bando,"35,915",2020
+The Serpent,"3,526",2020
+Love and Monsters,"136,737",2020
+Break the Silence: The Movie,"2,129",2020
+Stan the Man,91,2020
+Star Trek: First Frontier,245,2020
+Timescape,$0.50M,2020
+Ava,"60,242",2020
+Ba bai,"6,686",2020
+Jiang Ziya,"2,111",2020
+As Bruxas de Roald Dahl,"44,180",2020
+Era Uma Vez...,"5,524",2020
+Sunrise in Heaven,"1,782",2020
+Wendy,"3,649",2020
+Tulsa,928,2020
+Duo guan,"1,367",2020
+Saving Mbango,48,2020
+Breaking Bread,90,2020
+Our Story,$0.05M,2020
+Dara iz Jasenovca,"81,544",2020
+The Way I See It,"1,880",2020
+Tayo Royalty Toy Review,$0.05M,2020
+Black Wall Street Burning,72,2020
+Limbo,$0.04M,2020
+Aloha Surf Hotel,105,2020
+Unsubscribe,164,2020
+Freak Power: The Ballot or the Bomb,121,2020
+Dream Round,59,2020
+More to Life,43,2020
+Frank and Ava,184,2020
+Jin ji jiu yuan,984,2020
+I Am Fear,"1,143",2020
+Life as a Refugee,$0.01M,2020
+The Cure,$0.01M,2020
+Allagash,"2,605",2020
+Uma Música no Coração,"1,531",2020
+Demasiado Perto do Coração,"2,835",2020
+The Quarry,"3,507",2020
+ Claire RockSmith,$0.00M,2020
+Parallel Policy,$0.00M,2020
+It's Just Us,9,2020
+Blood Stab,7,2020
+ Claire RockSmith,$0.00M,2020
+Bracelet,$0.00M,2020
+Love by Drowning,13,2020
+Tee em el,11,2020
+Cultzone Sports Jules Rimet,$0.00M,2020
+Ala Vaikunthapurramuloo,"22,138",2020
+Pensamento Crítico,"2,515",2020
+Attack of the Living Toys: The Motion Picture,N/A,2020
+Ted Lasso,"305,310",2020
+Ragnarok,"43,590",2020
+Jujutsu Kaisen,"81,843",2020
+Solar Opposites,"28,269",2020
+Sweet Magnolias,"22,969",2020
+Bridgerton,"156,255",2020
+Gambito de Dama,"507,711",2020
+A Grande,"50,550",2020
+Uma Miúda com Potencial,"194,057",2020
+Star Trek: Picard,"90,812",2020
+9-1-1: Lone Star,"19,237",2020
+The Uncanny Counter,"9,314",2020
+Lucy Shimmers and the Prince of Peace,704,2020
+Outer Banks,"72,033",2020
+Mulan,"155,080",2020
+365 Dias,"94,975",2020
+Never Have I Ever,"74,470",2020
+Staged,"8,703",2020
+Star Trek: Lower Decks,"21,734",2020
+Your Honor,"62,292",2020
+Almost Paradise,"5,763",2020
+Normal People,"80,002",2020
+Tyler Rake: Operação de Resgate,"249,696",2020
+Emily in Paris,"110,177",2020
+How to with John Wilson,"11,014",2020
+Sozinha,"24,567",2020
+Alice in Borderland,"88,249",2020
+The Outsider,"90,898",2020
+FBI: Most Wanted,"9,671",2020
+Big Sky,"24,337",2020
+Hunters,"50,955",2020
+Shiva Baby,"27,579",2020
+Upload,"71,652",2020
+Dave,"23,950",2020
+Bye2,76,2020
+Locke & Key,"93,290",2020
+Sempre o Diabo,"145,687",2020
+A Maldição de Bly Manor,"115,961",2020
+Hamilton,"105,349",2020
+Gangs of London,"37,522",2020
+A Velha Guarda,"176,827",2020
+Perry Mason,"27,540",2020
+A Dança da Morte,"28,619",2020
+The Stranger,"55,435",2020
+Snowpiercer,"59,224",2020
+O Pai,"176,048",2020
+Breeders,"6,848",2020
+Warrior Nun,"53,500",2020
+Mythic Quest: Raven's Banquet,"30,187",2020
+Deviam Ter Saído,"23,902",2020
+Soul: Uma Aventura com Alma,"355,373",2020
+The Hardy Boys,"3,173",2020
+Ratched,"65,592",2020
+Missão Greyhound,"106,589",2020
+Host,"35,377",2020
+The Flight Attendant,"60,280",2020
+The Undoing,"100,879",2020
+Tudo Acaba Agora,"95,071",2020
+Enola Holmes,"208,692",2020
+Contra-Ataque,"25,914",2020
+Mais Uma Rodada,"179,996",2020
+Palm Springs,"173,269",2020
+Bill & Ted Salvam o Universo,"51,276",2020
+Sen Çal Kapimi,"13,469",2020
+Amonite,"21,250",2020
+Power Book II: Ghost,"10,029",2020
+Raised by Wolves,"83,173",2020
+Corre!,"89,646",2020
+Greenland - O Último Refúgio,"126,488",2020
+Oscuro deseo,"8,811",2020
+Tehran,"21,690",2020
+Casa da Coruja,"16,879",2020
+Scam 1992: The Harshad Mehta Story,"151,129",2020
+All Creatures Great and Small,"14,317",2020
+"Miss Scarlet, detetive privada","9,223",2020
+Asur: Welcome to Your Dark Side,"62,575",2020
+The Pharmacist,"8,239",2020
+Pieces of a Woman,"53,893",2020
+Fatale,"13,381",2020
+Little Fires Everywhere,"51,447",2020
+Minari,"90,147",2020
+Emma.,"59,298",2020
+Um de Nós,"33,212",2020
+Em Defesa de Jacob,"62,080",2020
+As Novas Feiticeiras,"15,319",2020
+Dracula,"50,797",2020
+Nomadland - Sobreviver na América,"173,733",2020
+McDonald & Dodds,"6,400",2020
+Too Hot to Handle,"14,352",2020
+Sweet Home,"26,297",2020
+The Empty Man,"34,558",2020
+O Segredo do Refúgio,"36,098",2020
+Becky,"21,429",2020
+Freaky - Este Corpo Fica-me a Matar,"67,203",2020
+Kol,"39,543",2020
+"Love, Victor","20,542",2020
+American Pie Presents: Girls' Rules,"9,956",2020
+Os 7 de Chicago,"187,172",2020
+Possessor,"42,377",2020
+Mortal,"10,162",2020
+Festival Eurovisão da Canção: A História dos Fire Saga,"99,415",2020
+Boss Bitch Fight Challenge,"1,412",2020
+It's Okay to Not Be Okay,"29,853",2020
+The Wrong Missy,"43,390",2020
+Devs,"43,957",2020
+Beleza Verdadeira,"11,228",2020
+Industry,"11,595",2020
+Hubie Halloween,"54,823",2020
+The Night House - Segredo Obscuro,"62,247",2020
+Vamos Ser Heróis,"16,375",2020
+The Last Dance,"140,910",2020
+Tudo Pelo Vosso Bem,"139,960",2020
+Most Dangerous Game,"13,718",2020
+De slag om de Schelde,"34,960",2020
+"Borat, o Filme Seguinte: Entrega de Suborno Prodigioso a Regime Americano Para Fazer Benefício à Outrora Gloriosa Nação do Cazaquistão","148,205",2020
+I Am Not Okay with This,"70,602",2020
+Boss Level - O Último Nível,"74,751",2020
+Trolls 2: Tour Mundial,"26,012",2020
+Home Movie: The Princess Bride,"1,714",2020
+The Wilds,"24,136",2020
+Van der Valk,"4,102",2020
+High Fidelity,"14,856",2020
+Spenser: Confidencial,"94,336",2020
+Homem-Aranha: Sem Volta a Casa,"827,397",2021
+Shang-Chi e a Lenda dos Dez Anéis,"413,603",2021
+Venom: Tempo de Carnificina,"246,166",2021
+Viúva Negra,"406,511",2021
+Velocidade Furiosa 9,"153,935",2021
+Eternals (Eternos),"367,880",2021
+Cantar! 2,"78,710",2021
+007: Sem Tempo Para Morrer,"427,507",2021
+Caça-Fantasmas: O Legado,"198,936",2021
+Free Guy: Herói Improvável,"400,617",2021
+Jungle Cruise: A Maldição nos Confins da Selva,"204,063",2021
+Dune - Duna,"711,698",2021
+Godzilla vs. Kong,"224,491",2021
+Encanto,"243,970",2021
+Halloween Mata,"92,989",2021
+O Telefone Negro,"174,175",2021
+Cruella,"250,530",2021
+Space Jam: Uma Nova Era,"77,211",2021
+The Conjuring 3 - A Obra do Diabo,"129,174",2021
+Candyman,"72,075",2021
+Boss Baby 2: Negócios de Família,"20,893",2021
+A Família Addams 2,"14,647",2021
+O Esquadrão Suicida,"384,559",2021
+Raya e o Último Dragão,"163,264",2021
+Casa Gucci,"149,977",2021
+Clifford - O Cão Vermelho,"15,722",2021
+Presos no Tempo,"146,827",2021
+Tom & Jerry,"37,983",2021
+A Purga: Adeus América,"39,985",2021
+Mortal Kombat,"183,794",2021
+Peter Rabbit: Coelho à Solta,"13,643",2021
+Patrulha Pata: O Filme,"7,390",2021
+The King's Man: O Início,"162,490",2021
+Jujutsu Kaisen 0,"27,700",2021
+Nem Respires 2,"67,172",2021
+Um Homem Furioso,"195,516",2021
+Ninguém,"302,737",2021
+Escape Room 2: Sem Saída,"55,286",2021
+Resident Evil: Raccoon City,"59,689",2021
+Maligno,"101,421",2021
+Chaos Walking - O Ruído,"53,769",2021
+O Último Duelo,"170,197",2021
+Marcel the Shell with Shoes On,"21,513",2021
+ Conservative Twins,10,2021
+"Hallelujah: Leonard Cohen, a Journey, a Song","1,126",2021
+Operação: Resgate na Tailândia,"19,021",2021
+Exército dos Mortos,"180,930",2021
+Jathi Ratnalu,"7,827",2021
+Man of God,"3,969",2021
+Shin Evangelion Gekijôban,"12,732",2021
+Unsilenced,509,2021
+ The Jay Walker Show,$0.49M,2021
+Nou fo,"5,581",2021
+Chang jin hu,"3,801",2021
+Ends of the Earth,13,2021
+ The Jay Walker Show,$0.24M,2021
+Os Medos de Rain,"9,057",2021
+Wo he wo de fu bei,500,2021
+Paz pelo Chocolate,809,2021
+Ci sha xiao shuo jia,"3,274",2021
+Xuan ya zhi shang,"2,785",2021
+Godspeed,$0.15M,2021
+Autonomy of A Superhero,$0.13M,2021
+Blinding Lights,$0.11M,2021
+Ni de hun li,395,2021
+Um Susto de Família 2,"1,021",2021
+You Resemble Me,324,2021
+Seeds of Power,$0.05M,2021
+Facing Monsters,80,2021
+Saturday Detention: A VFX Journey,$0.03M,2021
+Hunting Bigfoot,161,2021
+Ren chao xiong yong,976,2021
+Ida Red,"2,114",2021
+The Brezinski Project,88,2021
+Allison's Story,$0.01M,2021
+The Prelude 2021,$0.01M,2021
+The Elevator,330,2021
+Baking Up Love,51,2021
+Hard to do good,$0.00M,2021
+Unlawful Duties,13,2021
+Johnny in Monsterland - The Directors Cut,$0.00M,2021
+Terror Trips,463,2021
+The Rise of Sir Longbottom,96,2021
+Uprise DMV,$0.00M,2021
+Yvngxromani- Japan,$0.00M,2021
+Chompy & the Girls,697,2021
+Gru vs Bobux Man,37,2021
+ Claire RockSmith,$0.00M,2021
+Giving You a Thumbs up for 4 Hours,$0.00M,2021
+ANA (A Nonsensical Anthology),7,2021
+Bob's Object Battle,8,2021
+Project Alderaan,N/A,2021
+Homicídios ao Domicílio,"126,238",2021
+And Just Like That...,"35,620",2021
+Foundation,"76,679",2021
+Invasion,"35,425",2021
+Reservation Dogs,"19,657",2021
+Dopesick,"68,782",2021
+1883,"101,037",2021
+The White Lotus,"183,082",2021
+A Roda do Tempo,"113,628",2021
+Yellowjackets,"74,196",2021
+Cruel Summer,"18,581",2021
+Physical,"11,274",2021
+Invencível,"163,987",2021
+Loki,"353,934",2021
+Joe Pickett,"7,928",2021
+Superman & Lois,"37,807",2021
+The Voyeurs,"26,562",2021
+Fisk,"3,232",2021
+Vacation Friends,"26,013",2021
+The Tower,"4,619",2021
+Heels,"8,445",2021
+Ghosts,"24,366",2021
+Palmer,"40,079",2021
+Annika,"6,672",2021
+Matrix Resurrections,"266,279",2021
+Domina,"5,194",2021
+The Sex Lives of College Girls,"25,770",2021
+Arcane: League of Legends,"240,938",2021
+Mayor of Kingstown,"41,041",2021
+Mushoku-tensei ~Isekai ittara honki dasu~,"15,984",2021
+Squid Game,"495,704",2021
+O Poder do Cão,"186,351",2021
+Shadow and Bone,"108,270",2021
+Abbott Elementary,"28,494",2021
+"Liga da Justiça, de Zack Snyder","422,761",2021
+Não Olhem para Cima,"569,554",2021
+Copshop - Não Fazemos Prisioneiros,"36,065",2021
+O Livro de Boba Fett,"173,858",2021
+Sex/Life,"29,096",2021
+Ginny & Georgia,"75,005",2021
+Midnight Mass,"127,431",2021
+The Upshaws,"3,456",2021
+Aviso Vermelho,"299,198",2021
+Maid,"92,925",2021
+"Crónicas de França do Liberty, Kansas Evening Sun","140,780",2021
+Mare of Easttown,"173,310",2021
+Hanma Baki: Son of Ogre,"3,261",2021
+Star Wars: O Lote Estragado,"45,945",2021
+Walker,"14,044",2021
+A Noite Passada em Soho,"157,620",2021
+Cinderela,"44,583",2021
+Bull,"6,536",2021
+As Inseparáveis,"34,703",2021
+WandaVision,"350,861",2021
+American Horror Stories,"23,654",2021
+A Pior Pessoa do Mundo,"84,800",2021
+A Vida Extraordinária de Louis Wain,"18,106",2021
+Licorice Pizza,"131,826",2021
+No Ritmo do Coração,"151,856",2021
+Swagger,"3,164",2021
+West Side Story,"90,520",2021
+Nine Perfect Strangers,"56,267",2021
+Pleasure,"20,468",2021
+Girl in the Basement,"11,475",2021
+Young Royals,"39,256",2021
+Sweet Tooth,"63,678",2021
+Anos Incríveis,"4,910",2021
+O Depois,"30,061",2021
+Resident Alien,"43,830",2021
+Chucky,"23,633",2021
+Schmigadoon!,"13,579",2021
+Kin,"6,590",2021
+iCarly,"5,728",2021
+Por Trás dos Seus Olhos,"69,763",2021
+Exército de Ladrões,"84,340",2021
+Investigação Criminal: Hawai'i,"8,026",2021
+Todos os Santos de Newark,"59,546",2021
+Dexter: New Blood,"95,530",2021
+Kate,"67,433",2021
+O Culpado,"139,605",2021
+Benedetta,"23,191",2021
+Lioness,230,2021
+FBI: International,"5,498",2021
+Nightmare Alley - Beco das Almas Perdidas,"156,382",2021
+A Guerra do Amanhã,"218,347",2021
+Station Eleven,"31,947",2021
+The Beauty Queen of Jerusalem,"1,428",2021
+Law & Order: Organized Crime,"8,859",2021
+La Brea,"14,519",2021
+The Outlaws,"14,297",2021
+Scenes from a Marriage,"26,253",2021
+Clickbait,"57,574",2021
+Hawkeye - Gavião Arqueiro,"201,390",2021
+E Se...?,"129,680",2021
+As Pequenas Coisas,"114,262",2021
+Luca,"179,865",2021
+Gossip Girl,"13,815",2021
+Lupin,"121,878",2021
+Grace,"6,187",2021
+Dear Evan Hansen,"16,949",2021
+Starstruck,"7,384",2021
+Belfast,"83,031",2021
+Family Law,"1,794",2021
+CSI: Vegas,"8,381",2021
+Big Shot,"5,185",2021
+Fate: The Winx Saga,"53,973",2021
+Hacks,"34,647",2021
+The Equalizer,"15,243",2021
+Top Gun: Maverick,"626,376",2022
+Avatar: O Caminho da Água,"454,394",2022
+Black Panther: Wakanda para Sempre,"283,874",2022
+Doutor Estranho no Multiverso da Loucura,"451,523",2022
+Mundo Jurássico: Domínio,"190,793",2022
+Mínimos 2: A Ascensão de Gru,"78,233",2022
+The Batman,"725,870",2022
+Thor: Amor e Trovão,"376,433",2022
+Sonic 2: O Filme,"78,927",2022
+O Gato das Botas: O Último Desejo,"152,628",2022
+Black Adam,"257,923",2022
+Elvis,"214,863",2022
+Uncharted,"236,211",2022
+Nope,"241,987",2022
+Buzz Lightyear,"117,665",2022
+A Cidade Perdida,"139,474",2022
+Bullet Train: Comboio Bala,"382,624",2022
+Os Mauzões,"51,638",2022
+Monstros Fantásticos: Os Segredos de Dumbledore,"157,619",2022
+M3gan,"120,961",2022
+DC Liga dos Super Pets,"71,558",2022
+A Rapariga Selvagem,"106,076",2022
+Gritos,"144,230",2022
+Morbius,"141,443",2022
+Tudo em Todo o Lado ao Mesmo Tempo,"475,498",2022
+Bilhete Para o Paraíso,"57,786",2022
+A Mulher Rei,"67,087",2022
+Um Homem Chamado Otto,"124,098",2022
+O Amigo Crocodilo,"12,961",2022
+Morte no Nilo,"167,309",2022
+Downton Abbey: Uma Nova Era,"27,599",2022
+O Homem do Norte,"234,997",2022
+A Besta,"36,834",2022
+Ambulância,"86,495",2022
+Moonfall - Rota de Colisão,"92,457",2022
+"RRR: Revolta, Rebelião, Revolução","155,937",2022
+One Piece Film: Red,"14,182",2022
+O Agente das Sombras,"22,167",2022
+Vertigem Mortal,"91,603",2022
+BTS Permission to Dance on Stage - Seoul: Live Viewing,"17,332",2022
+K.G.F: Chapter 2,"142,139",2022
+The Case for Heaven,124,2022
+Pressure,$1.00M,2022
+Beomjoidosi 2,"8,619",2022
+Deep in the Heart: A Texas Wildlife Story,205,2022
+The Loot,$0.40M,2022
+Hawa,"5,901",2022
+Chhalla Mud Ke Nahi Aya,997,2022
+Zhe ge sha shou bu tai leng jing,689,2022
+Chang jin hu zhi shui men qiao,"1,228",2022
+UFC 272: Covington vs Masvidal,54,2022
+Child Services,$0.10M,2022
+Baby Boy of House,$0.10M,2022
+Eternal Spring,"1,637",2022
+American Carnage,"3,364",2022
+Ginna,"1,912",2022
+Silent Night in Algona,61,2022
+[Emotions],$0.06M,2022
+Stardust (Album),$0.04M,2022
+MJ0.6: Summer Vibes,$0.03M,2022
+Gumbo,$0.03M,2022
+Rite of the Shaman,"1,703",2022
+Laleh (Drive),88,2022
+River Road,"2,309",2022
+Chicken Strips: The Trials and Tribulations of Becoming a Garage Band,21,2022
+Maxie,$0.00M,2022
+Kill Devil Hills,$0.00M,2022
+The Rest of Your Life,$0.00M,2022
+Apocalypse Unknown,109,2022
+ The Adam Friedland Show,$0.00M,2022
+ Bob's Object Battle,$0.00M,2022
+The Bear,"144,482",2022
+The Summer I Turned Pretty,"34,174",2022
+Fala Comigo,"29,364",2022
+The Lincoln Lawyer,"56,424",2022
+Star Trek: Strange New Worlds,"51,013",2022
+X,"142,287",2022
+Bleach: Sennen Kessen-hen,"27,591",2022
+Winning Time: The Rise of the Lakers Dynasty,"24,214",2022
+Dark Winds,"12,190",2022
+From,"53,861",2022
+Babylon,"142,185",2022
+House of the Dragon,"339,052",2022
+The Afterparty,"17,586",2022
+Heartstopper,"69,658",2022
+1923,"41,916",2022
+Severance,"168,964",2022
+A Baleia,"174,370",2022
+Killing It,"3,851",2022
+Andor,"146,708",2022
+Wednesday,"331,496",2022
+Reacher,"148,723",2022
+Black Bird,"87,661",2022
+O Senhor dos Anéis: Os Anéis do Poder,"337,379",2022
+Ossos e Tudo,"48,719",2022
+"Não Te Preocupes, Querida","125,954",2022
+O Menu,"345,622",2022
+Tulsa King,"59,512",2022
+The Blackening,"11,109",2022
+Sisu,"53,388",2022
+Slow Horses,"45,437",2022
+Amesterdão,"82,923",2022
+Pearl,"69,283",2022
+Triângulo da Tristeza,"151,900",2022
+The Peripheral,"73,789",2022
+Barbarian,"158,148",2022
+Minx,"11,246",2022
+Sandman: Mestre dos Sonhos,"161,264",2022
+Obi-Wan Kenobi,"214,092",2022
+Aftersun,"72,954",2022
+Corações Marcados,"46,047",2022
+Glass Onion: Um Mistério Knives Out,"408,806",2022
+Fresh,"66,453",2022
+Ela Disse,"33,356",2022
+Foi Assim Que Aconteceu... Com o Teu Pai,"24,192",2022
+Os Fabelmans,"99,961",2022
+Os Espíritos de Inisherin,"224,087",2022
+Bad Sisters,"28,786",2022
+The Confessions of Frannie Langton,840,2022
+Sorri,"138,910",2022
+Bosch: Legacy,"21,386",2022
+The Gilded Age,"27,390",2022
+O Predador: Primeira Presa,"212,724",2022
+O Recruta,"42,077",2022
+The Watcher,"73,700",2022
+The Gray Man - O Agente Oculto,"224,198",2022
+Massacre no Texas,"58,188",2022
+Tár,"80,376",2022
+Guillermo del Toro's Cabinet of Curiosities,"51,759",2022
+The Terminal List,"100,979",2022
+O Peso Insuportável de Um Enorme Talento,"133,667",2022
+Black Snow,"4,876",2022
+A Oeste Nada de Novo,"220,142",2022
+The Offer,"35,261",2022
+Halo,"69,212",2022
+Weird: The Al Yankovic Story,"33,581",2022
+O Velho,"44,797",2022
+Peacemaker,"126,077",2022
+Inside Man,"32,571",2022
+Terrifier 2 - O Regresso,"39,467",2022
+Os Olhos de Allan Poe,"113,169",2022
+The Reunion,412,2022
+Bodies Bodies Bodies,"56,544",2022
+Our Flag Means Death,"32,252",2022
+Corner Office,"2,621",2022
+Vikings: Valhalla,"52,905",2022
+Jerry & Marge Go Large,"19,452",2022
+Em Águas Profundas,"52,725",2022
+Quantum Leap,"8,851",2022
+Skinamarink,"11,683",2022
+The Stranger,"23,299",2022
+This Fool,"3,532",2022
+Viver,"26,046",2022
+Day Shift,"85,555",2022
+1899,"101,656",2022
+The Legend of Vox Machina,"36,569",2022
+DAHMER - Monstro: A história de Jeffrey Dahmer,"144,542",2022
+A Voz das Mulheres,"34,249",2022
+Chainsaw Man,"42,919",2022
+A League of Their Own,"24,101",2022
+"Matilda, de Roald Dahl: o Musical","25,692",2022
+Becoming Elizabeth,"3,268",2022
+Below Deck Down Under,882,2022
+Blonde,"68,140",2022
+Decisão de Partir,"46,882",2022
+Moon Knight: Cavaleiro da Lua,"252,372",2022
+She-Hulk: A Advogada,"182,131",2022
+Três Mil Anos de Desejo,"53,057",2022
+The Midnight Club,"29,520",2022
+The Mistress,389,2022
+SAS Rogue Heroes,"18,848",2022
+Vengeance,"30,253",2022
+"Querida, Alice","7,880",2022
+The First Slam Dunk,"5,136",2022
+Influencer,"7,460",2022
+Suits,633,2022
+Tales of the Jedi,"30,206",2022
+The Wonder,"40,165",2022
+Deo geullori,"21,122",2022
+O Amante de Lady Chatterley,"20,460",2022
+Power Book IV: Force,"7,028",2022
+Watcher,"35,804",2022
+Crimes do Futuro,"37,187",2022
+Samaritan,"51,955",2022
+O Convite,"27,790",2022
+Em Nome do Céu,"31,258",2022
+Ruído Branco,"41,222",2022
+Vejam Como Eles Correm,"58,560",2022
+The Witcher: Blood Origin,"42,844",2022
+The Dropout: A História de uma Fraude,"31,813",2022
+Fleishman em Apuros,"13,749",2022
+Claim to Fame,588,2022
+Men,"54,436",2022
+Close,"27,388",2022
+Candy,"21,691",2022
+Guan yu wo han gui bian cheng jia ren de na jian shi,"3,003",2022
+Suzume,"25,474",2022
+Fora do Alcance,"30,690",2022
+Treason,"20,706",2022
+Lou,"31,260",2022
