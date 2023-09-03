@@ -7,7 +7,7 @@ data_frame = pd.DataFrame()
 for year in range(2000, 2023, 1):
     print(year)
     base_url = f"https://www.imdb.com/search/title/?release_date={year}-01-01,{year}-12-31&sort=num_votes,desc"
-    movies = fetch_all_imdb_movies(base_url, 3000)
+    movies = fetch_all_imdb_movies(base_url, 10000)
     movies = pd.DataFrame(movies)
     movies["year"] = year
     data_frame = pd.concat([data_frame, movies]).reset_index(drop=True)
