@@ -8,7 +8,6 @@ from imdb_movie_analysis.scraping import (
     parse_imdb_movies_html,
 )
 
-
 IMDB_PAGE = """
 <div class="lister-item mode-advanced">
   <div class="lister-item-content">
@@ -34,7 +33,10 @@ IMDB_PAGE_WITHOUT_NUMERICS = """
 
 BOX_OFFICE_PAGE = """
 <table>
-  <tr><th>Rank</th><th>Title</th><th>Worldwide</th><th>Domestic</th></tr>\n  <tr><th>%</th><th>Foreign</th></tr>
+  <tr>
+    <th>Rank</th><th>Title</th><th>Worldwide</th>
+    <th>Domestic</th><th>%</th><th>Foreign</th>
+  </tr>
   <tr><td>1</td><td>Film A</td><td>$100</td><td>$60</td><td>60%</td><td>$40</td></tr>
   <tr><td>malformed</td></tr>
 </table>
