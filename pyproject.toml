@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Reproducible analysis of IMDb movie metadata and box-office data."
 authors = ["Diogo Ribeiro"]
 license = "MIT"
-package-mode = false
+packages = [{ include = "imdb_movie_analysis", from = "src" }]
 
 [tool.poetry.dependencies]
 python = ">=3.12,<3.15"
