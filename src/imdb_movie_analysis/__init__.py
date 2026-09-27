@@ -25,7 +25,7 @@ __all__ = [
     "fetch_box_office_data",
     "normalize_missing_currency",
     "parse_box_office_html",
+    "parse_gross_usd",
     "parse_imdb_gross_html",
     "parse_imdb_movies_html",
-    "parse_gross_usd",
 ]
