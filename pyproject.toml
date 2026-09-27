@@ -6,6 +6,9 @@ authors = ["Diogo Ribeiro"]
 license = "MIT"
 packages = [{ include = "imdb_movie_analysis", from = "src" }]
 
+[tool.poetry.scripts]
+imdb-movie-analysis = "imdb_movie_analysis.cli:main"
+
 [tool.poetry.dependencies]
 python = ">=3.12,<3.15"
 beautifulsoup4 = ">=4.12,<5.0"
