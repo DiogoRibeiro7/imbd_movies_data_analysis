@@ -7,7 +7,6 @@ from imdb_movie_analysis.cleaning import (
     normalize_missing_currency,
     parse_gross_usd,
 )
-
 from imdb_movie_analysis.scraping import (
     fetch_all_imdb_gross,
     fetch_all_imdb_movies,
