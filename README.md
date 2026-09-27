@@ -56,6 +56,15 @@ Start JupyterLab with:
 poetry run jupyter lab
 ```
 
+Fresh data collection is explicit and writes outside the historical root snapshots:
+
+```bash
+poetry run imdb-movie-analysis imdb --start-year 2020 --end-year 2022
+poetry run imdb-movie-analysis box-office --start-year 2020 --end-year 2022
+```
+
+By default, generated files are written under `data/generated/`.
+
 ## Data provenance
 
 The repository contains data originally collected from:
